@@ -1,3 +1,28 @@
+添加 Action Secrets 和 Variables 如下：
+
+Secrets
+
+`DEPENDABOT_TOKEN` 你的某个 github-token
+
+`GIT_EMAIL` eg: `johndoe@example.com`
+
+`GIT_NAME` eg: `johndoe`
+
+`OPENAI_API_BASE` eg:  `https://example.com/v1/chat/completions`
+
+`OPENAI_API_KEY`
+
+
+Variables
+
+`READ_LIST` eg: `cs.RO,cs.CV,cs.AI`
+
+`REPO_URL` eg: `https://github.com/chrunx/cn-chat-arxiv`
+
+`OPENAI_API_MODEL` eg: `gpt-4o-mini`
+
+---
+
 # 利用ChatGPT实现中文Arxiv论文的快速阅读
 
 可以直接看每个子项目的markdown文件（例如人工智能领域是cs.AI.md）
@@ -57,7 +82,6 @@ valid arxiv cs classes are:
 - DC, DL, DM, DS, ET, FL, GL, GR, GT, HC,
 - IR, IT, LG, LO, MA, MM, MS, NA, NE, NI,
 - OH, OS, PF, PL, RO, SC, SD, SE, SI, SY
-
 - AI: Artificial Intelligence
 - AR: Hardware Architecture
 - CC: Computational Complexity
