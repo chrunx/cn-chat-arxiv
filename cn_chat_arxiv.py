@@ -263,7 +263,7 @@ Abstract: {description_text}'''
 
     print(f'{len(to_call_chat)} paper need to chat')
     if len(to_call_chat) > 0:
-        with ProcessPool(max_workers=min(len(to_call_chat), 32)) as pool:
+        with ProcessPool(max_workers=min(len(to_call_chat), 5)) as pool:
             futures = []
             for ret in to_call_chat:
                 future = pool.schedule(call_chat, [ret['context']], timeout=300)
@@ -302,9 +302,6 @@ Abstract: {description_text}'''
 
 
 if __name__ == '__main__':
-    cs = '''AI,CL,LG,IR'''.split(',')
-    for c in cs:
-        chat_arxiv(f'cs.{c}')
-    others = '''econ,q-fin,stat.ML'''.split(',')
-    for c in others:
+    readlist = os.environ.get('READ_LIST').split(',')
+    for c in readlist:
         chat_arxiv(c)
