@@ -21,6 +21,10 @@ jobs:
     - name: download
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        OPENAI_API_BASE: ${{ secrets.OPENAI_API_BASE }}
+        READ_LIST: ${{ vars.READ_LIST }}
+        REPO_URL: ${{ vars.REPO_URL }}
+        OPENAI_API_MODEL: ${{ vars.OPENAI_API_MODEL }}
       run: |
         python cn_chat_arxiv.py
     - name: Create local changes
@@ -28,8 +32,8 @@ jobs:
         git add .
     - name: Commit files
       run: |
-        git config --local user.email "mail@qhduan.com"
-        git config --local user.name "qhduan"
+        git config --local user.email "${{ secrets.GIT_EMAIL }}"
+        git config --local user.name "${{ secrets.GIT_NAME }}"
         git commit -m "Add changes" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
