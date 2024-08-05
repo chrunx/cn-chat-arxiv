@@ -3,69 +3,86 @@
 | Ref | Title | Summary |
 | --- | --- | --- |
 | [^1] | [Talk Less, Interact Better: Evaluating In-context Conversational Adaptation in Multimodal LLMs](https://arxiv.org/abs/2408.01417) | "我们的研究揭示了多模态语言模型在对话过程中缺乏自适应和形成即兴约定的能力，这些能力是沟通效率提高的关键。" |
-| [^2] | [Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification](https://arxiv.org/abs/2408.01372) | 本文提出了一种新的基于深度可分离卷积操作的空间光谱形态鳗鱼模型，该模型能够生成并增强空间光谱 token，从而提高超光谱图像分类的效率和性能。 |
-| [^3] | [EVIT: Event-based Visual-Inertial Tracking in Semi-Dense Maps Using Windowed Nonlinear Optimization](https://arxiv.org/abs/2408.01370) | 本文提出了一种结合事件和惯性传感器数据的多模态跟踪方法，通过使用基于窗口的非线性优化算法，实现了在动态和照明条件变化下的精确事件相机自我运动估计，增强了跟踪器的性能。 |
-| [^4] | [Play to the Score: Stage-Guided Dynamic Multi-Sensory Fusion for Robotic Manipulation](https://arxiv.org/abs/2408.01366) | 本文提出了一种基于任务阶段动态调整多感官优先级的机器人操纵方法，使得机器人能够像人类一样灵活地在不同的任务阶段使用不同的感官信息。 |
-| [^5] | [Toward Automatic Relevance Judgment using Vision--Language Models for Image--Text Retrieval Evaluation](https://arxiv.org/abs/2408.01363) | 这项研究评估了基于视觉语言模型的自动相关性判断在图像文本检索评价中的潜力，发现GPT-4V在相关性判断方面表现优于CLIP和其他模型，但CLIPScore指标在量化评价中更为优越。 |
-| [^6] | [Balanced Residual Distillation Learning for 3D Point Cloud Class-Incremental Semantic Segmentation](https://arxiv.org/abs/2408.01356) | 该研究提出了一种新的平衡残差蒸馏框架（BRD-CIL），通过动态扩展网络结构和平衡的伪标签学习，有效地提高了3D点云分类式增量语义分割的性能。 |
-| [^7] | [PC$^2$: Pseudo-Classification Based Pseudo-Captioning for Noisy Correspondence Learning in Cross-Modal Retrieval](https://arxiv.org/abs/2408.01349) | 本文提出PC²框架，融合了伪分类和伪描述的方法，用于解决跨模态检索中的噪声对应学习问题。通过对描述进行分类，并为每个错配对生成伪描述，来提供更具有信息和直观的监督，提高学习效率和模型性能。 |
-| [^8] | [StitchFusion: Weaving Any Visual Modalities to Enhance Multimodal Semantic Segmentation](https://arxiv.org/abs/2408.01343) | 本文提出了一种新的多模态特征融合框架StitchFusion，它能够将任何视觉模态有效融合，提高多模态语义分割的准确性。 |
-| [^9] | [A Backbone for Long-Horizon Robot Task Understanding](https://arxiv.org/abs/2408.01334) | 该研究提出了一种基于Therblig的框架，通过将高级机器人任务分解为基本配置，并结合基础模型，提高了机器人任务的理解和泛化能力。 |
-| [^10] | [TopoNAS: Boosting Search Efficiency of Gradient-based NAS via Topological Simplification](https://arxiv.org/abs/2408.01311) | TopoNAS通过优化搜索策略和简化路径结构，为神经架构搜索提供了一种高效的搜索方法。 |
-| [^11] | [TexGen: Text-Guided 3D Texture Generation with Multi-view Sampling and Resampling](https://arxiv.org/abs/2408.01291) | TexGen是一个用于3D纹理生成的框架，它通过文本描述和预训练的文本到图像扩散模型来生成和组装纹理。这种方法通过多视图采样和重采样技术减少了视图差异，并在保持纹理细节的同时进行了噪声估算和输入指导。 |
-| [^12] | [Deep Learning based Visually Rich Document Content Understanding: A Survey](https://arxiv.org/abs/2408.01287) | 本文综述了基于深度学习的丰富视觉文档内容理解框架，分析了现有方法、数据集，并指出了当前面临的主要挑战和未来的研究方向。 |
-| [^13] | [Out-Of-Distribution Detection for Audio-visual Generalized Zero-Shot Learning: A General Framework](https://arxiv.org/abs/2408.01284) | 本文提出了一种新的通用框架，利用分布外检测技术来解决音频视觉泛化零样本学习中的域发生问题。通过整合生成对抗网络和嵌入方法，该框架提高了对未知类别的准确分类能力。同时，还介绍了一种新的训练和评估策略，以优化模型性能。 |
-| [^14] | [Wave-Mamba: Wavelet State Space Model for Ultra-High-Definition Low-Light Image Enhancement](https://arxiv.org/abs/2408.01276) | Wave-Mamba利用小波变换和无损下采样的优势，提出了一种针对超高清低光照增强的新方法，该方法能够有效提升图像的清晰度和对比度，即使在噪声较大的环境中也能保持良好的图像质量。 |
-| [^15] | [A General Framework to Boost 3D GS Initialization for Text-to-3D Generation by Lexical Richness](https://arxiv.org/abs/2408.01269) | 本文提出了一种框架，通过提升文本描述中的词汇信息，改善了基于3D Gaussians的文本到3D生成方法的初始化阶段。 |
-| [^16] | [S2TD-Face: Reconstruct a Detailed 3D Face with Controllable Texture from a Single Sketch](https://arxiv.org/abs/2408.01218) | 本文提出了一种名为S2TD-Face的方法，可以仅从单幅草图中高保真地重建具有详细几何结构和可控纹理的3D面孔，适用于多种应用程序。 |
-| [^17] | [A Weakly Supervised and Globally Explainable Learning Framework for Brain Tumor Segmentation](https://arxiv.org/abs/2408.01191) | 这篇论文提出了一个不需要像素级标注且具有可解释性的新框架，用于快速准确的大脑肿瘤分割。它通过生成保留身份特征但改变类别属性的新样本，有效地分离了类别相关和类别无关的特征。此外，该框架使用拓扑数据分析来创建一个全局可解释的流形，从而为每个需要分割的异常样本生成一个正常样本。 |
-| [^18] | [VAR-CLIP: Text-to-Image Generator with Visual Auto-Regressive Modeling](https://arxiv.org/abs/2408.01181) | VAR-CLIP是一个结合了自回归技术和CLIP能力的文本到图像生成器，它能够生成高质量的图像，并对具体图像内容进行更精确的理解和生成描述。 |
-| [^19] | [Rethinking Pre-trained Feature Extractor Selection in Multiple Instance Learning for Whole Slide Image Classification](https://arxiv.org/abs/2408.01167) | 本文研究了在无须进行切片标签注释的情况下，通过多实例学习对整张切片图像进行分类的预训练特征提取器的选择问题。研究对比了多种不同类型的预训练特征提取器，并针对TCGA-NSCLC和Camelyon16两个公共数据集进行了广泛的实验。 |
-| [^20] | [PreMix: Boosting Multiple Instance Learning in Digital Histopathology through Pre-training with Intra-Batch Slide Mixing](https://arxiv.org/abs/2408.01162) | PreMix通过预训练内批量切片混合方法提高数字组织病理学的多实例学习效率和准确性，即使在数据量相对较小的任务中也表现出良好的泛化能力。 |
-| [^21] | [Interpreting Global Perturbation Robustness of Image Models using Axiomatic Spectral Importance Decomposition](https://arxiv.org/abs/2408.01139) | 该研究提出了一种无模型的全局解释性方法，用于理解和评估图像模型在全球扰动下的鲁棒性。通过分析受扰自然图像的谱信噪比随频率的指数下降趋势，揭示了低频信号在模型鲁棒性中的正面作用，并发现高频率信号的贡献与模型的鲁棒性度量负相关。这些发现有助于设计更加鲁棒的模型结构。 |
-| [^22] | [PGNeXt: High-Resolution Salient Object Detection via Pyramid Grafting Network](https://arxiv.org/abs/2408.01137) | 论文提出了一种名为PGNeXt的全新单阶段框架，该框架通过结合Transformer和CNN网络提取特征，解决了高分辨率显著对象检测中的采样深度与感受野大小之间的矛盾，有效提高了检测的准确性。 |
-| [^23] | [IG-SLAM: Instant Gaussian SLAM](https://arxiv.org/abs/2408.01126) | IG-SLAM是一种仅使用RGB的密集SLAM系统，它结合了健壮的密集SLAM跟踪方法和高斯斑点技术，以构建环境的三维地图。通过准确的姿态和密集深度，系统能够优化地图，并采用有效的衰减策略来提高收敛性和运行速度。 |
-| [^24] | [An Efficient and Effective Transformer Decoder-Based Framework for Multi-Task Visual Grounding](https://arxiv.org/abs/2408.01120) | 本文提出了一种基于Transformer解码器的高效多任务视觉定位框架，该框架在保持高效的同时也能有效融合视觉和语言信息，尤其是在对话语境下的视觉理解任务中取得显著提升。 |
-| [^25] | [Prototypical Partial Optimal Transport for Universal Domain Adaptation](https://arxiv.org/abs/2408.01089) | 本文为减轻更大领域的差异提出了一个名为m-PPOT的方法，该方法通过重置权重和优化损失函数提高了泛化能力，并在多种跨领域适配任务上取得了显著效果。 |
-| [^26] | [PhysMamba: Leveraging Dual-Stream Cross-Attention SSD for Remote Physiological Measurement](https://arxiv.org/abs/2408.01077) | 本文提出了一种名为PhysMamba的模型，它结合了Mamba-2模型的状态和双流架构来增强rPPG信号在对抗噪声环境下的鲁棒性，并通过跨注意力状态空间对偶模块提升了特征互补性。 |
-| [^27] | [Exploiting the Semantic Knowledge of Pre-trained Text-Encoders for Continual Learning](https://arxiv.org/abs/2408.01076) | 本文提出了一种使用预训练文本编码器语义知识进行持续学习的策略，通过在任务之间和任务内部整合语义引导，提高了模型对新数据的可迁移学习能力，并在实验中取得了优于传统方法的保持效果。 |
-| [^28] | [Amodal Segmentation for Laparoscopic Surgery Video Instruments](https://arxiv.org/abs/2408.01067) | 本文提出了一种跨模态分割技术，可以识别出腹腔镜手术中器械的完整遮挡部分，提高了手术质量和安全性。 |
-| [^29] | [Boosting Gaze Object Prediction via Pixel-level Supervision from Vision Foundation Model](https://arxiv.org/abs/2408.01044) | 本文提出了一种利用像素级监督的视线对象预测方法，通过与VFM的集成，显著提升了视线对象检测和分割的准确性。 |
-| [^30] | [Privacy-Preserving Split Learning with Vision Transformers using Patch-Wise Random and Noisy CutMix](https://arxiv.org/abs/2408.01040) | 本文提出了一种全新的隐私保护分成学习框架，通过在随机选择的颠簸数据块之间进行高斯噪声混合，提高了训练数据的隐私保护水平，同时保持了分类任务的准确性。 |
-| [^31] | [Structure from Motion-based Motion Estimation and 3D Reconstruction of Unknown Shaped Space Debris](https://arxiv.org/abs/2408.01035) | 本研究提出了一种基于运动结构的算法，能够利用有限的资源和对未知形状的空间碎片进行运动估计，并同时输出物体的不明形状和相关摄像机的相对姿态轨迹，这些信息用于精确估计目标的运动状态。 |
-| [^32] | [PINNs for Medical Image Analysis: A Survey](https://arxiv.org/abs/2408.01026) | 论文要点：本文综述了将物理信息集成到机器学习框架中的医学图像分析方法，探讨了用于MIA的物理知识、建模方式以及这些方法在实际图像分析任务中的应用。 |
-| [^33] | [EIUP: A Training-Free Approach to Erase Non-Compliant Concepts Conditioned on Implicit Unsafe Prompts](https://arxiv.org/abs/2408.01014) | EIUP提出了一种新的训练无需方法，通过隐式不安全提示来消除非合规概念，解决了文本到图像扩散模型可能产生的安全问题。 |
-| [^34] | [Extracting Object Heights From LiDAR & Aerial Imagery](https://arxiv.org/abs/2408.00967) | 本文提供了一种提取激光雷达和航空影像中物体高度的过程方法，并讨论了其方法在未来激光雷达和影像处理中的应用前景。 |
-| [^35] | [PrivateGaze: Preserving User Privacy in Black-box Mobile Gaze Tracking Services](https://arxiv.org/abs/2408.00950) | 本研究提出了一种名为PrivateGaze的新方法，该方法能够在不损害视线估计性能的情况下，有效地保护用户在黑盒式移动眼动跟踪服务中的隐私。 |
-| [^36] | [A dual-task mutual learning framework for predicting post-thrombectomy cerebral hemorrhage](https://arxiv.org/abs/2408.00940) | 本文提出了一种双任务互惠学习框架，用于仅基于患者的初始CT扫描预测血栓切除术后的脑出血。该框架结合多模态数据的互补信息，并通过自监督学习机制提高预测准确性，具有重要的临床意义。 |
-| [^37] | [CIResDiff: A Clinically-Informed Residual Diffusion Model for Predicting Idiopathic Pulmonary Fibrosis Progression](https://arxiv.org/abs/2408.00938) | 本研究提出了一种基于临床知识改进的扩散模型，用于更准确地预测特发性肺纤维化（IPF）的进展。 |
-| [^38] | [Towards Zero-Shot Annotation of the Built Environment with Vision-Language Models (Vision Paper)](https://arxiv.org/abs/2408.00932) | 本论文提出使用视觉语言模型来从卫星图像中自动标注城市环境中的各种特征，以此减少对大规模人工标注的需求，并提高了对城市环境下奇特特征描述的质量。 |
-| [^39] | [Temporal Evolution of Knee Osteoarthritis: A Diffusion-based Morphing Model for X-ray Medical Image Synthesis](https://arxiv.org/abs/2408.00891) | 该研究提出了一种基于扩散的模型，用于合成患者膝关节骨关节炎疾病进程中的不同阶段的X射线图像，能够帮助医学监测和研究。 |
-| [^40] | [Medical SAM 2: Segment medical images as video via Segment Anything Model 2](https://arxiv.org/abs/2408.00874) | 医学 SAM 2 是利用 SAM 2 框架对医学图像进行分割的先进模型，能够将医学图像视为视频，不仅适用于3D医学图像，还能自动在所有后续图像中分割相同的对象，不考虑图像之间的时序关系，性能相较于现有模型有显著提升。 |
-| [^41] | [Fuzzy Logic Approach For Visual Analysis Of Websites With K-means Clustering-based Color Extraction](https://arxiv.org/abs/2408.00774) | 本文引入了一种新颖的基于K-means聚类方法，有效预测中文摘要中每个词的颜色，即使存在语义不明确的问题，但仍能准确预测颜色偏好。 |
-| [^42] | [Hybrid Deep Learning Framework for Enhanced Melanoma Detection](https://arxiv.org/abs/2408.00772) | 本文提出了一种结合U-Net分割和EfficientNet分类的混合深度学习框架，显著提高了黑色素瘤检测的准确率。 |
-| [^43] | [Comparing Optical Flow and Deep Learning to Enable Computationally Efficient Traffic Event Detection with Space-Filling Curves](https://arxiv.org/abs/2408.00768) | 本文提出了一种结合光流、深度学习和空间填满曲线的框架，实现了对车辆前向摄像头捕获的视频数据中交通事件的实时、高效检测。该框架有助于为驾驶员或自动驾驶车辆提供实时反馈，识别前方道路潜在的威胁或突发事件，提高驾驶情况感知，并可能提高安全性。 |
-| [^44] | [Conformal Trajectory Prediction with Multi-View Data Integration in Cooperative Driving](https://arxiv.org/abs/2408.00374) | V2INet 提出了一个创新的端到端训练框架，用于结合多角度信息进行轨迹预测，以克服单一视角的局限性，提高校正后的多模态轨迹预测的性能。 |
-| [^45] | [XLIP: Cross-modal Attention Masked Modelling for Medical Language-Image Pre-Training](https://arxiv.org/abs/2407.19546) | 本文提出XLIP框架，通过未配对数据增强病理学习和特征学习，引入了注意遮罩图像建模和目标驱动的遮罩语言建模模块，有效提高了病理特征的准确重建。 |
-| [^46] | [Domain Adaptive Lung Nodule Detection in X-ray Image](https://arxiv.org/abs/2407.19397) | 本文提出了一种结合自训练和对比学习的方法，用于跨域适应性肺部结节检测，通过改进结节表示和捕获域不变特征来解决数据分布差异的问题。 |
-| [^47] | [Depth-Wise Convolutions in Vision Transformers for Efficient Training on Small Datasets](https://arxiv.org/abs/2407.19394) | 该论文提出了一种轻量级的深度卷积模块，将其集成到ViT模型中，以提高在小型数据集上的训练效率，同时捕捉图像的局部和全局信息，从而增强了模型的归纳偏差，提高了训练效率和泛化能力。 |
-| [^48] | [CCVA-FL: Cross-Client Variations Adaptive Federated Learning for Medical Imaging](https://arxiv.org/abs/2407.11652) | 本文提出了一种名为“跨客户端变异性自适应联邦学习”（CCVA-FL）的方法，通过生成合成医学图像解决医疗图像数据中的跨客户端变异问题，从而提高联邦学习的性能。 |
-| [^49] | [Rethinking Learned Image Compression: Context is All You Need](https://arxiv.org/abs/2407.11590) | 本研究表明，通过对上下文模型和解码器的优化，学习了的图像压缩（LIC）的方法可以大幅提高PSNR性能，并在与VVC的比较中取得了14.39%的改进。 |
-| [^50] | [OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation](https://arxiv.org/abs/2407.02371) | OpenVid-1M 是一个精确的高质量数据集，拥有大量的文本视频对，旨在支持文本到视频生成的研究。 |
-| [^51] | [Hybrid Spatial-spectral Neural Network for Hyperspectral Image Denoising](https://arxiv.org/abs/2406.08782) | 该论文提出了一种混合空间-谱去噪网络，利用CNN和Transformer的特征设计了一种新的双路径网络，有效捕捉局部和非局部空间细节，同时减少了计算复杂性。 |
-| [^52] | [Let's Go Real Talk: Spoken Dialogue Model for Face-to-Face Conversation](https://arxiv.org/abs/2406.07867) | 我们介绍了一个新型的面向面对面对话的口语对话模型，该模型能够处理音频-视觉言语输入并产生相应的回应。这是创建不依赖中间文本虚拟助手的第一步。我们新引入了MultiDialog，这是首个大规模的多模态口语对话语料库，含约340小时的9,000多个对话的平行音频-视觉记录，这些记录是基于开放域对话数据集TopicalChat录制的。 |
-| [^53] | [Improving Geo-diversity of Generated Images with Contextualized Vendi Score Guidance](https://arxiv.org/abs/2406.04551) | 该研究提出了一种称为上下文化Vendi分数指引的方法，旨在提高生成图像的地理多样性，使特定地区的图像表现与现实世界相符。 |
-| [^54] | [L-PR: Exploiting LiDAR Fiducial Marker for Unordered Low Overlap Multiview Point Cloud Registration](https://arxiv.org/abs/2406.03298) | 这篇论文提出了一个名为 L-PR 的框架，该框架利用激光雷达 fiducial标记对多视图点云进行注册，并解决了低重叠情况下的注册问题。 |
-| [^55] | [MiPa: Mixed Patch Infrared-Visible Modality Agnostic Object Detection](https://arxiv.org/abs/2404.18849) | 该研究探索了一种共享的视觉编码器如何在单个模型中有效地整合RGB和IR数据，以提高对象检测的性能，同时减少内存占用，适用于自动驾驶和监控等实际应用。 |
-| [^56] | [SPIdepth: Strengthened Pose Information for Self-supervised Monocular Depth Estimation](https://arxiv.org/abs/2404.12501) | SPIdepth通过强化姿势网络，在自监督单目深度估计中实现了对场景细节的高级捕捉和提升。 |
-| [^57] | [Generalization Gap in Data Augmentation: Insights from Illumination](https://arxiv.org/abs/2404.07514) | 本研究发现，尽管数据增强能够提高模型在模拟光照条件下的泛化能力，但其性能在真实光照下并未显著提升，表明在自然光照条件下训练的模型可能具有更强的泛化能力。 |
-| [^58] | [SAM-guided Graph Cut for 3D Instance Segmentation](https://arxiv.org/abs/2312.08372) | 本文提出了一种新的3D实例分割方法，该方法结合了3D几何信息与多视图图像信息，并通过2D实例分割提升到3D的方式提高了分割的性能和鲁棒性。 |
-| [^59] | [The Importance of Downstream Networks in Digital Pathology Foundation Models](https://arxiv.org/abs/2311.17804) | 本文研究揭示了特征提取器对下游网络聚合模型配置的敏感性，指出传统的特征提取器模型评估可能无法准确反映其性能，并强调了在选择基础模型时需对聚合模型的影响予以考虑。 |
-| [^60] | [Applications of Spiking Neural Networks in Visual Place Recognition](https://arxiv.org/abs/2311.13186) | 我们的研究提出了模块化脉冲神经网络在视觉位置识别中的应用，包括紧凑的SNN模块、多个代表相同地点的SNN组合，以及对连续图像序列匹配技术的研究，这些技术为机器人视觉系统的精确和低功率视觉位置识别提供了新的框架。 |
-| [^61] | [SynthoGestures: A Novel Framework for Synthetic Dynamic Hand Gesture Generation for Driving Scenarios](https://arxiv.org/abs/2309.04421) | 我们提出了一个使用虚拟3D模型的全新框架，该框架使用Unreal Engine生成现实的手势动作，通过节省时间和努力，为驾驶情景中的动态手势生成提供了更高效的方法。 |
-| [^62] | [PCNN: Probable-Class Nearest-Neighbor Explanations Improve Fine-Grained Image Classification Accuracy for AIs and Humans](https://arxiv.org/abs/2308.13651) | 本文提出了一种新颖的方法，即利用图像比较器对输入图像与最可能的K类最近的邻图像进行比较，并根据比较结果对预训练分类器的置信度进行加权，从而显著提升了细粒度图像分类任务中人工智能和人类的预测准确性。 |
-| [^63] | [Accurate and Efficient Event-based Semantic Segmentation Using Adaptive Spiking Encoder-Decoder Network](https://arxiv.org/abs/2304.11857) | 本文提出了一种高效的自适应脉冲编码解码网络，能够在基于事件的语义分割任务中利用自适应阈值提高稀疏事件的表示能力，从而在动态事件流中实现准确的分割效果。 |
-| [^64] | [Vision Transformers: From Semantic Segmentation to Dense Prediction](https://arxiv.org/abs/2207.09339) | 本研究不仅为密集预测领域提供了一个强大且有力的基线，而且还证明了在没有预训练的情况下，使用ViT进行任务的可行性。在各种密集预测任务上的进一步实验还表明，ViT不仅在常规分割任务中与其他模型竞争，而且还能很好地泛化到其他现实世界应用中，如基于精细生物医学图像分析的新医学诊断脚本。 |
+| [^2] | [NOLO: Navigate Only Look Once](https://arxiv.org/abs/2408.01384) | NOLO方法通过使用光流和离线强化学习，实现了无需实际环境数据即可自我训练视频导航策略的创新。 |
+| [^3] | [Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification](https://arxiv.org/abs/2408.01372) | 本文提出了一种新的基于深度可分离卷积操作的空间光谱形态鳗鱼模型，该模型能够生成并增强空间光谱 token，从而提高超光谱图像分类的效率和性能。 |
+| [^4] | [EVIT: Event-based Visual-Inertial Tracking in Semi-Dense Maps Using Windowed Nonlinear Optimization](https://arxiv.org/abs/2408.01370) | 本文提出了一种结合事件和惯性传感器数据的多模态跟踪方法，通过使用基于窗口的非线性优化算法，实现了在动态和照明条件变化下的精确事件相机自我运动估计，增强了跟踪器的性能。 |
+| [^5] | [Play to the Score: Stage-Guided Dynamic Multi-Sensory Fusion for Robotic Manipulation](https://arxiv.org/abs/2408.01366) | 本文提出了一种基于任务阶段动态调整多感官优先级的机器人操纵方法，使得机器人能够像人类一样灵活地在不同的任务阶段使用不同的感官信息。 |
+| [^6] | [Toward Automatic Relevance Judgment using Vision--Language Models for Image--Text Retrieval Evaluation](https://arxiv.org/abs/2408.01363) | 这项研究评估了基于视觉语言模型的自动相关性判断在图像文本检索评价中的潜力，发现GPT-4V在相关性判断方面表现优于CLIP和其他模型，但CLIPScore指标在量化评价中更为优越。 |
+| [^7] | [Balanced Residual Distillation Learning for 3D Point Cloud Class-Incremental Semantic Segmentation](https://arxiv.org/abs/2408.01356) | 该研究提出了一种新的平衡残差蒸馏框架（BRD-CIL），通过动态扩展网络结构和平衡的伪标签学习，有效地提高了3D点云分类式增量语义分割的性能。 |
+| [^8] | [Hallu-PI: Evaluating Hallucination in Multi-modal Large Language Models within Perturbed Inputs](https://arxiv.org/abs/2408.01355) | 这里是中文总结出的一句话要点 |
+| [^9] | [PC$^2$: Pseudo-Classification Based Pseudo-Captioning for Noisy Correspondence Learning in Cross-Modal Retrieval](https://arxiv.org/abs/2408.01349) | 本文提出PC²框架，融合了伪分类和伪描述的方法，用于解决跨模态检索中的噪声对应学习问题。通过对描述进行分类，并为每个错配对生成伪描述，来提供更具有信息和直观的监督，提高学习效率和模型性能。 |
+| [^10] | [StitchFusion: Weaving Any Visual Modalities to Enhance Multimodal Semantic Segmentation](https://arxiv.org/abs/2408.01343) | 本文提出了一种新的多模态特征融合框架StitchFusion，它能够将任何视觉模态有效融合，提高多模态语义分割的准确性。 |
+| [^11] | [A Backbone for Long-Horizon Robot Task Understanding](https://arxiv.org/abs/2408.01334) | 该研究提出了一种基于Therblig的框架，通过将高级机器人任务分解为基本配置，并结合基础模型，提高了机器人任务的理解和泛化能力。 |
+| [^12] | [A Robotics-Inspired Scanpath Model Reveals the Importance of Uncertainty and Semantic Object Cues for Gaze Guidance in Dynamic Scenes](https://arxiv.org/abs/2408.01322) | 该研究提出了一种基于机器学习模型的扫描路径算法，它在动态场景中通过不确定性和语义对象线索的结合，有效引导视线行为，并模拟了观察者的实际观看行为。 |
+| [^13] | [TopoNAS: Boosting Search Efficiency of Gradient-based NAS via Topological Simplification](https://arxiv.org/abs/2408.01311) | TopoNAS通过优化搜索策略和简化路径结构，为神经架构搜索提供了一种高效的搜索方法。 |
+| [^14] | [TexGen: Text-Guided 3D Texture Generation with Multi-view Sampling and Resampling](https://arxiv.org/abs/2408.01291) | TexGen是一个用于3D纹理生成的框架，它通过文本描述和预训练的文本到图像扩散模型来生成和组装纹理。这种方法通过多视图采样和重采样技术减少了视图差异，并在保持纹理细节的同时进行了噪声估算和输入指导。 |
+| [^15] | [Deep Learning based Visually Rich Document Content Understanding: A Survey](https://arxiv.org/abs/2408.01287) | 本文综述了基于深度学习的丰富视觉文档内容理解框架，分析了现有方法、数据集，并指出了当前面临的主要挑战和未来的研究方向。 |
+| [^16] | [Out-Of-Distribution Detection for Audio-visual Generalized Zero-Shot Learning: A General Framework](https://arxiv.org/abs/2408.01284) | 本文提出了一种新的通用框架，利用分布外检测技术来解决音频视觉泛化零样本学习中的域发生问题。通过整合生成对抗网络和嵌入方法，该框架提高了对未知类别的准确分类能力。同时，还介绍了一种新的训练和评估策略，以优化模型性能。 |
+| [^17] | [Wave-Mamba: Wavelet State Space Model for Ultra-High-Definition Low-Light Image Enhancement](https://arxiv.org/abs/2408.01276) | Wave-Mamba利用小波变换和无损下采样的优势，提出了一种针对超高清低光照增强的新方法，该方法能够有效提升图像的清晰度和对比度，即使在噪声较大的环境中也能保持良好的图像质量。 |
+| [^18] | [A General Framework to Boost 3D GS Initialization for Text-to-3D Generation by Lexical Richness](https://arxiv.org/abs/2408.01269) | 本文提出了一种框架，通过提升文本描述中的词汇信息，改善了基于3D Gaussians的文本到3D生成方法的初始化阶段。 |
+| [^19] | [The Phantom Menace: Unmasking Privacy Leakages in Vision-Language Models](https://arxiv.org/abs/2408.01228) | 本文揭示了在训练数据中包含敏感信息的视觉语言模型（VLMs）可能会无意中泄露个人身份信息，即便使用匿名化处理。 |
+| [^20] | [Multi-head Spatial-Spectral Mamba for Hyperspectral Image Classification](https://arxiv.org/abs/2408.01224) | 该论文提出了一种名为MHSSMamba的新模型，该模型结合了空间和时间光谱信息，通过增强光谱标记和多头注意来捕捉复杂关系，并在多个HSI数据集上实现了最高的分类准确率。 |
+| [^21] | [S2TD-Face: Reconstruct a Detailed 3D Face with Controllable Texture from a Single Sketch](https://arxiv.org/abs/2408.01218) | 本文提出了一种名为S2TD-Face的方法，可以仅从单幅草图中高保真地重建具有详细几何结构和可控纹理的3D面孔，适用于多种应用程序。 |
+| [^22] | [A Weakly Supervised and Globally Explainable Learning Framework for Brain Tumor Segmentation](https://arxiv.org/abs/2408.01191) | 这篇论文提出了一个不需要像素级标注且具有可解释性的新框架，用于快速准确的大脑肿瘤分割。它通过生成保留身份特征但改变类别属性的新样本，有效地分离了类别相关和类别无关的特征。此外，该框架使用拓扑数据分析来创建一个全局可解释的流形，从而为每个需要分割的异常样本生成一个正常样本。 |
+| [^23] | [VAR-CLIP: Text-to-Image Generator with Visual Auto-Regressive Modeling](https://arxiv.org/abs/2408.01181) | VAR-CLIP是一个结合了自回归技术和CLIP能力的文本到图像生成器，它能够生成高质量的图像，并对具体图像内容进行更精确的理解和生成描述。 |
+| [^24] | [Rethinking Pre-trained Feature Extractor Selection in Multiple Instance Learning for Whole Slide Image Classification](https://arxiv.org/abs/2408.01167) | 本文研究了在无须进行切片标签注释的情况下，通过多实例学习对整张切片图像进行分类的预训练特征提取器的选择问题。研究对比了多种不同类型的预训练特征提取器，并针对TCGA-NSCLC和Camelyon16两个公共数据集进行了广泛的实验。 |
+| [^25] | [PreMix: Boosting Multiple Instance Learning in Digital Histopathology through Pre-training with Intra-Batch Slide Mixing](https://arxiv.org/abs/2408.01162) | PreMix通过预训练内批量切片混合方法提高数字组织病理学的多实例学习效率和准确性，即使在数据量相对较小的任务中也表现出良好的泛化能力。 |
+| [^26] | [Robust Curve Detection in Volumetric Medical Imaging via Attraction Field](https://arxiv.org/abs/2408.01159) | 本文提出了一种不依赖物体方向、形状或位置预测的曲线检测新方法，该方法利用神经网络预测吸引场和亲密度图，实现了超越现有方法的惊艳曲线检测精度。 |
+| [^27] | [Interpreting Global Perturbation Robustness of Image Models using Axiomatic Spectral Importance Decomposition](https://arxiv.org/abs/2408.01139) | 该研究提出了一种无模型的全局解释性方法，用于理解和评估图像模型在全球扰动下的鲁棒性。通过分析受扰自然图像的谱信噪比随频率的指数下降趋势，揭示了低频信号在模型鲁棒性中的正面作用，并发现高频率信号的贡献与模型的鲁棒性度量负相关。这些发现有助于设计更加鲁棒的模型结构。 |
+| [^28] | [PGNeXt: High-Resolution Salient Object Detection via Pyramid Grafting Network](https://arxiv.org/abs/2408.01137) | 论文提出了一种名为PGNeXt的全新单阶段框架，该框架通过结合Transformer和CNN网络提取特征，解决了高分辨率显著对象检测中的采样深度与感受野大小之间的矛盾，有效提高了检测的准确性。 |
+| [^29] | [IG-SLAM: Instant Gaussian SLAM](https://arxiv.org/abs/2408.01126) | IG-SLAM是一种仅使用RGB的密集SLAM系统，它结合了健壮的密集SLAM跟踪方法和高斯斑点技术，以构建环境的三维地图。通过准确的姿态和密集深度，系统能够优化地图，并采用有效的衰减策略来提高收敛性和运行速度。 |
+| [^30] | [An Efficient and Effective Transformer Decoder-Based Framework for Multi-Task Visual Grounding](https://arxiv.org/abs/2408.01120) | 本文提出了一种基于Transformer解码器的高效多任务视觉定位框架，该框架在保持高效的同时也能有效融合视觉和语言信息，尤其是在对话语境下的视觉理解任务中取得显著提升。 |
+| [^31] | [Contribution-based Low-Rank Adaptation with Pre-training Model for Real Image Restoration](https://arxiv.org/abs/2408.01099) | 本文提出了一种高效参数调优方法CoLoRA，通过随机失真预训练（PROD）和贡献性低秩适应性，针对多个真实图像修复任务，大幅简化了模型的复杂性，并在精度与内存需求上超越了现有方法。 |
+| [^32] | [Prototypical Partial Optimal Transport for Universal Domain Adaptation](https://arxiv.org/abs/2408.01089) | 本文为减轻更大领域的差异提出了一个名为m-PPOT的方法，该方法通过重置权重和优化损失函数提高了泛化能力，并在多种跨领域适配任务上取得了显著效果。 |
+| [^33] | [Effect of Fog Particle Size Distribution on 3D Object Detection Under Adverse Weather Conditions](https://arxiv.org/abs/2408.01085) | 研究探讨了雾粒径分布对自动驾驶车辆三维物体检测系统性能的影响，并通过计算和实验研究发现雾粒子的大小分布显著降低了系统的检测准确性。 |
+| [^34] | [FCDFusion: a Fast, Low Color Deviation Method for Fusing Visible and Infrared Image Pairs](https://arxiv.org/abs/2408.01080) | 该论文提出了一个名为FCDFusion的快速低色差可见与红外图像融合方法，该方法通过直接在RGB颜色空间中操作，以及引入伽马校正，以极低的计算成本实现了图像色彩和对比度的快速提升，从而在保持图像质量的同时显著提高了处理速度。 |
+| [^35] | [PhysMamba: Leveraging Dual-Stream Cross-Attention SSD for Remote Physiological Measurement](https://arxiv.org/abs/2408.01077) | 本文提出了一种名为PhysMamba的模型，它结合了Mamba-2模型的状态和双流架构来增强rPPG信号在对抗噪声环境下的鲁棒性，并通过跨注意力状态空间对偶模块提升了特征互补性。 |
+| [^36] | [Exploiting the Semantic Knowledge of Pre-trained Text-Encoders for Continual Learning](https://arxiv.org/abs/2408.01076) | 本文提出了一种使用预训练文本编码器语义知识进行持续学习的策略，通过在任务之间和任务内部整合语义引导，提高了模型对新数据的可迁移学习能力，并在实验中取得了优于传统方法的保持效果。 |
+| [^37] | [Amodal Segmentation for Laparoscopic Surgery Video Instruments](https://arxiv.org/abs/2408.01067) | 本文提出了一种跨模态分割技术，可以识别出腹腔镜手术中器械的完整遮挡部分，提高了手术质量和安全性。 |
+| [^38] | [Boosting Gaze Object Prediction via Pixel-level Supervision from Vision Foundation Model](https://arxiv.org/abs/2408.01044) | 本文提出了一种利用像素级监督的视线对象预测方法，通过与VFM的集成，显著提升了视线对象检测和分割的准确性。 |
+| [^39] | [Privacy-Preserving Split Learning with Vision Transformers using Patch-Wise Random and Noisy CutMix](https://arxiv.org/abs/2408.01040) | 本文提出了一种全新的隐私保护分成学习框架，通过在随机选择的颠簸数据块之间进行高斯噪声混合，提高了训练数据的隐私保护水平，同时保持了分类任务的准确性。 |
+| [^40] | [Structure from Motion-based Motion Estimation and 3D Reconstruction of Unknown Shaped Space Debris](https://arxiv.org/abs/2408.01035) | 本研究提出了一种基于运动结构的算法，能够利用有限的资源和对未知形状的空间碎片进行运动估计，并同时输出物体的不明形状和相关摄像机的相对姿态轨迹，这些信息用于精确估计目标的运动状态。 |
+| [^41] | [PINNs for Medical Image Analysis: A Survey](https://arxiv.org/abs/2408.01026) | 论文要点：本文综述了将物理信息集成到机器学习框架中的医学图像分析方法，探讨了用于MIA的物理知识、建模方式以及这些方法在实际图像分析任务中的应用。 |
+| [^42] | [EIUP: A Training-Free Approach to Erase Non-Compliant Concepts Conditioned on Implicit Unsafe Prompts](https://arxiv.org/abs/2408.01014) | EIUP提出了一种新的训练无需方法，通过隐式不安全提示来消除非合规概念，解决了文本到图像扩散模型可能产生的安全问题。 |
+| [^43] | [FBSDiff: Plug-and-Play Frequency Band Substitution of Diffusion Features for Highly Controllable Text-Driven Image Translation](https://arxiv.org/abs/2408.00998) | 本文提出了一种将预训练的文本到图像扩散模型高效地转换为图像到图像编辑工具的新型方法，使得用户可以根据文本描述灵活地控制图像内容。 |
+| [^44] | [Extracting Object Heights From LiDAR & Aerial Imagery](https://arxiv.org/abs/2408.00967) | 本文提供了一种提取激光雷达和航空影像中物体高度的过程方法，并讨论了其方法在未来激光雷达和影像处理中的应用前景。 |
+| [^45] | [MIS-ME: A Multi-modal Framework for Soil Moisture Estimation](https://arxiv.org/abs/2408.00963) | 本研究开发了一种多模态框架MIS-ME，通过组合地面基站拍摄的高分辨率图像、天气预报和相关统计数据，使用深度学习算法预测土壤湿度，旨在提高精准农业中土壤水分预测的精确性。 |
+| [^46] | [PrivateGaze: Preserving User Privacy in Black-box Mobile Gaze Tracking Services](https://arxiv.org/abs/2408.00950) | 本研究提出了一种名为PrivateGaze的新方法，该方法能够在不损害视线估计性能的情况下，有效地保护用户在黑盒式移动眼动跟踪服务中的隐私。 |
+| [^47] | [A dual-task mutual learning framework for predicting post-thrombectomy cerebral hemorrhage](https://arxiv.org/abs/2408.00940) | 本文提出了一种双任务互惠学习框架，用于仅基于患者的初始CT扫描预测血栓切除术后的脑出血。该框架结合多模态数据的互补信息，并通过自监督学习机制提高预测准确性，具有重要的临床意义。 |
+| [^48] | [CIResDiff: A Clinically-Informed Residual Diffusion Model for Predicting Idiopathic Pulmonary Fibrosis Progression](https://arxiv.org/abs/2408.00938) | 本研究提出了一种基于临床知识改进的扩散模型，用于更准确地预测特发性肺纤维化（IPF）的进展。 |
+| [^49] | [Towards Zero-Shot Annotation of the Built Environment with Vision-Language Models (Vision Paper)](https://arxiv.org/abs/2408.00932) | 本论文提出使用视觉语言模型来从卫星图像中自动标注城市环境中的各种特征，以此减少对大规模人工标注的需求，并提高了对城市环境下奇特特征描述的质量。 |
+| [^50] | [Temporal Evolution of Knee Osteoarthritis: A Diffusion-based Morphing Model for X-ray Medical Image Synthesis](https://arxiv.org/abs/2408.00891) | 该研究提出了一种基于扩散的模型，用于合成患者膝关节骨关节炎疾病进程中的不同阶段的X射线图像，能够帮助医学监测和研究。 |
+| [^51] | [Medical SAM 2: Segment medical images as video via Segment Anything Model 2](https://arxiv.org/abs/2408.00874) | 医学 SAM 2 是利用 SAM 2 框架对医学图像进行分割的先进模型，能够将医学图像视为视频，不仅适用于3D医学图像，还能自动在所有后续图像中分割相同的对象，不考虑图像之间的时序关系，性能相较于现有模型有显著提升。 |
+| [^52] | [CCSRP: Robust Pruning of Spiking Neural Networks through Cooperative Coevolution](https://arxiv.org/abs/2408.00794) | 通过协作共进化，本研究提出了一种稳健的SNN剪枝方法，旨在在不牺牲准确性与鲁棒性的前提下，减少计算资源需求。 |
+| [^53] | [In-Depth Analysis of Emotion Recognition through Knowledge-Based Large Language Models](https://arxiv.org/abs/2408.00780) | 本研究提出了一种结合情绪识别方法和贝叶斯线索整合的方法，利用大型语言模型获得的情境知识来提高在社交情境中分析面部表情的准确性，并在囚徒困境这一社会任务中得到了验证。 |
+| [^54] | [Fuzzy Logic Approach For Visual Analysis Of Websites With K-means Clustering-based Color Extraction](https://arxiv.org/abs/2408.00774) | 本文引入了一种新颖的基于K-means聚类方法，有效预测中文摘要中每个词的颜色，即使存在语义不明确的问题，但仍能准确预测颜色偏好。 |
+| [^55] | [Hybrid Deep Learning Framework for Enhanced Melanoma Detection](https://arxiv.org/abs/2408.00772) | 本文提出了一种结合U-Net分割和EfficientNet分类的混合深度学习框架，显著提高了黑色素瘤检测的准确率。 |
+| [^56] | [Comparing Optical Flow and Deep Learning to Enable Computationally Efficient Traffic Event Detection with Space-Filling Curves](https://arxiv.org/abs/2408.00768) | 本文提出了一种结合光流、深度学习和空间填满曲线的框架，实现了对车辆前向摄像头捕获的视频数据中交通事件的实时、高效检测。该框架有助于为驾驶员或自动驾驶车辆提供实时反馈，识别前方道路潜在的威胁或突发事件，提高驾驶情况感知，并可能提高安全性。 |
+| [^57] | [Conformal Trajectory Prediction with Multi-View Data Integration in Cooperative Driving](https://arxiv.org/abs/2408.00374) | V2INet 提出了一个创新的端到端训练框架，用于结合多角度信息进行轨迹预测，以克服单一视角的局限性，提高校正后的多模态轨迹预测的性能。 |
+| [^58] | [XLIP: Cross-modal Attention Masked Modelling for Medical Language-Image Pre-Training](https://arxiv.org/abs/2407.19546) | 本文提出XLIP框架，通过未配对数据增强病理学习和特征学习，引入了注意遮罩图像建模和目标驱动的遮罩语言建模模块，有效提高了病理特征的准确重建。 |
+| [^59] | [Domain Adaptive Lung Nodule Detection in X-ray Image](https://arxiv.org/abs/2407.19397) | 本文提出了一种结合自训练和对比学习的方法，用于跨域适应性肺部结节检测，通过改进结节表示和捕获域不变特征来解决数据分布差异的问题。 |
+| [^60] | [Depth-Wise Convolutions in Vision Transformers for Efficient Training on Small Datasets](https://arxiv.org/abs/2407.19394) | 该论文提出了一种轻量级的深度卷积模块，将其集成到ViT模型中，以提高在小型数据集上的训练效率，同时捕捉图像的局部和全局信息，从而增强了模型的归纳偏差，提高了训练效率和泛化能力。 |
+| [^61] | [CCVA-FL: Cross-Client Variations Adaptive Federated Learning for Medical Imaging](https://arxiv.org/abs/2407.11652) | 本文提出了一种名为“跨客户端变异性自适应联邦学习”（CCVA-FL）的方法，通过生成合成医学图像解决医疗图像数据中的跨客户端变异问题，从而提高联邦学习的性能。 |
+| [^62] | [Rethinking Learned Image Compression: Context is All You Need](https://arxiv.org/abs/2407.11590) | 本研究表明，通过对上下文模型和解码器的优化，学习了的图像压缩（LIC）的方法可以大幅提高PSNR性能，并在与VVC的比较中取得了14.39%的改进。 |
+| [^63] | [OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation](https://arxiv.org/abs/2407.02371) | OpenVid-1M 是一个精确的高质量数据集，拥有大量的文本视频对，旨在支持文本到视频生成的研究。 |
+| [^64] | [Hybrid Spatial-spectral Neural Network for Hyperspectral Image Denoising](https://arxiv.org/abs/2406.08782) | 该论文提出了一种混合空间-谱去噪网络，利用CNN和Transformer的特征设计了一种新的双路径网络，有效捕捉局部和非局部空间细节，同时减少了计算复杂性。 |
+| [^65] | [Let's Go Real Talk: Spoken Dialogue Model for Face-to-Face Conversation](https://arxiv.org/abs/2406.07867) | 我们介绍了一个新型的面向面对面对话的口语对话模型，该模型能够处理音频-视觉言语输入并产生相应的回应。这是创建不依赖中间文本虚拟助手的第一步。我们新引入了MultiDialog，这是首个大规模的多模态口语对话语料库，含约340小时的9,000多个对话的平行音频-视觉记录，这些记录是基于开放域对话数据集TopicalChat录制的。 |
+| [^66] | [Improving Geo-diversity of Generated Images with Contextualized Vendi Score Guidance](https://arxiv.org/abs/2406.04551) | 该研究提出了一种称为上下文化Vendi分数指引的方法，旨在提高生成图像的地理多样性，使特定地区的图像表现与现实世界相符。 |
+| [^67] | [L-PR: Exploiting LiDAR Fiducial Marker for Unordered Low Overlap Multiview Point Cloud Registration](https://arxiv.org/abs/2406.03298) | 这篇论文提出了一个名为 L-PR 的框架，该框架利用激光雷达 fiducial标记对多视图点云进行注册，并解决了低重叠情况下的注册问题。 |
+| [^68] | [SemiCD-VL: Visual-Language Model Guidance Makes Better Semi-supervised Change Detector](https://arxiv.org/abs/2405.04788) | 本文提出了一种基于视觉-语言模型的半监督变化检测方法SemiCD-VL，通过合成自由变化标签和自监督机制来利用额外的时序信息，以提高未标注数据的性能。 |
+| [^69] | [MiPa: Mixed Patch Infrared-Visible Modality Agnostic Object Detection](https://arxiv.org/abs/2404.18849) | 该研究探索了一种共享的视觉编码器如何在单个模型中有效地整合RGB和IR数据，以提高对象检测的性能，同时减少内存占用，适用于自动驾驶和监控等实际应用。 |
+| [^70] | [SPIdepth: Strengthened Pose Information for Self-supervised Monocular Depth Estimation](https://arxiv.org/abs/2404.12501) | SPIdepth通过强化姿势网络，在自监督单目深度估计中实现了对场景细节的高级捕捉和提升。 |
+| [^71] | [Generalization Gap in Data Augmentation: Insights from Illumination](https://arxiv.org/abs/2404.07514) | 本研究发现，尽管数据增强能够提高模型在模拟光照条件下的泛化能力，但其性能在真实光照下并未显著提升，表明在自然光照条件下训练的模型可能具有更强的泛化能力。 |
+| [^72] | [An Optimization Framework to Enforce Multi-View Consistency for Texturing 3D Meshes](https://arxiv.org/abs/2403.15559) | 本文提出了一种四阶段的优化框架，用于通过非刚性对齐和MRF问题解决，确保多视角纹理化处理，以达到高效的3D网格多视角纹理化处理 |
+| [^73] | [AFreeCA: Annotation-Free Counting for All](https://arxiv.org/abs/2403.04943) | 本研究提出了一种无需人工注释的数据集即可进行几乎所有类型对象计数的方法。 |
+| [^74] | [SAM-guided Graph Cut for 3D Instance Segmentation](https://arxiv.org/abs/2312.08372) | 本文提出了一种新的3D实例分割方法，该方法结合了3D几何信息与多视图图像信息，并通过2D实例分割提升到3D的方式提高了分割的性能和鲁棒性。 |
+| [^75] | [The Importance of Downstream Networks in Digital Pathology Foundation Models](https://arxiv.org/abs/2311.17804) | 本文研究揭示了特征提取器对下游网络聚合模型配置的敏感性，指出传统的特征提取器模型评估可能无法准确反映其性能，并强调了在选择基础模型时需对聚合模型的影响予以考虑。 |
+| [^76] | [Applications of Spiking Neural Networks in Visual Place Recognition](https://arxiv.org/abs/2311.13186) | 我们的研究提出了模块化脉冲神经网络在视觉位置识别中的应用，包括紧凑的SNN模块、多个代表相同地点的SNN组合，以及对连续图像序列匹配技术的研究，这些技术为机器人视觉系统的精确和低功率视觉位置识别提供了新的框架。 |
+| [^77] | [SynthoGestures: A Novel Framework for Synthetic Dynamic Hand Gesture Generation for Driving Scenarios](https://arxiv.org/abs/2309.04421) | 我们提出了一个使用虚拟3D模型的全新框架，该框架使用Unreal Engine生成现实的手势动作，通过节省时间和努力，为驾驶情景中的动态手势生成提供了更高效的方法。 |
+| [^78] | [PCNN: Probable-Class Nearest-Neighbor Explanations Improve Fine-Grained Image Classification Accuracy for AIs and Humans](https://arxiv.org/abs/2308.13651) | 本文提出了一种新颖的方法，即利用图像比较器对输入图像与最可能的K类最近的邻图像进行比较，并根据比较结果对预训练分类器的置信度进行加权，从而显著提升了细粒度图像分类任务中人工智能和人类的预测准确性。 |
+| [^79] | [Accurate and Efficient Event-based Semantic Segmentation Using Adaptive Spiking Encoder-Decoder Network](https://arxiv.org/abs/2304.11857) | 本文提出了一种高效的自适应脉冲编码解码网络，能够在基于事件的语义分割任务中利用自适应阈值提高稀疏事件的表示能力，从而在动态事件流中实现准确的分割效果。 |
+| [^80] | [Synthetic-to-Real Domain Adaptation for Action Recognition: A Dataset and Baseline Performances](https://arxiv.org/abs/2303.10280) | 该研究介绍了一个用于合成数据与真实数据域适应的公开数据集，并评估了各种模型在不同任务上的表现。 |
+| [^81] | [Vision Transformers: From Semantic Segmentation to Dense Prediction](https://arxiv.org/abs/2207.09339) | 本研究不仅为密集预测领域提供了一个强大且有力的基线，而且还证明了在没有预训练的情况下，使用ViT进行任务的可行性。在各种密集预测任务上的进一步实验还表明，ViT不仅在常规分割任务中与其他模型竞争，而且还能很好地泛化到其他现实世界应用中，如基于精细生物医学图像分析的新医学诊断脚本。 |
 
 # 详细
 
@@ -83,7 +100,21 @@
 
     arXiv:2408.01417v1 Announce Type: cross  Abstract: Humans spontaneously use increasingly efficient language as interactions progress, by adapting and forming ad-hoc conventions. This phenomenon has been studied extensively using reference games, showing properties of human language that go beyond relaying intents. It remains unexplored whether multimodal large language models (MLLMs) similarly increase communication efficiency during interactions, and what mechanisms they may adopt for this purpose. We introduce ICCA, an automated framework to evaluate such conversational adaptation as an in-context behavior in MLLMs. We evaluate several state-of-the-art MLLMs, and observe that while they may understand the increasingly efficient language of their interlocutor, they do not spontaneously make their own language more efficient over time. This latter ability can only be elicited in some models (e.g., GPT-4) with heavy-handed prompting. This shows that this property of linguistic interacti
     
-[^2]: 基于空间光谱形态学的鳗鱼模型用于 hyperspectral 图像分类
+[^2]: NOLO：一次只看导航
+
+    NOLO: Navigate Only Look Once
+
+    [https://arxiv.org/abs/2408.01384](https://arxiv.org/abs/2408.01384)
+
+    NOLO方法通过使用光流和离线强化学习，实现了无需实际环境数据即可自我训练视频导航策略的创新。
+
+    
+
+    arXiv:2408.01384v1 宣布类型：新 摘要：Transformer模型中的上下文学习能力为视觉导航带来了新的可能性。在本文中，我们专注于视频导航设置，其中一个人工智能导航策略需要在没有访问实际环境的情况下从视频中纯粹学习，而不是访问实际的资源。对于这种设置，我们认为Navigate Only Look Once（NOLO）是一个方法，用于学习一个具有上下文学习能力的导航策略，它可以通过输入相应的背景视频来适应新的场景，而无需微调或重新训练。为了实现从视频学习，我们首先提出了一种伪动作标注程序，使用光流法从第一人称视频中恢复动作标签。然后，我们使用离线强化学习来学习导航策略。通过在不同场景上的广泛实验，我们表明我们的算法在基线上的表现有了显著的提升，这证明了在无需重新训练或微调的情况下，仅通过观察新场景的视频就能学习到高效的导航策略。
+
+    arXiv:2408.01384v1 Announce Type: new  Abstract: The in-context learning ability of Transformer models has brought new possibilities to visual navigation. In this paper, we focus on the video navigation setting, where an in-context navigation policy needs to be learned purely from videos in an offline manner, without access to the actual environment. For this setting, we propose Navigate Only Look Once (NOLO), a method for learning a navigation policy that possesses the in-context ability and adapts to new scenes by taking corresponding context videos as input without finetuning or re-training. To enable learning from videos, we first propose a pseudo action labeling procedure using optical flow to recover the action label from egocentric videos. Then, offline reinforcement learning is applied to learn the navigation policy. Through extensive experiments on different scenes, we show that our algorithm outperforms baselines by a large margin, which demonstrates the in-context learning a
+    
+[^3]: 基于空间光谱形态学的鳗鱼模型用于 hyperspectral 图像分类
 
     Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification
 
@@ -97,7 +128,7 @@
 
     arXiv:2408.01372v1 Announce Type: new  Abstract: In recent years, Transformers have garnered significant attention for Hyperspectral Image Classification (HSIC) due to their self-attention mechanism, which provides strong classification performance. However, these models face major challenges in computational efficiency, as their complexity increases quadratically with the sequence length. The Mamba architecture, leveraging a State Space Model, offers a more efficient alternative to Transformers. This paper introduces the Spatial-Spectral Morphological Mamba (MorpMamba) model. In the MorpMamba model, a token generation module first converts the Hyperspectral Image (HSI) patch into spatial-spectral tokens. These tokens are then processed by a morphology block, which computes structural and shape information using depthwise separable convolutional operations. The extracted information is enhanced in a feature enhancement module that adjusts the spatial and spectral tokens based on the ce
     
-[^3]: EVIT: 基于事件的事件-惯性半密集地图跟踪方法使用窗限非线性优化
+[^4]: EVIT: 基于事件的事件-惯性半密集地图跟踪方法使用窗限非线性优化
 
     EVIT: Event-based Visual-Inertial Tracking in Semi-Dense Maps Using Windowed Nonlinear Optimization
 
@@ -111,7 +142,7 @@
 
     arXiv:2408.01370v1 Announce Type: cross  Abstract: Event cameras are an interesting visual exteroceptive sensor that reacts to brightness changes rather than integrating absolute image intensities. Owing to this design, the sensor exhibits strong performance in situations of challenging dynamics and illumination conditions. While event-based simultaneous tracking and mapping remains a challenging problem, a number of recent works have pointed out the sensor's suitability for prior map-based tracking. By making use of cross-modal registration paradigms, the camera's ego-motion can be tracked across a large spectrum of illumination and dynamics conditions on top of accurate maps that have been created a priori by more traditional sensors. The present paper follows up on a recently introduced event-based geometric semi-dense tracking paradigm, and proposes the addition of inertial signals in order to robustify the estimation. More specifically, the added signals provide strong cues for po
     
-[^4]: 基于分数的舞台引导动态多感官融合方法用于机器手操纵
+[^5]: 基于分数的舞台引导动态多感官融合方法用于机器手操纵
 
     Play to the Score: Stage-Guided Dynamic Multi-Sensory Fusion for Robotic Manipulation
 
@@ -125,7 +156,7 @@
 
     arXiv:2408.01366v1 Announce Type: cross  Abstract: Humans possess a remarkable talent for flexibly alternating to different senses when interacting with the environment. Picture a chef skillfully gauging the timing of ingredient additions and controlling the heat according to the colors, sounds, and aromas, seamlessly navigating through every stage of the complex cooking process. This ability is founded upon a thorough comprehension of task stages, as achieving the sub-goal within each stage can necessitate the utilization of different senses. In order to endow robots with similar ability, we incorporate the task stages divided by sub-goals into the imitation learning process to accordingly guide dynamic multi-sensory fusion. We propose MS-Bot, a stage-guided dynamic multi-sensory fusion method with coarse-to-fine stage understanding, which dynamically adjusts the priority of modalities based on the fine-grained state within the predicted current stage. We train a robot system equipped
     
-[^5]: 使用视觉语言模型对图像文本检索评价自动相关性判断的研究
+[^6]: 使用视觉语言模型对图像文本检索评价自动相关性判断的研究
 
     Toward Automatic Relevance Judgment using Vision--Language Models for Image--Text Retrieval Evaluation
 
@@ -139,7 +170,7 @@
 
     arXiv:2408.01363v1 Announce Type: cross  Abstract: Vision--Language Models (VLMs) have demonstrated success across diverse applications, yet their potential to assist in relevance judgments remains uncertain. This paper assesses the relevance estimation capabilities of VLMs, including CLIP, LLaVA, and GPT-4V, within a large-scale \textit{ad hoc} retrieval task tailored for multimedia content creation in a zero-shot fashion. Preliminary experiments reveal the following: (1) Both LLaVA and GPT-4V, encompassing open-source and closed-source visual-instruction-tuned Large Language Models (LLMs), achieve notable Kendall's $\tau \sim 0.4$ when compared to human relevance judgments, surpassing the CLIPScore metric. (2) While CLIPScore is strongly preferred, LLMs are less biased towards CLIP-based retrieval systems. (3) GPT-4V's score distribution aligns more closely with human judgments than other models, achieving a Cohen's $\kappa$ value of around 0.08, which outperforms CLIPScore at approx
     
-[^6]: 平衡残差蒸馏学习方法在3D点云分类式增量语义分割中的应用
+[^7]: 平衡残差蒸馏学习方法在3D点云分类式增量语义分割中的应用
 
     Balanced Residual Distillation Learning for 3D Point Cloud Class-Incremental Semantic Segmentation
 
@@ -153,7 +184,21 @@
 
     arXiv:2408.01356v1 Announce Type: new  Abstract: Class-incremental learning (CIL) thrives due to its success in processing the influx of information by learning from continuously added new classes while preventing catastrophic forgetting about the old ones. It is essential for the performance breakthrough of CIL to effectively refine past knowledge from the base model and balance it with new learning. However, such an issue has not yet been considered in current research. In this work, we explore the potential of CIL from these perspectives and propose a novel balanced residual distillation framework (BRD-CIL) to push the performance bar of CIL to a new higher level. Specifically, BRD-CIL designs a residual distillation learning strategy, which can dynamically expand the network structure to capture the residuals between the base and target models, effectively refining the past knowledge. Furthermore, BRD-CIL designs a balanced pseudo-label learning strategy by generating a guidance ma
     
-[^7]: PC²：基于伪分类的伪描述生成方法在跨模态检索中的噪声对应学习
+[^8]: 这里是翻译过的论文标题
+
+    Hallu-PI: Evaluating Hallucination in Multi-modal Large Language Models within Perturbed Inputs
+
+    [https://arxiv.org/abs/2408.01355](https://arxiv.org/abs/2408.01355)
+
+    这里是中文总结出的一句话要点
+
+    
+
+    这里是翻译过的论文摘要
+
+    arXiv:2408.01355v1 Announce Type: new  Abstract: Multi-modal Large Language Models (MLLMs) have demonstrated remarkable performance on various visual-language understanding and generation tasks. However, MLLMs occasionally generate content inconsistent with the given images, which is known as "hallucination". Prior works primarily center on evaluating hallucination using standard, unperturbed benchmarks, which overlook the prevalent occurrence of perturbed inputs in real-world scenarios-such as image cropping or blurring-that are critical for a comprehensive assessment of MLLMs' hallucination. In this paper, to bridge this gap, we propose Hallu-PI, the first benchmark designed to evaluate Hallucination in MLLMs within Perturbed Inputs. Specifically, Hallu-PI consists of seven perturbed scenarios, containing 1,260 perturbed images from 11 object types. Each image is accompanied by detailed annotations, which include fine-grained hallucination types, such as existence, attribute, and rel
+    
+[^9]: PC²：基于伪分类的伪描述生成方法在跨模态检索中的噪声对应学习
 
     PC$^2$: Pseudo-Classification Based Pseudo-Captioning for Noisy Correspondence Learning in Cross-Modal Retrieval
 
@@ -167,7 +212,7 @@
 
     arXiv:2408.01349v1 Announce Type: cross  Abstract: In the realm of cross-modal retrieval, seamlessly integrating diverse modalities within multimedia remains a formidable challenge, especially given the complexities introduced by noisy correspondence learning (NCL). Such noise often stems from mismatched data pairs, which is a significant obstacle distinct from traditional noisy labels. This paper introduces Pseudo-Classification based Pseudo-Captioning (PC$^2$) framework to address this challenge. PC$^2$ offers a threefold strategy: firstly, it establishes an auxiliary "pseudo-classification" task that interprets captions as categorical labels, steering the model to learn image-text semantic similarity through a non-contrastive mechanism. Secondly, unlike prevailing margin-based techniques, capitalizing on PC$^2$'s pseudo-classification capability, we generate pseudo-captions to provide more informative and tangible supervision for each mismatched pair. Thirdly, the oscillation of pse
     
-[^8]: StitchFusion: 一种融合任何视觉模态以提高多模态语义分割准确性的方法
+[^10]: StitchFusion: 一种融合任何视觉模态以提高多模态语义分割准确性的方法
 
     StitchFusion: Weaving Any Visual Modalities to Enhance Multimodal Semantic Segmentation
 
@@ -181,7 +226,7 @@
 
     arXiv:2408.01343v1 Announce Type: new  Abstract: Multimodal semantic segmentation shows significant potential for enhancing segmentation accuracy in complex scenes. However, current methods often incorporate specialized feature fusion modules tailored to specific modalities, thereby restricting input flexibility and increasing the number of training parameters. To address these challenges, we propose StitchFusion, a straightforward yet effective modal fusion framework that integrates large-scale pre-trained models directly as encoders and feature fusers. This approach facilitates comprehensive multi-modal and multi-scale feature fusion, accommodating any visual modal inputs. Specifically, Our framework achieves modal integration during encoding by sharing multi-modal visual information. To enhance information exchange across modalities, we introduce a multi-directional adapter module (MultiAdapter) to enable cross-modal information transfer during encoding. By leveraging MultiAdapter t
     
-[^9]: 机器人长期任务理解的骨干框架
+[^11]: 机器人长期任务理解的骨干框架
 
     A Backbone for Long-Horizon Robot Task Understanding
 
@@ -195,7 +240,21 @@
 
     arXiv:2408.01334v1 Announce Type: new  Abstract: End-to-end robot learning, particularly for long-horizon tasks, often results in unpredictable outcomes and poor generalization. To address these challenges, we propose a novel Therblig-based Backbone Framework (TBBF) to enhance robot task understanding and transferability. This framework uses therbligs (basic action elements) as the backbone to decompose high-level robot tasks into elemental robot configurations, which are then integrated with current foundation models to improve task understanding. The approach consists of two stages: offline training and online testing. During the offline training stage, we developed the Meta-RGate SynerFusion (MGSF) network for accurate therblig segmentation across various tasks. In the online testing stage, after a one-shot demonstration of a new task is collected, our MGSF network extracts high-level knowledge, which is then encoded into the image using Action Registration (ActionREG). Additionally
     
-[^10]: TopoNAS: 通过拓扑简化提高梯度NAS搜索效率
+[^12]: 启发自机器人的扫描路径模型揭示动态场景中不确定性和语义对象线索对于视线引导的重要性
+
+    A Robotics-Inspired Scanpath Model Reveals the Importance of Uncertainty and Semantic Object Cues for Gaze Guidance in Dynamic Scenes
+
+    [https://arxiv.org/abs/2408.01322](https://arxiv.org/abs/2408.01322)
+
+    该研究提出了一种基于机器学习模型的扫描路径算法，它在动态场景中通过不确定性和语义对象线索的结合，有效引导视线行为，并模拟了观察者的实际观看行为。
+
+    
+
+    arXiv:2408.01322v1 宣布类型：新 摘要：我们周围世界感知的方式取决于我们所积极关注的内容，但我们眼球的移动又依赖于感知到的事物。然而，物体分割和眼球运动的通常被看作是两个独立的过程。我们提出一个机制模型，它对于动态的真实世界场景模拟这些过程，并借鉴了机器人学中的信息处理模式。我们的图像可计算模型在动态场景下，不仅使用当前的物体分割进行基于物体的跳跃决策，而且还使用聚焦点物体来反复改进其场景分割结果。为了模拟这种改进，我们使用贝叶斯滤波器，还提供了对于分割的不确定性估计，以用于指导主动场景探索。我们展示了这个模型在模拟观察者自由观看行为时，与扫描路径统计数据密切相关，包括用于参数拟合的聚焦持续时间和跳跃幅度分布以及更高的层面上的观测数据。我们不仅展示了这个模型在模拟观察者自由观看行为时，与扫描路径统计数据密切相关，包括用于参数拟合的聚焦持续时间和跳跃幅度分布以及更高的层面上的观测数据。此外，我们还展示了这个模型在模拟观察者自由观看行为时，与扫描路径统计数据密切相关，包括用于参数拟合的聚焦持续时间和跳跃幅度分布以及更高的层面上的观测数据。
+
+    arXiv:2408.01322v1 Announce Type: new  Abstract: How we perceive objects around us depends on what we actively attend to, yet our eye movements depend on the perceived objects. Still, object segmentation and gaze behavior are typically treated as two independent processes. Drawing on an information processing pattern from robotics, we present a mechanistic model that simulates these processes for dynamic real-world scenes. Our image-computable model uses the current scene segmentation for object-based saccadic decision-making while using the foveated object to refine its scene segmentation recursively. To model this refinement, we use a Bayesian filter, which also provides an uncertainty estimate for the segmentation that we use to guide active scene exploration. We demonstrate that this model closely resembles observers' free viewing behavior, measured by scanpath statistics, including foveation duration and saccade amplitude distributions used for parameter fitting and higher-level s
+    
+[^13]: TopoNAS: 通过拓扑简化提高梯度NAS搜索效率
 
     TopoNAS: Boosting Search Efficiency of Gradient-based NAS via Topological Simplification
 
@@ -209,7 +268,7 @@
 
     arXiv:2408.01311v1 Announce Type: new  Abstract: Improving search efficiency serves as one of the crucial objectives of Neural Architecture Search (NAS). However, many current approaches ignore the universality of the search strategy and fail to reduce the computational redundancy during the search process, especially in one-shot NAS architectures. Besides, current NAS methods show invalid reparameterization in non-linear search space, leading to poor efficiency in common search spaces like DARTS. In this paper, we propose TopoNAS, a model-agnostic approach for gradient-based one-shot NAS that significantly reduces searching time and memory usage by topological simplification of searchable paths. Firstly, we model the non-linearity in search spaces to reveal the parameterization difficulties. To improve the search efficiency, we present a topological simplification method and iteratively apply module-sharing strategies to simplify the topological structure of searchable paths. In addit
     
-[^11]: TexGen：具有多视图采样和重采样的文本指导3D纹理生成
+[^14]: TexGen：具有多视图采样和重采样的文本指导3D纹理生成
 
     TexGen: Text-Guided 3D Texture Generation with Multi-view Sampling and Resampling
 
@@ -223,7 +282,7 @@
 
     arXiv:2408.01291v1 Announce Type: new  Abstract: Given a 3D mesh, we aim to synthesize 3D textures that correspond to arbitrary textual descriptions. Current methods for generating and assembling textures from sampled views often result in prominent seams or excessive smoothing. To tackle these issues, we present TexGen, a novel multi-view sampling and resampling framework for texture generation leveraging a pre-trained text-to-image diffusion model. For view consistent sampling, first of all we maintain a texture map in RGB space that is parameterized by the denoising step and updated after each sampling step of the diffusion model to progressively reduce the view discrepancy. An attention-guided multi-view sampling strategy is exploited to broadcast the appearance information across views. To preserve texture details, we develop a noise resampling technique that aids in the estimation of noise, generating inputs for subsequent denoising steps, as directed by the text prompt and curre
     
-[^12]: 基于深度学习的丰富视觉文档内容理解综述
+[^15]: 基于深度学习的丰富视觉文档内容理解综述
 
     Deep Learning based Visually Rich Document Content Understanding: A Survey
 
@@ -237,7 +296,7 @@
 
     arXiv:2408.01287v1 Announce Type: cross  Abstract: Visually Rich Documents (VRDs) are essential in academia, finance, medical fields, and marketing due to their multimodal information content. Traditional methods for extracting information from VRDs depend on expert knowledge and manual labor, making them costly and inefficient. The advent of deep learning has revolutionized this process, introducing models that leverage multimodal information vision, text, and layout along with pretraining tasks to develop comprehensive document representations. These models have achieved state-of-the-art performance across various downstream tasks, significantly enhancing the efficiency and accuracy of information extraction from VRDs. In response to the growing demands and rapid developments in Visually Rich Document Understanding (VRDU), this paper provides a comprehensive review of deep learning-based VRDU frameworks. We systematically survey and analyze existing methods and benchmark datasets, ca
     
-[^13]: 音频视觉泛化零样本学习中的分布外检测：一个通用的框架
+[^16]: 音频视觉泛化零样本学习中的分布外检测：一个通用的框架
 
     Out-Of-Distribution Detection for Audio-visual Generalized Zero-Shot Learning: A General Framework
 
@@ -251,7 +310,7 @@
 
     arXiv:2408.01284v1 Announce Type: cross  Abstract: Generalized Zero-Shot Learning (GZSL) is a challenging task requiring accurate classification of both seen and unseen classes. Within this domain, Audio-visual GZSL emerges as an extremely exciting yet difficult task, given the inclusion of both visual and acoustic features as multi-modal inputs. Existing efforts in this field mostly utilize either embedding-based or generative-based methods. However, generative training is difficult and unstable, while embedding-based methods often encounter domain shift problem. Thus, we find it promising to integrate both methods into a unified framework to leverage their advantages while mitigating their respective disadvantages. Our study introduces a general framework employing out-of-distribution (OOD) detection, aiming to harness the strengths of both approaches. We first employ generative adversarial networks to synthesize unseen features, enabling the training of an OOD detector alongside cla
     
-[^14]: Wave-Mamba：适用于超高清低光照增强的波尔状态空间模型
+[^17]: Wave-Mamba：适用于超高清低光照增强的波尔状态空间模型
 
     Wave-Mamba: Wavelet State Space Model for Ultra-High-Definition Low-Light Image Enhancement
 
@@ -265,7 +324,7 @@
 
     arXiv:2408.01276v1 Announce Type: new  Abstract: Ultra-high-definition (UHD) technology has attracted widespread attention due to its exceptional visual quality, but it also poses new challenges for low-light image enhancement (LLIE) techniques. UHD images inherently possess high computational complexity, leading existing UHD LLIE methods to employ high-magnification downsampling to reduce computational costs, which in turn results in information loss. The wavelet transform not only allows downsampling without loss of information, but also separates the image content from the noise. It enables state space models (SSMs) to avoid being affected by noise when modeling long sequences, thus making full use of the long-sequence modeling capability of SSMs. On this basis, we propose Wave-Mamba, a novel approach based on two pivotal insights derived from the wavelet domain: 1) most of the content information of an image exists in the low-frequency component, less in the high-frequency componen
     
-[^15]: 文本到3D内容创建的通用框架，通过词汇丰富性提高3D GS初始化
+[^18]: 文本到3D内容创建的通用框架，通过词汇丰富性提高3D GS初始化
 
     A General Framework to Boost 3D GS Initialization for Text-to-3D Generation by Lexical Richness
 
@@ -279,7 +338,35 @@
 
     arXiv:2408.01269v1 Announce Type: new  Abstract: Text-to-3D content creation has recently received much attention, especially with the prevalence of 3D Gaussians Splatting. In general, GS-based methods comprise two key stages: initialization and rendering optimization. To achieve initialization, existing works directly apply random sphere initialization or 3D diffusion models, e.g., Point-E, to derive the initial shapes. However, such strategies suffer from two critical yet challenging problems: 1) the final shapes are still similar to the initial ones even after training; 2) shapes can be produced only from simple texts, e.g., "a dog", not for lexically richer texts, e.g., "a dog is sitting on the top of the airplane". To address these problems, this paper proposes a novel general framework to boost the 3D GS Initialization for text-to-3D generation upon the lexical richness. Our key idea is to aggregate 3D Gaussians into spatially uniform voxels to represent complex shapes while enab
     
-[^16]: S2TD-Face: 从单幅草图重建具有可控纹理的详细3D面孔
+[^19]: 原论文标题：《原力觉醒：揭露视觉语言模型的隐私泄露》
+
+    The Phantom Menace: Unmasking Privacy Leakages in Vision-Language Models
+
+    [https://arxiv.org/abs/2408.01228](https://arxiv.org/abs/2408.01228)
+
+    本文揭示了在训练数据中包含敏感信息的视觉语言模型（VLMs）可能会无意中泄露个人身份信息，即便使用匿名化处理。
+
+    
+
+    原论文摘要：姚恩文，(2024). 随着计算机视觉和自然语言处理的快速发展，视觉语言模型(VLMs)已经成为结合图像理解和文本描述的强大工具，广泛应用于各种任务中，包括生成图像描述和回答视觉相关问题。然而，这种能力建立在一个大型的未经过滤的数据集之上，该数据集可能包含了敏感信息，这些模型有可能学习和泄露这些信息，引起了严重的隐私问题。本文的目的旨在评估这些潜在的隐私泄露问题，特别是关注身份泄露方面。通过一系列实验，我们发现：（1）即使使用匿名的训练数据，VLMs仍然能泄露身份信息；(2) 上下文对身份泄露的影响不大；(3) 目前常见的匿名化技术，如图像模糊，并不能有效地解决这一问题。这些发现凸显了在部署这些模型之前需要采取严格的隐私保护措施的紧迫性。伦理方面，这一研究必须慎重记录和报告所有发现，并向相关利益相关者通报可能的风险。
+
+    arXiv:2408.01228v1 Announce Type: new  Abstract: Vision-Language Models (VLMs) combine visual and textual understanding, rendering them well-suited for diverse tasks like generating image captions and answering visual questions across various domains. However, these capabilities are built upon training on large amount of uncurated data crawled from the web. The latter may include sensitive information that VLMs could memorize and leak, raising significant privacy concerns. In this paper, we assess whether these vulnerabilities exist, focusing on identity leakage. Our study leads to three key findings: (i) VLMs leak identity information, even when the vision-language alignment and the fine-tuning use anonymized data; (ii) context has little influence on identity leakage; (iii) simple, widely used anonymization techniques, like blurring, are not sufficient to address the problem. These findings underscore the urgent need for robust privacy protection strategies when deploying VLMs. Ethic
+    
+[^20]: 多头空间- spectral Mamba 用于 hyperspectral 图像分类
+
+    Multi-head Spatial-Spectral Mamba for Hyperspectral Image Classification
+
+    [https://arxiv.org/abs/2408.01224](https://arxiv.org/abs/2408.01224)
+
+    该论文提出了一种名为MHSSMamba的新模型，该模型结合了空间和时间光谱信息，通过增强光谱标记和多头注意来捕捉复杂关系，并在多个HSI数据集上实现了最高的分类准确率。
+
+    
+
+    摘要类型：新版 arXiv: 2408.01224v1 宣布内容： 摘要 Spatial-Spectral Mamba (SSM) 改进了计算效率并捕获了长距离依赖，解决了Transformer的局限性。然而，传统Mamba模型忽略了HSI中丰富的光谱信息，并且在处理高维度和序列数据时遇到了困难。为了解决这些问题，我们提出了带有多头自注意力和标记增强的SSM（MHSSMamba）。该模型通过增强光谱标记和使用多头注意来捕捉光谱条带和空间位置之间的复杂关系，集成光谱和空间信息。它还管理了HSI数据的长距离依赖性和序列本质，保留了光谱条带之间的重要上下文信息。MHSSMamba在Pavia University、University of Houston、Salinas和Wuhan-longKou数据集上的分类准确率分别为97.62%、96.92%、96.85%和99.49%。
+
+    arXiv:2408.01224v1 Announce Type: new  Abstract: Spatial-Spectral Mamba (SSM) improves computational efficiency and captures long-range dependencies, addressing Transformer limitations. However, traditional Mamba models overlook rich spectral information in HSIs and struggle with high dimensionality and sequential data. To address these issues, we propose the SSM with multi-head self-attention and token enhancement (MHSSMamba). This model integrates spectral and spatial information by enhancing spectral tokens and using multi-head attention to capture complex relationships between spectral bands and spatial locations. It also manages long-range dependencies and the sequential nature of HSI data, preserving contextual information across spectral bands. MHSSMamba achieved remarkable classification accuracies of 97.62\% on Pavia University, 96.92\% on the University of Houston, 96.85\% on Salinas, and 99.49\% on Wuhan-longKou datasets.
+    
+[^21]: S2TD-Face: 从单幅草图重建具有可控纹理的详细3D面孔
 
     S2TD-Face: Reconstruct a Detailed 3D Face with Controllable Texture from a Single Sketch
 
@@ -293,7 +380,7 @@
 
     arXiv:2408.01218v1 Announce Type: new  Abstract: 3D textured face reconstruction from sketches applicable in many scenarios such as animation, 3D avatars, artistic design, missing people search, etc., is a highly promising but underdeveloped research topic. On the one hand, the stylistic diversity of sketches leads to existing sketch-to-3D-face methods only being able to handle pose-limited and realistically shaded sketches. On the other hand, texture plays a vital role in representing facial appearance, yet sketches lack this information, necessitating additional texture control in the reconstruction process. This paper proposes a novel method for reconstructing controllable textured and detailed 3D faces from sketches, named S2TD-Face. S2TD-Face introduces a two-stage geometry reconstruction framework that directly reconstructs detailed geometry from the input sketch. To keep geometry consistent with the delicate strokes of the sketch, we propose a novel sketch-to-geometry loss that 
     
-[^17]: 论文标题: 一个弱监督和全局可解释的大脑肿瘤分割学习框架
+[^22]: 论文标题: 一个弱监督和全局可解释的大脑肿瘤分割学习框架
 
     A Weakly Supervised and Globally Explainable Learning Framework for Brain Tumor Segmentation
 
@@ -307,7 +394,7 @@
 
     arXiv:2408.01191v1 Announce Type: new  Abstract: Machine-based brain tumor segmentation can help doctors make better diagnoses. However, the complex structure of brain tumors and expensive pixel-level annotations present challenges for automatic tumor segmentation. In this paper, we propose a counterfactual generation framework that not only achieves exceptional brain tumor segmentation performance without the need for pixel-level annotations, but also provides explainability. Our framework effectively separates class-related features from class-unrelated features of the samples, and generate new samples that preserve identity features while altering class attributes by embedding different class-related features. We perform topological data analysis on the extracted class-related features and obtain a globally explainable manifold, and for each abnormal sample to be segmented, a meaningful normal sample could be effectively generated with the guidance of the rule-based paths designed w
     
-[^18]: VAR-CLIP: 使用视觉自回归建模的文本到图像生成器
+[^23]: VAR-CLIP: 使用视觉自回归建模的文本到图像生成器
 
     VAR-CLIP: Text-to-Image Generator with Visual Auto-Regressive Modeling
 
@@ -321,7 +408,7 @@
 
     arXiv:2408.01181v1 Announce Type: new  Abstract: VAR is a new generation paradigm that employs 'next-scale prediction' as opposed to 'next-token prediction'. This innovative transformation enables auto-regressive (AR) transformers to rapidly learn visual distributions and achieve robust generalization. However, the original VAR model is constrained to class-conditioned synthesis, relying solely on textual captions for guidance. In this paper, we introduce VAR-CLIP, a novel text-to-image model that integrates Visual Auto-Regressive techniques with the capabilities of CLIP. The VAR-CLIP framework encodes captions into text embeddings, which are then utilized as textual conditions for image generation. To facilitate training on extensive datasets, such as ImageNet, we have constructed a substantial image-text dataset leveraging BLIP2. Furthermore, we delve into the significance of word positioning within CLIP for the purpose of caption guidance. Extensive experiments confirm VAR-CLIP's pr
     
-[^19]: 重思面向多实例学习在整张切片图像分类中的预训练特征提取器选择
+[^24]: 重思面向多实例学习在整张切片图像分类中的预训练特征提取器选择
 
     Rethinking Pre-trained Feature Extractor Selection in Multiple Instance Learning for Whole Slide Image Classification
 
@@ -335,7 +422,7 @@
 
     arXiv:2408.01167v1 Announce Type: new  Abstract: Multiple instance learning (MIL) has become a preferred method for classifying gigapixel whole slide images (WSIs), without requiring patch label annotation. The focus of the current MIL research stream is on the embedding-based MIL approach, which involves extracting feature vectors from patches using a pre-trained feature extractor. These feature vectors are then fed into an MIL aggregator for slide-level prediction. Despite prior research suggestions on enhancing the most commonly used ResNet50 supervised model pre-trained on ImageNet-1K, there remains a lack of clear guidance on selecting the optimal feature extractor to maximize WSI performance. This study aims at addressing this gap by examining MIL feature extractors across three dimensions: pre-training dataset, backbone model, and pre-training method. Extensive experiments were carried out on the two public WSI datasets (TCGA-NSCLC and Camelyon16) using four SOTA MIL models. The
     
-[^20]: PreMix:通过预训练内批量切片混合提高数字组织病理学的多实例学习
+[^25]: PreMix:通过预训练内批量切片混合提高数字组织病理学的多实例学习
 
     PreMix: Boosting Multiple Instance Learning in Digital Histopathology through Pre-training with Intra-Batch Slide Mixing
 
@@ -349,7 +436,21 @@
 
     arXiv:2408.01162v1 Announce Type: new  Abstract: The classification of gigapixel-sized whole slide images (WSIs), digital representations of histological slides obtained via a high-resolution scanner, faces significant challenges associated with the meticulous and time-consuming nature of fine-grained labeling. While weakly-supervised multiple instance learning (MIL) has emerged as a promising approach, current MIL methods are constrained by their limited ability to leverage the wealth of information embedded within unlabeled WSIs. This limitation often necessitates training MIL feature aggregators from scratch after the feature extraction process, hindering efficiency and accuracy. PreMix extends the general MIL framework by pre-training the MIL aggregator with an intra-batch slide mixing approach. Specifically, PreMix incorporates Barlow Twins Slide Mixing during pre-training, enhancing its ability to handle diverse WSI sizes and maximizing the utility of unlabeled WSIs. Combined wit
     
-[^21]: 使用定理谱重要性分解解释图像模型的全局扰动鲁棒性
+[^26]: 基于吸引场的鲁棒体素医疗成像曲线检测
+
+    Robust Curve Detection in Volumetric Medical Imaging via Attraction Field
+
+    [https://arxiv.org/abs/2408.01159](https://arxiv.org/abs/2408.01159)
+
+    本文提出了一种不依赖物体方向、形状或位置预测的曲线检测新方法，该方法利用神经网络预测吸引场和亲密度图，实现了超越现有方法的惊艳曲线检测精度。
+
+    
+
+    论文标题：理解身体几何在精确的医学诊断中至关重要。曲线有效地描述了人体结构，并在与心血管、呼吸系统和骨骼疾病相关的医学成像应用中得到了广泛应用。传统的大众检测方法通常是专门为特定任务设计的，它们依赖于领域特定的特征，这限制了它们更广泛的应用范围。本文介绍了一种检测非分支曲线的全新方法，该方法不需要事先了解物体方向、形状或位置等方面的知识。我们的方法使用神经网络预测（1）吸引场，该场提供亚像素精度，以及（2）亲密度图，该图限制了感兴趣的区域，有效地消除了远离所需曲线远处的异常值。我们在几种临床相关任务上测试了我们的曲线检测器，这些任务包含多种不同的形态学特征，并获得了超越现有方法的可喜的亚像素级精度结果。
+
+    arXiv:2408.01159v1 Announce Type: new  Abstract: Understanding body part geometry is crucial for precise medical diagnostics. Curves effectively describe anatomical structures and are widely used in medical imaging applications related to cardiovascular, respiratory, and skeletal diseases. Traditional curve detection methods are often task-specific, relying heavily on domain-specific features, limiting their broader applicability. This paper introduces a novel approach for detecting non-branching curves, which does not require prior knowledge of the object's orientation, shape, or position. Our method uses neural networks to predict (1) an attraction field, which offers subpixel accuracy, and (2) a closeness map, which limits the region of interest and essentially eliminates outliers far from the desired curve. We tested our curve detector on several clinically relevant tasks with diverse morphologies and achieved impressive subpixel-level accuracy results that surpass existing methods
+    
+[^27]: 使用定理谱重要性分解解释图像模型的全局扰动鲁棒性
 
     Interpreting Global Perturbation Robustness of Image Models using Axiomatic Spectral Importance Decomposition
 
@@ -363,7 +464,7 @@
 
     arXiv:2408.01139v1 Announce Type: cross  Abstract: Perturbation robustness evaluates the vulnerabilities of models, arising from a variety of perturbations, such as data corruptions and adversarial attacks. Understanding the mechanisms of perturbation robustness is critical for global interpretability. We present a model-agnostic, global mechanistic interpretability method to interpret the perturbation robustness of image models. This research is motivated by two key aspects. First, previous global interpretability works, in tandem with robustness benchmarks, e.g. mean corruption error (mCE), are not designed to directly interpret the mechanisms of perturbation robustness within image models. Second, we notice that the spectral signal-to-noise ratios (SNR) of perturbed natural images exponentially decay over the frequency. This power-law-like decay implies that: Low-frequency signals are generally more robust than high-frequency signals -- yet high classification accuracy can not be ac
     
-[^22]: PGNeXt：基于金字塔嫁接网络的超高分辨率显著对象检测
+[^28]: PGNeXt：基于金字塔嫁接网络的超高分辨率显著对象检测
 
     PGNeXt: High-Resolution Salient Object Detection via Pyramid Grafting Network
 
@@ -377,7 +478,7 @@
 
     arXiv:2408.01137v1 Announce Type: new  Abstract: We present an advanced study on more challenging high-resolution salient object detection (HRSOD) from both dataset and network framework perspectives. To compensate for the lack of HRSOD dataset, we thoughtfully collect a large-scale high resolution salient object detection dataset, called UHRSD, containing 5,920 images from real-world complex scenarios at 4K-8K resolutions. All the images are finely annotated in pixel-level, far exceeding previous low-resolution SOD datasets. Aiming at overcoming the contradiction between the sampling depth and the receptive field size in the past methods, we propose a novel one-stage framework for HR-SOD task using pyramid grafting mechanism. In general, transformer-based and CNN-based backbones are adopted to extract features from different resolution images independently and then these features are grafted from transformer branch to CNN branch. An attention-based Cross-Model Grafting Module (CMGM) i
     
-[^23]: IG-SLAM: 即时高斯SLAM
+[^29]: IG-SLAM: 即时高斯SLAM
 
     IG-SLAM: Instant Gaussian SLAM
 
@@ -391,7 +492,7 @@
 
     arXiv:2408.01126v1 Announce Type: cross  Abstract: 3D Gaussian Splatting has recently shown promising results as an alternative scene representation in SLAM systems to neural implicit representations. However, current methods either lack dense depth maps to supervise the mapping process or detailed training designs that consider the scale of the environment. To address these drawbacks, we present IG-SLAM, a dense RGB-only SLAM system that employs robust Dense-SLAM methods for tracking and combines them with Gaussian Splatting. A 3D map of the environment is constructed using accurate pose and dense depth provided by tracking. Additionally, we utilize depth uncertainty in map optimization to improve 3D reconstruction. Our decay strategy in map optimization enhances convergence and allows the system to run at 10 fps in a single process. We demonstrate competitive performance with state-of-the-art RGB-only SLAM systems while achieving faster operation speeds. We present our experiments on
     
-[^24]: 高效有效的Transformer解码器基多任务视觉定位框架
+[^30]: 高效有效的Transformer解码器基多任务视觉定位框架
 
     An Efficient and Effective Transformer Decoder-Based Framework for Multi-Task Visual Grounding
 
@@ -405,7 +506,21 @@
 
     arXiv:2408.01120v1 Announce Type: new  Abstract: Most advanced visual grounding methods rely on Transformers for visual-linguistic feature fusion. However, these Transformer-based approaches encounter a significant drawback: the computational costs escalate quadratically due to the self-attention mechanism in the Transformer Encoder, particularly when dealing with high-resolution images or long context sentences. This quadratic increase in computational burden restricts the applicability of visual grounding to more intricate scenes, such as conversation-based reasoning segmentation, which involves lengthy language expressions. In this paper, we propose an efficient and effective multi-task visual grounding (EEVG) framework based on Transformer Decoder to address this issue, which reduces the cost in both language and visual aspects. In the language aspect, we employ the Transformer Decoder to fuse visual and linguistic features, where linguistic features are input as memory and visual 
     
-[^25]: 半优化的典型部分最优运输理论在跨领域适配中的普遍应用
+[^31]: 基于贡献的低秩适应性与预训练模型在真实图像修复中的应用
+
+    Contribution-based Low-Rank Adaptation with Pre-training Model for Real Image Restoration
+
+    [https://arxiv.org/abs/2408.01099](https://arxiv.org/abs/2408.01099)
+
+    本文提出了一种高效参数调优方法CoLoRA，通过随机失真预训练（PROD）和贡献性低秩适应性，针对多个真实图像修复任务，大幅简化了模型的复杂性，并在精度与内存需求上超越了现有方法。
+
+    
+
+    arXiv:2408.01099v1 公告类型: 交叉  摘要: 最近，在自然语言处理和高层次计算机视觉中，借助掩码建模和提示调优，预训练模型和高效参数调优取得了显著的成功。然而，在低层次计算机视觉领域，对预训练模型的研究有限，尽管其在各种现实世界任务（如减轻AI边缘设备上新任务时的内存膨胀问题）中的重要性与收益备受关注，高效的小批量参数调优策略尚未被探索。这里，我们提出了一个新颖的有效参数调优方法，称为贡献性低秩适应性（CoLoRA），用于多个图像修复任务，以及一种有效的预训练方法，名为随机顺序失真（PROD）。与之前所有网络参数调优的工作不同，我们的CoLoRA通过利用LoRA（低秩适应性）针对每个新的视觉任务来有效地调优少量参数。我们采用一种贡献测量机制，通过分析网络的感知变化权重来指导网络参数的选定和优化，极大地简化了模型的复杂性，同时保持了高效的性能。我们证明，在多个真实世界图像修复任务上，通过PROD和CoLoRA的协同作用，我们的方法在精度和内存需求方面均优于现有的预训练和调优方法。我们的工作丰富了图像处理领域的预训练范式，并为AI边缘设备上的新任务集成提供了有效的方法。
+
+    arXiv:2408.01099v1 Announce Type: cross  Abstract: Recently, pre-trained model and efficient parameter tuning have achieved remarkable success in natural language processing and high-level computer vision with the aid of masked modeling and prompt tuning. In low-level computer vision, however, there have been limited investigations on pre-trained models and even efficient fine-tuning strategy has not yet been explored despite its importance and benefit in various real-world tasks such as alleviating memory inflation issue when integrating new tasks on AI edge devices. Here, we propose a novel efficient parameter tuning approach dubbed contribution-based low-rank adaptation (CoLoRA) for multiple image restorations along with effective pre-training method with random order degradations (PROD). Unlike prior arts that tune all network parameters, our CoLoRA effectively fine-tunes small amount of parameters by leveraging LoRA (low-rank adaptation) for each new vision task with our contribut
+    
+[^32]: 半优化的典型部分最优运输理论在跨领域适配中的普遍应用
 
     Prototypical Partial Optimal Transport for Universal Domain Adaptation
 
@@ -419,7 +534,35 @@
 
     arXiv:2408.01089v1 Announce Type: new  Abstract: Universal domain adaptation (UniDA) aims to transfer knowledge from a labeled source domain to an unlabeled target domain without requiring the same label sets of both domains. The existence of domain and category shift makes the task challenging and requires us to distinguish "known" samples (i.e., samples whose labels exist in both domains) and "unknown" samples (i.e., samples whose labels exist in only one domain) in both domains before reducing the domain gap. In this paper, we consider the problem from the point of view of distribution matching which we only need to align two distributions partially. A novel approach, dubbed mini-batch Prototypical Partial Optimal Transport (m-PPOT), is proposed to conduct partial distribution alignment for UniDA. In training phase, besides minimizing m-PPOT, we also leverage the transport plan of m-PPOT to reweight source prototypes and target samples, and design reweighted entropy loss and reweigh
     
-[^26]: PhysMamba: 利用双流跨注意力SSD进行远程生理测量
+[^33]: 《气象条件下的雾粒径分布对三维物体检测的影响》
+
+    Effect of Fog Particle Size Distribution on 3D Object Detection Under Adverse Weather Conditions
+
+    [https://arxiv.org/abs/2408.01085](https://arxiv.org/abs/2408.01085)
+
+    研究探讨了雾粒径分布对自动驾驶车辆三维物体检测系统性能的影响，并通过计算和实验研究发现雾粒子的大小分布显著降低了系统的检测准确性。
+
+    
+
+    arXiv:2408.01085v1 公告类型：新 Abstract: 激光雷达传感器使用光学频谱信号在自主驾驶车辆的系统中提供了关于目标对象的重要信息。然而，大气中雾的存在严重损害了整体系统的性能。本文分析了雾粒径分布在不良天气条件下对三维物体检测的影响。我们利用米氏理论和气象光学范围（MOR）来计算点云生成中的衰减和后向散射系数值，并分析了在易、中、难检测难度条件下自动驾驶车辆系统在汽车、自行车和行人情况下的总体准确性。在强的和温和的吹送雾环境中，我们使用了伽马分布和朱恩（幂律）分布来数学上模拟雾粒径分布。随后，我们根据后向散射系数值修改了KITTI数据集，并对实验结果进行了评估分析，以揭示雾粒径分布对三维物体检测的潜在影响。
+
+    arXiv:2408.01085v1 Announce Type: new  Abstract: LiDAR-based sensors employing optical spectrum signals play a vital role in providing significant information about the target objects in autonomous driving vehicle systems. However, the presence of fog in the atmosphere severely degrades the overall system's performance. This manuscript analyzes the role of fog particle size distributions in 3D object detection under adverse weather conditions. We utilise Mie theory and meteorological optical range (MOR) to calculate the attenuation and backscattering coefficient values for point cloud generation and analyze the overall system's accuracy in Car, Cyclist, and Pedestrian case scenarios under easy, medium and hard detection difficulties. Gamma and Junge (Power-Law) distributions are employed to mathematically model the fog particle size distribution under strong and moderate advection fog environments. Subsequently, we modified the KITTI dataset based on the backscattering coefficient valu
+    
+[^34]: FCDFusion：一种快速的低色差可见与红外图像对融合方法
+
+    FCDFusion: a Fast, Low Color Deviation Method for Fusing Visible and Infrared Image Pairs
+
+    [https://arxiv.org/abs/2408.01080](https://arxiv.org/abs/2408.01080)
+
+    该论文提出了一个名为FCDFusion的快速低色差可见与红外图像融合方法，该方法通过直接在RGB颜色空间中操作，以及引入伽马校正，以极低的计算成本实现了图像色彩和对比度的快速提升，从而在保持图像质量的同时显著提高了处理速度。
+
+    
+
+    arXiv:2408.01080v1 公告类型：新 Abstract: 可见与红外图像融合（VIF）旨在将可见和红外图像的信息融合为单张融合图像。以往的VIF方法通常使用颜色空间转换来保持原始可见图像的色调和饱和度。然而，对于快速VIF方法，这个操作占计算的大部分，并且是阻止更快速处理的主要瓶颈。在本文中，我们提出了一个快速的融合方法，名为FCDFusion，它具有极低的颜色偏离。通过直接在RGB颜色空间中操作，它不用颜色的空间转换，就能够保留颜色信息。它通过轻微的成本引入伽马校正，允许快速地改善色彩和对比度。我们将融合过程视为对3D颜色向量的缩放操作，大大简化了计算。理论分析和实验表明，我们的方法可以在每像素7个浮点运算（FLOPs）的情况下达到令人满意的成果。相比于现有技术，我们的方法在处理速度、图像质量上都有了显著的提高。
+
+    arXiv:2408.01080v1 Announce Type: new  Abstract: Visible and infrared image fusion (VIF) aims to combine information from visible and infrared images into a single fused image. Previous VIF methods usually employ a color space transformation to keep the hue and saturation from the original visible image. However, for fast VIF methods, this operation accounts for the majority of the calculation and is the bottleneck preventing faster processing. In this paper, we propose a fast fusion method, FCDFusion, with little color deviation. It preserves color information without color space transformations, by directly operating in RGB color space. It incorporates gamma correction at little extra cost, allowing color and contrast to be rapidly improved. We regard the fusion process as a scaling operation on 3D color vectors, greatly simplifying the calculations. A theoretical analysis and experiments show that our method can achieve satisfactory results in only 7 FLOPs per pixel. Compared to sta
+    
+[^35]: PhysMamba: 利用双流跨注意力SSD进行远程生理测量
 
     PhysMamba: Leveraging Dual-Stream Cross-Attention SSD for Remote Physiological Measurement
 
@@ -433,7 +576,7 @@
 
     arXiv:2408.01077v1 Announce Type: new  Abstract: Remote Photoplethysmography (rPPG) is a non-contact technique for extracting physiological signals from facial videos, used in applications like emotion monitoring, medical assistance, and anti-face spoofing. Unlike controlled laboratory settings, real-world environments often contain motion artifacts and noise, affecting the performance of existing methods. To address this, we propose PhysMamba, a dual-stream time-frequency interactive model based on Mamba. PhysMamba integrates the state-of-the-art Mamba-2 model and employs a dual-stream architecture to learn diverse rPPG features, enhancing robustness in noisy conditions. Additionally, we designed the Cross-Attention State Space Duality (CASSD) module to improve information exchange and feature complementarity between the two streams. We validated PhysMamba using PURE, UBFC-rPPG and MMPD. Experimental results show that PhysMamba achieves state-of-the-art performance across various scen
     
-[^27]: 使用预训练文本编码器语义知识进行持续学习
+[^36]: 使用预训练文本编码器语义知识进行持续学习
 
     Exploiting the Semantic Knowledge of Pre-trained Text-Encoders for Continual Learning
 
@@ -447,7 +590,7 @@
 
     arXiv:2408.01076v1 Announce Type: new  Abstract: Deep neural networks (DNNs) excel on fixed datasets but struggle with incremental and shifting data in real-world scenarios. Continual learning addresses this challenge by allowing models to learn from new data while retaining previously learned knowledge. Existing methods mainly rely on visual features, often neglecting the rich semantic information encoded in text. The semantic knowledge available in the label information of the images, offers important semantic information that can be related with previously acquired knowledge of semantic classes. Consequently, effectively leveraging this information throughout continual learning is expected to be beneficial. To address this, we propose integrating semantic guidance within and across tasks by capturing semantic similarity using text embeddings. We start from a pre-trained CLIP model, employ the \emph{Semantically-guided Representation Learning (SG-RL)} module for a soft-assignment tow
     
-[^28]: 跨模态分割法在腹腔镜手术视频中的应用
+[^37]: 跨模态分割法在腹腔镜手术视频中的应用
 
     Amodal Segmentation for Laparoscopic Surgery Video Instruments
 
@@ -461,7 +604,7 @@
 
     arXiv:2408.01067v1 Announce Type: new  Abstract: Segmentation of surgical instruments is crucial for enhancing surgeon performance and ensuring patient safety. Conventional techniques such as binary, semantic, and instance segmentation share a common drawback: they do not accommodate the parts of instruments obscured by tissues or other instruments. Precisely predicting the full extent of these occluded instruments can significantly improve laparoscopic surgeries by providing critical guidance during operations and assisting in the analysis of potential surgical errors, as well as serving educational purposes. In this paper, we introduce Amodal Segmentation to the realm of surgical instruments in the medical field. This technique identifies both the visible and occluded parts of an object. To achieve this, we introduce a new Amoal Instruments Segmentation (AIS) dataset, which was developed by reannotating each instrument with its complete mask, utilizing the 2017 MICCAI EndoVis Robotic
     
-[^29]: 通过视觉基础模型像素级监督提升视线对象预测
+[^38]: 通过视觉基础模型像素级监督提升视线对象预测
 
     Boosting Gaze Object Prediction via Pixel-level Supervision from Vision Foundation Model
 
@@ -475,7 +618,7 @@
 
     arXiv:2408.01044v1 Announce Type: new  Abstract: Gaze object prediction (GOP) aims to predict the category and location of the object that a human is looking at. Previous methods utilized box-level supervision to identify the object that a person is looking at, but struggled with semantic ambiguity, ie, a single box may contain several items since objects are close together. The Vision foundation model (VFM) has improved in object segmentation using box prompts, which can reduce confusion by more precisely locating objects, offering advantages for fine-grained prediction of gaze objects. This paper presents a more challenging gaze object segmentation (GOS) task, which involves inferring the pixel-level mask corresponding to the object captured by human gaze behavior. In particular, we propose that the pixel-level supervision provided by VFM can be integrated into gaze object prediction to mitigate semantic ambiguity. This leads to our gaze object detection and segmentation framework th
     
-[^30]: 使用随机和噪杂切混分式 vision transformers 的隐私保护分成学习
+[^39]: 使用随机和噪杂切混分式 vision transformers 的隐私保护分成学习
 
     Privacy-Preserving Split Learning with Vision Transformers using Patch-Wise Random and Noisy CutMix
 
@@ -489,7 +632,7 @@
 
     arXiv:2408.01040v1 Announce Type: cross  Abstract: In computer vision, the vision transformer (ViT) has increasingly superseded the convolutional neural network (CNN) for improved accuracy and robustness. However, ViT's large model sizes and high sample complexity make it difficult to train on resource-constrained edge devices. Split learning (SL) emerges as a viable solution, leveraging server-side resources to train ViTs while utilizing private data from distributed devices. However, SL requires additional information exchange for weight updates between the device and the server, which can be exposed to various attacks on private training data. To mitigate the risk of data breaches in classification tasks, inspired from the CutMix regularization, we propose a novel privacy-preserving SL framework that injects Gaussian noise into smashed data and mixes randomly chosen patches of smashed data across clients, coined DP-CutMixSL. Our analysis demonstrates that DP-CutMixSL is a differenti
     
-[^31]: 基于运动结构的全动态估计和未知形状空间碎片的三维重建
+[^40]: 基于运动结构的全动态估计和未知形状空间碎片的三维重建
 
     Structure from Motion-based Motion Estimation and 3D Reconstruction of Unknown Shaped Space Debris
 
@@ -503,7 +646,7 @@
 
     arXiv:2408.01035v1 Announce Type: new  Abstract: With the boost in the number of spacecraft launches in the current decades, the space debris problem is daily becoming significantly crucial. For sustainable space utilization, the continuous removal of space debris is the most severe problem for humanity. To maximize the reliability of the debris capture mission in orbit, accurate motion estimation of the target is essential. Space debris has lost its attitude and orbit control capabilities, and its shape is unknown due to the break. This paper proposes the Structure from Motion-based algorithm to perform unknown shaped space debris motion estimation with limited resources, where only 2D images are required as input. The method then outputs the reconstructed shape of the unknown object and the relative pose trajectory between the target and the camera simultaneously, which are exploited to estimate the target's motion. The method is quantitatively validated with the realistic image data
     
-[^32]: 论文标题：用于医学图像分析的物理信息网络：一个综述
+[^41]: 论文标题：用于医学图像分析的物理信息网络：一个综述
 
     PINNs for Medical Image Analysis: A Survey
 
@@ -517,7 +660,7 @@
 
     arXiv:2408.01026v1 Announce Type: cross  Abstract: The incorporation of physical information in machine learning frameworks is transforming medical image analysis (MIA). By integrating fundamental knowledge and governing physical laws, these models achieve enhanced robustness and interpretability. In this work, we explore the utility of physics-informed approaches for MIA (PIMIA) tasks such as registration, generation, classification, and reconstruction. We present a systematic literature review of over 80 papers on physics-informed methods dedicated to MIA. We propose a unified taxonomy to investigate what physics knowledge and processes are modelled, how they are represented, and the strategies to incorporate them into MIA models. We delve deep into a wide range of image analysis tasks, from imaging, generation, prediction, inverse imaging (super-resolution and reconstruction), registration, and image analysis (segmentation and classification). For each task, we thoroughly examine an
     
-[^33]: EIUP：一种基于隐式不安全提示的条件擦除非合规概念训练免费方法
+[^42]: EIUP：一种基于隐式不安全提示的条件擦除非合规概念训练免费方法
 
     EIUP: A Training-Free Approach to Erase Non-Compliant Concepts Conditioned on Implicit Unsafe Prompts
 
@@ -531,7 +674,21 @@
 
     arXiv:2408.01014v1 Announce Type: new  Abstract: Text-to-image diffusion models have shown the ability to learn a diverse range of concepts. However, it is worth noting that they may also generate undesirable outputs, consequently giving rise to significant security concerns. Specifically, issues such as Not Safe for Work (NSFW) content and potential violations of style copyright may be encountered. Since image generation is conditioned on text, prompt purification serves as a straightforward solution for content safety. Similar to the approach taken by LLM, some efforts have been made to control the generation of safe outputs by purifying prompts. However, it is also important to note that even with these efforts, non-toxic text still carries a risk of generating non-compliant images, which is referred to as implicit unsafe prompts. Furthermore, some existing works fine-tune the models to erase undesired concepts from model weights. This type of method necessitates multiple training i
     
-[^34]: 论文标题: 从激光雷达和航空影像中提取物体高度
+[^43]: FBSDiff: 插拔式频率带替代式扩散特征变换的高可控制文本驱动图像翻译
+
+    FBSDiff: Plug-and-Play Frequency Band Substitution of Diffusion Features for Highly Controllable Text-Driven Image Translation
+
+    [https://arxiv.org/abs/2408.00998](https://arxiv.org/abs/2408.00998)
+
+    本文提出了一种将预训练的文本到图像扩散模型高效地转换为图像到图像编辑工具的新型方法，使得用户可以根据文本描述灵活地控制图像内容。
+
+    
+
+    arXiv:2408.00998v1 公告类型: 新  摘要: 大规模文本到图像 diffusion 模型在生成人工智能和多模态技术的发展中是一个革命性的里程碑，它允许根据自然语言文本提示生成非凡的图像。然而，这类模型缺乏可控性的问题限制了它们在现实生活中的实际应用，因为注意力已经集中在利用参考图像来控制文本到图像的合成。由于参考图像与生成的图像之间的密切关系，这个问题也可以被看作是根据文本操纵（或者编辑）参考图像的任务，即文本驱动的图像到图像翻译。本文贡献了一种新颖、简练、高效的方法，该方法将预训练的大型文本到图像（T2I）扩散模型调整到图像到图像（I2I）范式中，实现高质量和多变的文本驱动图像编辑。
+
+    arXiv:2408.00998v1 Announce Type: new  Abstract: Large-scale text-to-image diffusion models have been a revolutionary milestone in the evolution of generative AI and multimodal technology, allowing extraordinary image generation based on natural-language text prompts. However, the issue of lacking controllability of such models restricts their practical applicability for real-life content creation, for which attention has been focused on leveraging a reference image to control text-to-image synthesis. Due to the close correlation between the reference image and the generated image, this problem can also be regarded as the task of manipulating (or editing) the reference image as per the text, namely text-driven image-to-image translation. This paper contributes a novel, concise, and efficient approach that adapts the pre-trained large-scale text-to-image (T2I) diffusion model to the image-to-image (I2I) paradigm in a plug-and-play manner, realizing high-quality and versatile text-driven
+    
+[^44]: 论文标题: 从激光雷达和航空影像中提取物体高度
 
     Extracting Object Heights From LiDAR & Aerial Imagery
 
@@ -545,7 +702,21 @@
 
     arXiv:2408.00967v1 Announce Type: new  Abstract: This work shows a procedural method for extracting object heights from LiDAR and aerial imagery. We discuss how to get heights and the future of LiDAR and imagery processing. SOTA object segmentation allows us to take get object heights with no deep learning background. Engineers will be keeping track of world data across generations and reprocessing them. They will be using older procedural methods like this paper and newer ones discussed here. SOTA methods are going beyond analysis and into generative AI. We cover both a procedural methodology and the newer ones performed with language models. These include point cloud, imagery and text encoding allowing for spatially aware AI.
     
-[^35]: PrivateGaze：保护黑盒式移动眼动跟踪服务中用户隐私的方法
+[^45]: MIS-ME: 一种用于土壤湿度估计的多模态框架
+
+    MIS-ME: A Multi-modal Framework for Soil Moisture Estimation
+
+    [https://arxiv.org/abs/2408.00963](https://arxiv.org/abs/2408.00963)
+
+    本研究开发了一种多模态框架MIS-ME，通过组合地面基站拍摄的高分辨率图像、天气预报和相关统计数据，使用深度学习算法预测土壤湿度，旨在提高精准农业中土壤水分预测的精确性。
+
+    
+
+    arXiv:2408.00963v1 宣布类型：新  摘要：土壤湿度估计对于创建灌溉、施肥和收获的理想计划具有重要意义。通常，利用统计和机器学习模型从传统的数据源（如天气预报、土壤性质和作物性质）中估计土壤湿度。然而，越来越多的人感兴趣的是使用空中和地理空间图像来估计土壤湿度。尽管这些图像捕获了高分辨率作物细节，但它们整理起来既费时又具有挑战性。想象一个AI增强的软件工具，使用智能手机捕获的视觉线索和天气预报提供的统计数据来预测土壤湿度。这项工作是朝着开发一种多模态土壤湿度估计方法的迈出的一步。特别是，我们汇编了一个真实世界图像的数据集，这些图像是从地面基站拍摄的，并与它们的相应天气预报相对应的数据绑定在一起。这些图像与土壤湿度和土壤类型等数据相结合，用于训练机器学习模型以预测土壤湿度的变化。通过使用深度学习算法，如卷积神经网络（CNNs），我们尝试从图像中自动提取和组合重要信息，以提供准确的土壤水分预测。此外，我们将模型与传统的基于测量和预警系统的预测方法进行了比较，以验证其在实际农业环境中的有效性。研究结果表明，利用图像和统计数据的多模态方法能够提供比单一方法更高的预测准确性。我们相信，这种多模态方法不仅能够提高土壤湿度的预测精度，而且能够为智能农业和环境监测提供新的应用可能性。
+
+    arXiv:2408.00963v1 Announce Type: new  Abstract: Soil moisture estimation is an important task to enable precision agriculture in creating optimal plans for irrigation, fertilization, and harvest. It is common to utilize statistical and machine learning models to estimate soil moisture from traditional data sources such as weather forecasts, soil properties, and crop properties. However, there is a growing interest in utilizing aerial and geospatial imagery to estimate soil moisture. Although these images capture high-resolution crop details, they are expensive to curate and challenging to interpret. Imagine, an AI-enhanced software tool that predicts soil moisture using visual cues captured by smartphones and statistical data given by weather forecasts. This work is a first step towards that goal of developing a multi-modal approach for soil moisture estimation. In particular, we curate a dataset consisting of real-world images taken from ground stations and their corresponding weathe
+    
+[^46]: PrivateGaze：保护黑盒式移动眼动跟踪服务中用户隐私的方法
 
     PrivateGaze: Preserving User Privacy in Black-box Mobile Gaze Tracking Services
 
@@ -559,7 +730,7 @@
 
     arXiv:2408.00950v1 Announce Type: new  Abstract: Eye gaze contains rich information about human attention and cognitive processes. This capability makes the underlying technology, known as gaze tracking, a critical enabler for many ubiquitous applications and has triggered the development of easy-to-use gaze estimation services. Indeed, by utilizing the ubiquitous cameras on tablets and smartphones, users can readily access many gaze estimation services. In using these services, users must provide their full-face images to the gaze estimator, which is often a black box. This poses significant privacy threats to the users, especially when a malicious service provider gathers a large collection of face images to classify sensitive user attributes. In this work, we present PrivateGaze, the first approach that can effectively preserve users' privacy in black-box gaze tracking services without compromising gaze estimation performance. Specifically, we proposed a novel framework to train a p
     
-[^36]: 双任务互惠学习框架用于预测血栓切除术后脑出血
+[^47]: 双任务互惠学习框架用于预测血栓切除术后脑出血
 
     A dual-task mutual learning framework for predicting post-thrombectomy cerebral hemorrhage
 
@@ -573,7 +744,7 @@
 
     arXiv:2408.00940v1 Announce Type: cross  Abstract: Ischemic stroke is a severe condition caused by the blockage of brain blood vessels, and can lead to the death of brain tissue due to oxygen deprivation. Thrombectomy has become a common treatment choice for ischemic stroke due to its immediate effectiveness. But, it carries the risk of postoperative cerebral hemorrhage. Clinically, multiple CT scans within 0-72 hours post-surgery are used to monitor for hemorrhage. However, this approach exposes radiation dose to patients, and may delay the detection of cerebral hemorrhage. To address this dilemma, we propose a novel prediction framework for measuring postoperative cerebral hemorrhage using only the patient's initial CT scan. Specifically, we introduce a dual-task mutual learning framework to takes the initial CT scan as input and simultaneously estimates both the follow-up CT scan and prognostic label to predict the occurrence of postoperative cerebral hemorrhage. Our proposed framew
     
-[^37]: 这里是翻译过的论文标题
+[^48]: 这里是翻译过的论文标题
 
     CIResDiff: A Clinically-Informed Residual Diffusion Model for Predicting Idiopathic Pulmonary Fibrosis Progression
 
@@ -587,7 +758,7 @@
 
     arXiv:2408.00938v1 Announce Type: cross  Abstract: The progression of Idiopathic Pulmonary Fibrosis (IPF) significantly correlates with higher patient mortality rates. Early detection of IPF progression is critical for initiating timely treatment, which can effectively slow down the advancement of the disease. However, the current clinical criteria define disease progression requiring two CT scans with a one-year interval, presenting a dilemma: a disease progression is identified only after the disease has already progressed. To this end, in this paper, we develop a novel diffusion model to accurately predict the progression of IPF by generating patient's follow-up CT scan from the initial CT scan. Specifically, from the clinical prior knowledge, we tailor improvements to the traditional diffusion model and propose a Clinically-Informed Residual Diffusion model, called CIResDiff. The key innovations of CIResDiff include 1) performing the target region pre-registration to align the lung
     
-[^38]: 基于视觉语言模型的城市环境零样本标注研究
+[^49]: 基于视觉语言模型的城市环境零样本标注研究
 
     Towards Zero-Shot Annotation of the Built Environment with Vision-Language Models (Vision Paper)
 
@@ -601,7 +772,7 @@
 
     arXiv:2408.00932v1 Announce Type: new  Abstract: Equitable urban transportation applications require high-fidelity digital representations of the built environment: not just streets and sidewalks, but bike lanes, marked and unmarked crossings, curb ramps and cuts, obstructions, traffic signals, signage, street markings, potholes, and more. Direct inspections and manual annotations are prohibitively expensive at scale. Conventional machine learning methods require substantial annotated training data for adequate performance. In this paper, we consider vision language models as a mechanism for annotating diverse urban features from satellite images, reducing the dependence on human annotation to produce large training sets. While these models have achieved impressive results in describing common objects in images captured from a human perspective, their training sets are less likely to include strong signals for esoteric features in the built environment, and their performance in these s
     
-[^39]: 膝关节骨关节炎时间演化: 一种基于扩散的X射线医学图像合成形态学模型
+[^50]: 膝关节骨关节炎时间演化: 一种基于扩散的X射线医学图像合成形态学模型
 
     Temporal Evolution of Knee Osteoarthritis: A Diffusion-based Morphing Model for X-ray Medical Image Synthesis
 
@@ -615,7 +786,7 @@
 
     arXiv:2408.00891v1 Announce Type: cross  Abstract: Knee Osteoarthritis (KOA) is a common musculoskeletal disorder that significantly affects the mobility of older adults. In the medical domain, images containing temporal data are frequently utilized to study temporal dynamics and statistically monitor disease progression. While deep learning-based generative models for natural images have been widely researched, there are comparatively few methods available for synthesizing temporal knee X-rays. In this work, we introduce a novel deep-learning model designed to synthesize intermediate X-ray images between a specific patient's healthy knee and severe KOA stages. During the testing phase, based on a healthy knee X-ray, the proposed model can produce a continuous and effective sequence of KOA X-ray images with varying degrees of severity. Specifically, we introduce a Diffusion-based Morphing Model by modifying the Denoising Diffusion Probabilistic Model. Our approach integrates diffusion 
     
-[^40]: 医学 SAM 2：通过 Segment Anything Model 2 对医学图像进行分割，将其视为视频
+[^51]: 医学 SAM 2：通过 Segment Anything Model 2 对医学图像进行分割，将其视为视频
 
     Medical SAM 2: Segment medical images as video via Segment Anything Model 2
 
@@ -629,7 +800,35 @@
 
     arXiv:2408.00874v1 Announce Type: new  Abstract: In this paper, we introduce Medical SAM 2 (MedSAM-2), an advanced segmentation model that utilizes the SAM 2 framework to address both 2D and 3D medical image segmentation tasks. By adopting the philosophy of taking medical images as videos, MedSAM-2 not only applies to 3D medical images but also unlocks new One-prompt Segmentation capability. That allows users to provide a prompt for just one or a specific image targeting an object, after which the model can autonomously segment the same type of object in all subsequent images, regardless of temporal relationships between the images. We evaluated MedSAM-2 across a variety of medical imaging modalities, including abdominal organs, optic discs, brain tumors, thyroid nodules, and skin lesions, comparing it against state-of-the-art models in both traditional and interactive segmentation settings. Our findings show that MedSAM-2 not only surpasses existing models in performance but also exhi
     
-[^41]: 基于模糊逻辑的网站视觉分析方法：基于K-means聚类的中文摘要提取
+[^52]: CCSRP: 通过协作共进化法实现突触神经网络稳健修剪
+
+    CCSRP: Robust Pruning of Spiking Neural Networks through Cooperative Coevolution
+
+    [https://arxiv.org/abs/2408.00794](https://arxiv.org/abs/2408.00794)
+
+    通过协作共进化，本研究提出了一种稳健的SNN剪枝方法，旨在在不牺牲准确性与鲁棒性的前提下，减少计算资源需求。
+
+    
+
+    arXiv:2408.00794v1 宣布类型：交叉 摘要：脉冲神经网络（SNNs）在各种动态视觉任务中显示了潜力，但那些适合实际部署的通常缺乏在资源受限和关键安全环境中所需的紧凑性和鲁棒性。先前的工作主要集中在通过网络剪枝和对抗性训练等策略来提高人工神经网络的紧凑性或鲁棒性，而对于SNNs的类似方法研究甚少。稳健修剪突触神经网络的目标是减少计算开销同时保持准确性及鲁棒性。现有的稳健修剪方法通常需要专家知识和反复试验来确定合适的剪枝标准或辅助模块，因此限制了它们更广泛的适用性。同时，进化算法（EAs）已经被应用来自动化人工神经网络的剪枝，获得了显著的成果，但超出了剪枝标准或辅助模块的选择自动化。
+
+    arXiv:2408.00794v1 Announce Type: cross  Abstract: Spiking neural networks (SNNs) have shown promise in various dynamic visual tasks, yet those ready for practical deployment often lack the compactness and robustness essential in resource-limited and safety-critical settings. Prior research has predominantly concentrated on enhancing the compactness or robustness of artificial neural networks through strategies like network pruning and adversarial training, with little exploration into similar methodologies for SNNs. Robust pruning of SNNs aims to reduce computational overhead while preserving both accuracy and robustness. Current robust pruning approaches generally necessitate expert knowledge and iterative experimentation to establish suitable pruning criteria or auxiliary modules, thus constraining their broader application. Concurrently, evolutionary algorithms (EAs) have been employed to automate the pruning of artificial neural networks, delivering remarkable outcomes yet overloo
+    
+[^53]: 深度分析通过知识驱动的大型语言模型进行情绪识别
+
+    In-Depth Analysis of Emotion Recognition through Knowledge-Based Large Language Models
+
+    [https://arxiv.org/abs/2408.00780](https://arxiv.org/abs/2408.00780)
+
+    本研究提出了一种结合情绪识别方法和贝叶斯线索整合的方法，利用大型语言模型获得的情境知识来提高在社交情境中分析面部表情的准确性，并在囚徒困境这一社会任务中得到了验证。
+
+    
+
+    arXiv:2408.00780v1 公告类型：交叉 摘要：社交情境中的情绪识别是一项复杂的工作，它需要整合面部表情和情境上下文的信息。尽管自动情绪识别的传统方法专注于脱情境的信号，但最近的研究强调了情境在塑造情绪感知中的重要性。本文对新兴的社会情境下的情绪识别这一领域做出了贡献，通过心理学的情绪感知理论来指导自动方法的设计。我们提出了一个结合了情绪识别方法和贝叶斯线索整合（BCI）的方法，以整合面部表情的脱情境信息和通过大型语言模型获得的情境知识。我们在囚徒困境这一社会任务的情境下测试了这个方法。我们的结果在各种主观情感评估测试中对BCI提供了明确的支撑。
+
+    arXiv:2408.00780v1 Announce Type: cross  Abstract: Emotion recognition in social situations is a complex task that requires integrating information from both facial expressions and the situational context. While traditional approaches to automatic emotion recognition have focused on decontextualized signals, recent research emphasizes the importance of context in shaping emotion perceptions. This paper contributes to the emerging field of context-based emotion recognition by leveraging psychological theories of human emotion perception to inform the design of automated methods. We propose an approach that combines emotion recognition methods with Bayesian Cue Integration (BCI) to integrate emotion inferences from decontextualized facial expressions and contextual knowledge inferred via Large-language Models. We test this approach in the context of interpreting facial expressions during a social task, the prisoner's dilemma. Our results provide clear support for BCI across a range of au
+    
+[^54]: 基于模糊逻辑的网站视觉分析方法：基于K-means聚类的中文摘要提取
 
     Fuzzy Logic Approach For Visual Analysis Of Websites With K-means Clustering-based Color Extraction
 
@@ -643,7 +842,7 @@
 
     arXiv:2408.00774v1 Announce Type: cross  Abstract: Websites form the foundation of the Internet, serving as platforms for disseminating information and accessing digital resources. They allow users to engage with a wide range of content and services, enhancing the Internet's utility for all. The aesthetics of a website play a crucial role in its overall effectiveness and can significantly impact user experience, engagement, and satisfaction. This paper examines the importance of website design aesthetics in enhancing user experience, given the increasing number of internet users worldwide. It emphasizes the significant impact of first impressions, often formed within 50 milliseconds, on users' perceptions of a website's appeal and usability. We introduce a novel method for measuring website aesthetics based on color harmony and font popularity, using fuzzy logic to predict aesthetic preferences. We collected our own dataset, consisting of nearly 200 popular and frequently used website 
     
-[^42]: 混合深度学习框架在增强黑色素瘤检测中的应用
+[^55]: 混合深度学习框架在增强黑色素瘤检测中的应用
 
     Hybrid Deep Learning Framework for Enhanced Melanoma Detection
 
@@ -657,7 +856,7 @@
 
     arXiv:2408.00772v1 Announce Type: cross  Abstract: Cancer is a leading cause of death worldwide, necessitating advancements in early detection and treatment technologies. In this paper, we present a novel and highly efficient melanoma detection framework that synergistically combines the strengths of U-Net for segmentation and EfficientNet for the classification of skin images. The primary objective of our study is to enhance the accuracy and efficiency of melanoma detection through an innovative hybrid approach. We utilized the HAM10000 dataset to meticulously train the U-Net model, enabling it to precisely segment cancerous regions. Concurrently, we employed the ISIC 2020 dataset to train the EfficientNet model, optimizing it for the binary classification of skin cancer. Our hybrid model demonstrates a significant improvement in performance, achieving a remarkable accuracy of 99.01% on the ISIC 2020 dataset. This exceptional result underscores the superiority of our approach compared
     
-[^43]: 使用空间 filling curves 对比光流和深度学习实现计算高效的交通事件检测
+[^56]: 使用空间 filling curves 对比光流和深度学习实现计算高效的交通事件检测
 
     Comparing Optical Flow and Deep Learning to Enable Computationally Efficient Traffic Event Detection with Space-Filling Curves
 
@@ -671,7 +870,7 @@
 
     arXiv:2408.00768v1 Announce Type: new  Abstract: Gathering data and identifying events in various traffic situations remains an essential challenge for the systematic evaluation of a perception system's performance. Analyzing large-scale, typically unstructured, multi-modal, time series data obtained from video, radar, and LiDAR is computationally demanding, particularly when meta-information or annotations are missing. We compare Optical Flow (OF) and Deep Learning (DL) to feed computationally efficient event detection via space-filling curves on video data from a forward-facing, in-vehicle camera. Our first approach leverages unexpected disturbances in the OF field from vehicle surroundings; the second approach is a DL model trained on human visual attention to predict a driver's gaze to spot potential event locations. We feed these results to a space-filling curve to reduce dimensionality and achieve computationally efficient event retrieval. We systematically evaluate our concept b
     
-[^44]: 基于多视图数据融合的 conformal 轨迹预测在合作驾驶中的应用
+[^57]: 基于多视图数据融合的 conformal 轨迹预测在合作驾驶中的应用
 
     Conformal Trajectory Prediction with Multi-View Data Integration in Cooperative Driving
 
@@ -685,7 +884,7 @@
 
     arXiv:2408.00374v2 Announce Type: replace-cross  Abstract: Current research on trajectory prediction primarily relies on data collected by onboard sensors of an ego vehicle. With the rapid advancement in connected technologies, such as vehicle-to-vehicle (V2V) and vehicle-to-infrastructure (V2I) communication, valuable information from alternate views becomes accessible via wireless networks. The integration of information from alternative views has the potential to overcome the inherent limitations associated with a single viewpoint, such as occlusions and limited field of view. In this work, we introduce V2INet, a novel trajectory prediction framework designed to model multi-view data by extending existing single-view models. Unlike previous approaches where the multi-view data is manually fused or formulated as a separate training stage, our model supports end-to-end training, enhancing both flexibility and performance. Moreover, the predicted multimodal trajectories are calibrated 
     
-[^45]: XLIP: 跨模态注意屏蔽建模方法用于医疗语言图像预训练
+[^58]: XLIP: 跨模态注意屏蔽建模方法用于医疗语言图像预训练
 
     XLIP: Cross-modal Attention Masked Modelling for Medical Language-Image Pre-Training
 
@@ -699,7 +898,7 @@
 
     arXiv:2407.19546v2 Announce Type: replace  Abstract: Vision-and-language pretraining (VLP) in the medical field utilizes contrastive learning on image-text pairs to achieve effective transfer across tasks. Yet, current VLP approaches with the masked modelling strategy face two challenges when applied to the medical domain. First, current models struggle to accurately reconstruct key pathological features due to the scarcity of medical data. Second, most methods only adopt either paired image-text or image-only data, failing to exploit the combination of both paired and unpaired data. To this end, this paper proposes a XLIP (Masked modelling for medical Language-Image Pre-training) framework to enhance pathological learning and feature learning via unpaired data. First, we introduce the attention-masked image modelling (AttMIM) and entity-driven masked language modelling module (EntMLM), which learns to reconstruct pathological visual and textual tokens via multi-modal feature interacti
     
-[^46]: 跨域适应性肺部结节检测在X射线图像中的应用
+[^59]: 跨域适应性肺部结节检测在X射线图像中的应用
 
     Domain Adaptive Lung Nodule Detection in X-ray Image
 
@@ -713,7 +912,7 @@
 
     arXiv:2407.19397v2 Announce Type: replace  Abstract: Medical images from different healthcare centers exhibit varied data distributions, posing significant challenges for adapting lung nodule detection due to the domain shift between training and application phases. Traditional unsupervised domain adaptive detection methods often struggle with this shift, leading to suboptimal outcomes. To overcome these challenges, we introduce a novel domain adaptive approach for lung nodule detection that leverages mean teacher self-training and contrastive learning. First, we propose a hierarchical contrastive learning strategy to refine nodule representations and enhance the distinction between nodules and background. Second, we introduce a nodule-level domain-invariant feature learning (NDL) module to capture domain-invariant features through adversarial learning across different domains. Additionally, we propose a new annotated dataset of X-ray images to aid in advancing lung nodule detection re
     
-[^47]: 论文标题：在小型数据集上进行有效训练的视觉变换器的深度卷积
+[^60]: 论文标题：在小型数据集上进行有效训练的视觉变换器的深度卷积
 
     Depth-Wise Convolutions in Vision Transformers for Efficient Training on Small Datasets
 
@@ -727,7 +926,7 @@
 
     arXiv:2407.19394v3 Announce Type: replace  Abstract: The Vision Transformer (ViT) leverages the Transformer's encoder to capture global information by dividing images into patches and achieves superior performance across various computer vision tasks. However, the self-attention mechanism of ViT captures the global context from the outset, overlooking the inherent relationships between neighboring pixels in images or videos. Transformers mainly focus on global information while ignoring the fine-grained local details. Consequently, ViT lacks inductive bias during image or video dataset training. In contrast, convolutional neural networks (CNNs), with their reliance on local filters, possess an inherent inductive bias, making them more efficient and quicker to converge than ViT with less data. In this paper, we present a lightweight Depth-Wise Convolution module as a shortcut in ViT models, bypassing entire Transformer blocks to ensure the models capture both local and global informatio
     
-[^48]: 跨客户端变异性自适应联邦学习方法 CCVA-FL：应用于基于医学影像的数据集
+[^61]: 跨客户端变异性自适应联邦学习方法 CCVA-FL：应用于基于医学影像的数据集
 
     CCVA-FL: Cross-Client Variations Adaptive Federated Learning for Medical Imaging
 
@@ -741,7 +940,7 @@
 
     arXiv:2407.11652v3 Announce Type: replace  Abstract: Federated Learning (FL) offers a privacy-preserving approach to train models on decentralized data. Its potential in healthcare is significant, but challenges arise due to cross-client variations in medical image data, exacerbated by limited annotations. This paper introduces Cross-Client Variations Adaptive Federated Learning (CCVA-FL) to address these issues. CCVA-FL aims to minimize cross-client variations by transforming images into a common feature space. It involves expert annotation of a subset of images from each client, followed by the selection of a client with the least data complexity as the target. Synthetic medical images are then generated using Scalable Diffusion Models with Transformers (DiT) based on the target client's annotated images. These synthetic images, capturing diversity and representing the original data, are shared with other clients. Each client then translates its local images into the target image spa
     
-[^49]: 重新思考学习了图像压缩：所有的你所需要的都是上下文
+[^62]: 重新思考学习了图像压缩：所有的你所需要的都是上下文
 
     Rethinking Learned Image Compression: Context is All You Need
 
@@ -755,7 +954,7 @@
 
     arXiv:2407.11590v3 Announce Type: replace-cross  Abstract: Since LIC has made rapid progress recently compared to traditional methods, this paper attempts to discuss the question about 'Where is the boundary of Learned Image Compression(LIC)?'. Thus this paper splits the above problem into two sub-problems:1)Where is the boundary of rate-distortion performance of PSNR? 2)How to further improve the compression gain and achieve the boundary? Therefore this paper analyzes the effectiveness of scaling parameters for encoder, decoder and context model, which are the three components of LIC. Then we conclude that scaling for LIC is to scale for context model and decoder within LIC. Extensive experiments demonstrate that overfitting can actually serve as an effective context. By optimizing the context, this paper further improves PSNR and achieves state-of-the-art performance, showing a performance gain of 14.39% with BD-RATE over VVC.
     
-[^50]: OpenVid-1M 大型高质量文本到视频生成数据集
+[^63]: OpenVid-1M 大型高质量文本到视频生成数据集
 
     OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation
 
@@ -769,7 +968,7 @@
 
     arXiv:2407.02371v2 Announce Type: replace  Abstract: Text-to-video (T2V) generation has recently garnered significant attention thanks to the large multi-modality model Sora. However, T2V generation still faces two important challenges: 1) Lacking a precise open sourced high-quality dataset. The previous popular video datasets, e.g. WebVid-10M and Panda-70M, are either with low quality or too large for most research institutions. Therefore, it is challenging but crucial to collect a precise high-quality text-video pairs for T2V generation. 2) Ignoring to fully utilize textual information. Recent T2V methods have focused on vision transformers, using a simple cross attention module for video generation, which falls short of thoroughly extracting semantic information from text prompt. To address these issues, we introduce OpenVid-1M, a precise high-quality dataset with expressive captions. This open-scenario dataset contains over 1 million text-video pairs, facilitating research on T2V g
     
-[^51]: 混合空间-谱神经网络用于超光谱图像去噪
+[^64]: 混合空间-谱神经网络用于超光谱图像去噪
 
     Hybrid Spatial-spectral Neural Network for Hyperspectral Image Denoising
 
@@ -783,7 +982,7 @@
 
     arXiv:2406.08782v2 Announce Type: replace-cross  Abstract: Hyperspectral image (HSI) denoising is an essential procedure for HSI applications. Unfortunately, the existing Transformer-based methods mainly focus on non-local modeling, neglecting the importance of locality in image denoising. Moreover, deep learning methods employ complex spectral learning mechanisms, thus introducing large computation costs.   To address these problems, we propose a hybrid spatial-spectral denoising network (HSSD), in which we design a novel hybrid dual-path network inspired by CNN and Transformer characteristics, leading to capturing both local and non-local spatial details while suppressing noise efficiently. Furthermore, to reduce computational complexity, we adopt a simple but effective decoupling strategy that disentangles the learning of space and spectral channels, where multilayer perception with few parameters is utilized to learn the global correlations among spectra. The synthetic and real exp
     
-[^52]: 现实对话：面向面对面对话的口语对话模型
+[^65]: 现实对话：面向面对面对话的口语对话模型
 
     Let's Go Real Talk: Spoken Dialogue Model for Face-to-Face Conversation
 
@@ -797,7 +996,7 @@
 
     arXiv:2406.07867v2 Announce Type: replace  Abstract: In this paper, we introduce a novel Face-to-Face spoken dialogue model. It processes audio-visual speech from user input and generates audio-visual speech as the response, marking the initial step towards creating an avatar chatbot system without relying on intermediate text. To this end, we newly introduce MultiDialog, the first large-scale multimodal (i.e., audio and visual) spoken dialogue corpus containing 340 hours of approximately 9,000 dialogues, recorded based on the open domain dialogue dataset, TopicalChat. The MultiDialog contains parallel audio-visual recordings of conversation partners acting according to the given script with emotion annotations, which we expect to open up research opportunities in multimodal synthesis. Our Face-to-Face spoken dialogue model incorporates a textually pretrained large language model and adapts it into the audio-visual spoken dialogue domain by incorporating speech-text joint pretraining. 
     
-[^53]: 使用上下文化Vendi分数指引改进生成的图像的地理多样性
+[^66]: 使用上下文化Vendi分数指引改进生成的图像的地理多样性
 
     Improving Geo-diversity of Generated Images with Contextualized Vendi Score Guidance
 
@@ -811,7 +1010,7 @@
 
     arXiv:2406.04551v2 Announce Type: replace  Abstract: With the growing popularity of text-to-image generative models, there has been increasing focus on understanding their risks and biases. Recent work has found that state-of-the-art models struggle to depict everyday objects with the true diversity of the real world and have notable gaps between geographic regions. In this work, we aim to increase the diversity of generated images of common objects such that per-region variations are representative of the real world. We introduce an inference time intervention, contextualized Vendi Score Guidance (c-VSG), that guides the backwards steps of latent diffusion models to increase the diversity of a sample as compared to a "memory bank" of previously generated images while constraining the amount of variation within that of an exemplar set of real-world contextualizing images. We evaluate c-VSG with two geographically representative datasets and find that it substantially increases the dive
     
-[^54]: L-PR: 利用激光雷达 fiducial标记进行点云注册的论文标题
+[^67]: L-PR: 利用激光雷达 fiducial标记进行点云注册的论文标题
 
     L-PR: Exploiting LiDAR Fiducial Marker for Unordered Low Overlap Multiview Point Cloud Registration
 
@@ -825,7 +1024,21 @@
 
     arXiv:2406.03298v2 Announce Type: replace-cross  Abstract: Point cloud registration is a prerequisite for many applications in computer vision and robotics. Most existing methods focus on pairwise registration of two point clouds with high overlap. Although there have been some methods for low overlap cases, they struggle in degraded scenarios. This paper introduces a novel framework dubbed L-PR, designed to register unordered low overlap multiview point clouds leveraging LiDAR fiducial markers. We refer to them as LiDAR fiducial markers, but they are the same as the popular AprilTag and ArUco markers, thin sheets of paper that do not affect the 3D geometry of the environment. We first propose an improved adaptive threshold marker detection method to provide robust detection results when the viewpoints among point clouds change dramatically. Then, we formulate the unordered multiview point cloud registration problem as a maximum a-posteriori (MAP) problem and develop a framework consis
     
-[^55]: MiPa：混合补丁红外-可见模式 agnostic 对象检测
+[^68]: 半监督CD-VL: 视觉-语言模型指导使更好半监督变化检测器
+
+    SemiCD-VL: Visual-Language Model Guidance Makes Better Semi-supervised Change Detector
+
+    [https://arxiv.org/abs/2405.04788](https://arxiv.org/abs/2405.04788)
+
+    本文提出了一种基于视觉-语言模型的半监督变化检测方法SemiCD-VL，通过合成自由变化标签和自监督机制来利用额外的时序信息，以提高未标注数据的性能。
+
+    
+
+    arXiv:2405.04788v3 公告类型：替换 摘要：变化检测（CD）旨在识别图像间的 semantics 变化像素。然而，标注大量像素级图像对于人类专家来说既耗时又昂贵，尤其是在多时态图像中，这种图像的人力像素级比较尤其如此。鉴于视觉语言模型（VLMs）在零样本、开放词汇等方面的优秀表现，以及基于提示的推理能力，利用VLMs在有限标注数据的帮助下做出更好的CD前景广阔。在本文中，我们提出了一种基于半监督CD-VL方法的VLM指导，即SemiCD-VL。SemiCD-VL的见解是使用VLMs合成自由的变化标签，为未标注数据提供额外的监督信号。然而，几乎所有现有的VLMs都是为单时态图像设计的，不能直接用于双时态或多时态图像。受此启发，我们首先提出了一种基于VLM的混合变化事件生成（CEG）策略，以产生pixel-wise 变化标签。由于当前流行的图像变化检测方法普遍依赖大量标注数据，而有限的标注数据和大量未标注数据之间的不平衡常常导致模型性能受限。为了解决这个问题，我们提出了两种自监督机制，即自监督变化检测预训练（Self-SSL-CD）和自监督变化特征指引（SSL-CF），来利用额外的时间序列信息，使模型能够自适应地嵌入对未来变化的强渐进可分性假设。我们认为，使用合成变化的VLM指导来结合自监督预训练模式，可以在无需额外增加大量标注数据的情况下，有效地提高阶段变化的检测性能。通过在VisionCVPR2022等市况数据集上的广泛实验，我们展示了SemiCD-VL在提高未标注数据的性能和增强模型对变化的稳健性方面的显著优势。
+
+    arXiv:2405.04788v3 Announce Type: replace  Abstract: Change Detection (CD) aims to identify pixels with semantic changes between images. However, annotating massive numbers of pixel-level images is labor-intensive and costly, especially for multi-temporal images, which require pixel-wise comparisons by human experts. Considering the excellent performance of visual language models (VLMs) for zero-shot, open-vocabulary, etc. with prompt-based reasoning, it is promising to utilize VLMs to make better CD under limited labeled data. In this paper, we propose a VLM guidance-based semi-supervised CD method, namely SemiCD-VL. The insight of SemiCD-VL is to synthesize free change labels using VLMs to provide additional supervision signals for unlabeled data. However, almost all current VLMs are designed for single-temporal images and cannot be directly applied to bi- or multi-temporal images. Motivated by this, we first propose a VLM-based mixed change event generation (CEG) strategy to yield p
+    
+[^69]: MiPa：混合补丁红外-可见模式 agnostic 对象检测
 
     MiPa: Mixed Patch Infrared-Visible Modality Agnostic Object Detection
 
@@ -839,7 +1052,7 @@
 
     arXiv:2404.18849v2 Announce Type: replace  Abstract: In real-world scenarios, using multiple modalities like visible (RGB) and infrared (IR) can greatly improve the performance of a predictive task such as object detection (OD). Multimodal learning is a common way to leverage these modalities, where multiple modality-specific encoders and a fusion module are used to improve performance. In this paper, we tackle a different way to employ RGB and IR modalities, where only one modality or the other is observed by a single shared vision encoder. This realistic setting requires a lower memory footprint and is more suitable for applications such as autonomous driving and surveillance, which commonly rely on RGB and IR data. However, when learning a single encoder on multiple modalities, one modality can dominate the other, producing uneven recognition results. This work investigates how to efficiently leverage RGB and IR modalities to train a common transformer-based OD vision encoder, while
     
-[^56]: SPIdepth: 强化姿势信息用于自监督的单目深度估计
+[^70]: SPIdepth: 强化姿势信息用于自监督的单目深度估计
 
     SPIdepth: Strengthened Pose Information for Self-supervised Monocular Depth Estimation
 
@@ -853,7 +1066,7 @@
 
     arXiv:2404.12501v2 Announce Type: replace  Abstract: Self-supervised monocular depth estimation has garnered considerable attention for its applications in autonomous driving and robotics. While recent methods have made strides in leveraging techniques like the Self Query Layer (SQL) to infer depth from motion, they often overlook the potential of strengthening pose information. In this paper, we introduce SPIdepth, a novel approach that prioritizes enhancing the pose network for improved depth estimation. Building upon the foundation laid by SQL, SPIdepth emphasizes the importance of pose information in capturing fine-grained scene structures. By enhancing the pose network's capabilities, SPIdepth achieves remarkable advancements in scene understanding and depth estimation. Experimental results on benchmark datasets such as KITTI, Cityscapes, and Make3D showcase SPIdepth's state-of-the-art performance, surpassing previous methods by significant margins. Specifically, SPIdepth tops the
     
-[^57]: 数据增强中的泛化差距：光照输入的洞察
+[^71]: 数据增强中的泛化差距：光照输入的洞察
 
     Generalization Gap in Data Augmentation: Insights from Illumination
 
@@ -867,7 +1080,35 @@
 
     arXiv:2404.07514v2 Announce Type: replace  Abstract: In the field of computer vision, data augmentation is widely used to enrich the feature complexity of training datasets with deep learning techniques. However, regarding the generalization capabilities of models, the difference in artificial features generated by data augmentation and natural visual features has not been fully revealed. This study introduces the concept of "visual representation variables" to define the possible visual variations in a task as a joint distribution of these variables. We focus on the visual representation variable "illumination", by simulating its distribution degradation and examining how data augmentation techniques enhance model performance on a classification task. Our goal is to investigate the differences in generalization between models trained with augmented data and those trained under real-world illumination conditions. Results indicate that after applying various data augmentation methods, m
     
-[^58]: SAM-指导的图切割方法用于3D实例分割
+[^72]: 一种优化框架，用于确保将多视角一致性应用到3D网格的纹理化
+
+    An Optimization Framework to Enforce Multi-View Consistency for Texturing 3D Meshes
+
+    [https://arxiv.org/abs/2403.15559](https://arxiv.org/abs/2403.15559)
+
+    本文提出了一种四阶段的优化框架，用于通过非刚性对齐和MRF问题解决，确保多视角纹理化处理，以达到高效的3D网格多视角纹理化处理
+
+    
+
+    arXiv:2403.15559v2 公告类型：替换交叉  翻译摘要：在预训练的文本到图像模型的基础上，对3D网格进行纹理化时，一个基本的问题是如何确保多视角的一致性。现有技术方法通常使用扩散模型来聚合多视角输入，其中常见的问题是在聚合步骤中由于平均操作引起的模糊性，或者局部特征的不一致性。本文介绍了一种优化框架，该框架分为四个阶段来实现多视角的一致性。特别是，第一阶段使用MV一致的扩散过程从预定义的多视角集生成一个2D纹理的过完备集合。第二阶段选择一个子集的视图，这些视图在覆盖下的3D模型中是相互一致的，我们展示了如何通过解决半正定规划来达到这个目标。第三阶段执行非刚性对齐，以在重叠区域对选定的视图进行对齐。第四阶段解决一个MRF问题，它用于一致一致性评估的重建问题，并且通过采分选采样来细化视角选择。整体框架进行迭代优化，直到达到满意的性能，实现了高效的3D网格多视角纹理化处理
+
+    arXiv:2403.15559v2 Announce Type: replace-cross  Abstract: A fundamental problem in the texturing of 3D meshes using pre-trained text-to-image models is to ensure multi-view consistency. State-of-the-art approaches typically use diffusion models to aggregate multi-view inputs, where common issues are the blurriness caused by the averaging operation in the aggregation step or inconsistencies in local features. This paper introduces an optimization framework that proceeds in four stages to achieve multi-view consistency. Specifically, the first stage generates an over-complete set of 2D textures from a predefined set of viewpoints using an MV-consistent diffusion process. The second stage selects a subset of views that are mutually consistent while covering the underlying 3D model. We show how to achieve this goal by solving semi-definite programs. The third stage performs non-rigid alignment to align the selected views across overlapping regions. The fourth stage solves an MRF problem t
+    
+[^73]: 无注释计数所有：所有类型的无注释计数方法
+
+    AFreeCA: Annotation-Free Counting for All
+
+    [https://arxiv.org/abs/2403.04943](https://arxiv.org/abs/2403.04943)
+
+    本研究提出了一种无需人工注释的数据集即可进行几乎所有类型对象计数的方法。
+
+    
+
+    arXiv:2403.04943v2 公告类型：替换 摘要：传统的计数方法通常依赖于人工注释的数据集。创建这些数据集的成本限制了这些网络的数量类别的灵活性（如人类或企鹅），并且从多种类别中计数对象仍然是一个挑战。可靠的文本到图像潜伏扩散模型（LDM）的出现，引发了一个问题，即这些模型是否能够用来生成计数数据集。但是，LDM们仅凭文本提示很难创建精确数量的对象图像，但它们可以用来提供一种可靠的“排序”信号，通过在图像中添加和移除对象来实现这一点。借助这一点数据，我们首先介绍了一种无监督的排序方法，该方法学习的对象相关的特征在进行进一步的细化和计数数据集生成后的锚定。此外，我们还提出了一种密度分类器指导的方法，用于区分不同的计数标签，并让分类器注重样本中实际计数物体的数量。这种方法鼓励分类器在计数物体的中心位置设置他们的决策边界，以便获得更精准的计数结果。就当前而言，该方法在特定类型的强烈注释数据集上的表现不甚理想，但在本研究中，我们说明了如何使用相同的方法在几乎无注释的全类别数据集上取得准确率显著提升，这表明该方法在无注释全类别数据集上的应用潜力。
+
+    arXiv:2403.04943v2 Announce Type: replace  Abstract: Object counting methods typically rely on manually annotated datasets. The cost of creating such datasets has restricted the versatility of these networks to count objects from specific classes (such as humans or penguins), and counting objects from diverse categories remains a challenge. The availability of robust text-to-image latent diffusion models (LDMs) raises the question of whether these models can be utilized to generate counting datasets. However, LDMs struggle to create images with an exact number of objects based solely on text prompts but they can be used to offer a dependable \textit{sorting} signal by adding and removing objects within an image. Leveraging this data, we initially introduce an unsupervised sorting methodology to learn object-related features that are subsequently refined and anchored for counting purposes using counting data generated by LDMs. Further, we present a density classifier-guided method for d
+    
+[^74]: SAM-指导的图切割方法用于3D实例分割
 
     SAM-guided Graph Cut for 3D Instance Segmentation
 
@@ -881,7 +1122,7 @@
 
     arXiv:2312.08372v3 Announce Type: replace  Abstract: This paper addresses the challenge of 3D instance segmentation by simultaneously leveraging 3D geometric and multi-view image information. Many previous works have applied deep learning techniques to 3D point clouds for instance segmentation. However, these methods often failed to generalize to various types of scenes due to the scarcity and low-diversity of labeled 3D point cloud data. Some recent works have attempted to lift 2D instance segmentations to 3D within a bottom-up framework. The inconsistency in 2D instance segmentations among views can substantially degrade the performance of 3D segmentation. In this work, we introduce a novel 3D-to-2D query framework to effectively exploit 2D segmentation models for 3D instance segmentation. Specifically, we pre-segment the scene into several superpoints in 3D, formulating the task into a graph cut problem. The superpoint graph is constructed based on 2D segmentation models, where node
     
-[^59]: 下游网络在数字病理学基础模型中的重要性
+[^75]: 下游网络在数字病理学基础模型中的重要性
 
     The Importance of Downstream Networks in Digital Pathology Foundation Models
 
@@ -895,7 +1136,7 @@
 
     arXiv:2311.17804v3 Announce Type: replace  Abstract: Digital pathology has significantly advanced disease detection and pathologist efficiency through the analysis of gigapixel whole-slide images (WSI). In this process, WSIs are first divided into patches, for which a feature extractor model is applied to obtain feature vectors, which are subsequently processed by an aggregation model to predict the respective WSI label. With the rapid evolution of representation learning, numerous new feature extractor models, often termed foundational models, have emerged. Traditional evaluation methods rely on a static downstream aggregation model setup, encompassing a fixed architecture and hyperparameters, a practice we identify as potentially biasing the results. Our study uncovers a sensitivity of feature extractor models towards aggregation model configurations, indicating that performance comparability can be skewed based on the chosen configurations. By accounting for this sensitivity, we fin
     
-[^60]: 《脉冲神经网络在视觉位置识别中的应用》
+[^76]: 《脉冲神经网络在视觉位置识别中的应用》
 
     Applications of Spiking Neural Networks in Visual Place Recognition
 
@@ -909,7 +1150,7 @@
 
     arXiv:2311.13186v2 Announce Type: replace-cross  Abstract: In robotics, Spiking Neural Networks (SNNs) are increasingly recognized for their largely-unrealized potential energy efficiency and low latency particularly when implemented on neuromorphic hardware. Our paper highlights three advancements for SNNs in Visual Place Recognition (VPR). Firstly, we propose Modular SNNs, where each SNN represents a set of non-overlapping geographically distinct places, enabling scalable networks for large environments. Secondly, we present Ensembles of Modular SNNs, where multiple networks represent the same place, significantly enhancing accuracy compared to single-network models. Each of our Modular SNN modules is compact, comprising only 1500 neurons and 474k synapses, making them ideally suited for ensembling due to their small size. Lastly, we investigate the role of sequence matching in SNN-based VPR, a technique where consecutive images are used to refine place recognition. We analyze the re
     
-[^61]: 这里是一个针对动态手势生成的全新框架，用于驾驶情景
+[^77]: 这里是一个针对动态手势生成的全新框架，用于驾驶情景
 
     SynthoGestures: A Novel Framework for Synthetic Dynamic Hand Gesture Generation for Driving Scenarios
 
@@ -923,7 +1164,7 @@
 
     arXiv:2309.04421v2 Announce Type: replace  Abstract: Creating a diverse and comprehensive dataset of hand gestures for dynamic human-machine interfaces in the automotive domain can be challenging and time-consuming. To overcome this challenge, we propose using synthetic gesture datasets generated by virtual 3D models. Our framework utilizes Unreal Engine to synthesize realistic hand gestures, offering customization options and reducing the risk of overfitting. Multiple variants, including gesture speed, performance, and hand shape, are generated to improve generalizability. In addition, we simulate different camera locations and types, such as RGB, infrared, and depth cameras, without incurring additional time and cost to obtain these cameras. Experimental results demonstrate that our proposed framework, SynthoGestures (https://github.com/amrgomaaelhady/SynthoGestures), improves gesture recognition accuracy and can replace or augment real-hand datasets. By saving time and effort in the
     
-[^62]: PCNN: 概率分类最近邻解释提高人工智能和人类的细粒度图像分类准确性
+[^78]: PCNN: 概率分类最近邻解释提高人工智能和人类的细粒度图像分类准确性
 
     PCNN: Probable-Class Nearest-Neighbor Explanations Improve Fine-Grained Image Classification Accuracy for AIs and Humans
 
@@ -937,7 +1178,7 @@
 
     arXiv:2308.13651v4 Announce Type: replace  Abstract: Nearest neighbors (NN) are traditionally used to compute final decisions, e.g., in Support Vector Machines or k-NN classifiers, and to provide users with explanations for the model's decision. In this paper, we show a novel utility of nearest neighbors: To improve predictions of a frozen, pretrained classifier C. We leverage an image comparator S that (1) compares the input image with NN images from the top-K most probable classes; and (2) uses S' output scores to weight the confidence scores of C. Our method consistently improves fine-grained image classification accuracy on CUB-200, Cars-196, and Dogs-120. Also, a human study finds that showing lay users our probable-class nearest neighbors (PCNN) reduces over-reliance on AI, thus improving their decision accuracy over prior work which only shows only the top-1 class examples.
     
-[^63]: 自适应脉冲编码解码网络：准确且高效的基于事件的语义分割
+[^79]: 自适应脉冲编码解码网络：准确且高效的基于事件的语义分割
 
     Accurate and Efficient Event-based Semantic Segmentation Using Adaptive Spiking Encoder-Decoder Network
 
@@ -951,7 +1192,21 @@
 
     arXiv:2304.11857v3 Announce Type: replace  Abstract: Spiking neural networks (SNNs), known for their low-power, event-driven computation and intrinsic temporal dynamics, are emerging as promising solutions for processing dynamic, asynchronous signals from event-based sensors. Despite their potential, SNNs face challenges in training and architectural design, resulting in limited performance in challenging event-based dense prediction tasks compared to artificial neural networks (ANNs). In this work, we develop an efficient spiking encoder-decoder network (SpikingEDN) for large-scale event-based semantic segmentation tasks. To enhance the learning efficiency from dynamic event streams, we harness the adaptive threshold which improves network accuracy, sparsity and robustness in streaming inference. Moreover, we develop a dual-path Spiking Spatially-Adaptive Modulation module, which is specifically tailored to enhance the representation of sparse events and multi-modal inputs, thereby co
     
-[^64]: 视觉变换器：从语义分割到密集预测
+[^80]: 真实世界与合成数据域适应对动作识别的影响：数据集和基线表现
+
+    Synthetic-to-Real Domain Adaptation for Action Recognition: A Dataset and Baseline Performances
+
+    [https://arxiv.org/abs/2303.10280](https://arxiv.org/abs/2303.10280)
+
+    该研究介绍了一个用于合成数据与真实数据域适应的公开数据集，并评估了各种模型在不同任务上的表现。
+
+    
+
+    arXiv:2303.10280v2 公告类型：替换 摘要：人类动作识别是一个具有挑战性的问题，特别是由于诸如外观、背景和视角这类因素所带来的高度可变性。虽然深度神经网络（DNNs）已经被证明在动作识别任务中表现良好，但它们通常需要大量的高质量标签数据，以便在不同条件下实现稳健性能。合成数据显示出作为避免在现实世界中收集和大量标签数据巨大成本和潜在伦理问题的潜在解决方案。然而，合成数据在重要方面可能与现实数据存在差异。这种现象，被称为“领域偏移”，可能限制在机器人应用中使用合成数据的效用。为了减轻领域偏移的影响，大量努力正在致力于开发域适应（DA）技术。然而，在如何最佳地适应领域方面还有很多未解决的问题。如何充分利用合成数据来改善大型实脸动作数据库的表现，是研究的一个重要方向之一。在这个背景下，该研究介绍了第一个专门用于合成数据与真实数据域适应的公开数据集，提出了适用于不同数据域的基线模型，并评估了这些模型在不同数据合成和任务上的表现。通过实验验证了域适应方法和技术的潜力，展示了合成数据能够提高动作识别系统的表现，并促进更稳健的动作识别算法的发展。
+
+    arXiv:2303.10280v2 Announce Type: replace  Abstract: Human action recognition is a challenging problem, particularly when there is high variability in factors such as subject appearance, backgrounds and viewpoint. While deep neural networks (DNNs) have been shown to perform well on action recognition tasks, they typically require large amounts of high-quality labeled data to achieve robust performance across a variety of conditions. Synthetic data has shown promise as a way to avoid the substantial costs and potential ethical concerns associated with collecting and labeling enormous amounts of data in the real-world. However, synthetic data may differ from real data in important ways. This phenomenon, known as \textit{domain shift}, can limit the utility of synthetic data in robotics applications. To mitigate the effects of domain shift, substantial effort is being dedicated to the development of domain adaptation (DA) techniques. Yet, much remains to be understood about how best to de
+    
+[^81]: 视觉变换器：从语义分割到密集预测
 
     Vision Transformers: From Semantic Segmentation to Dense Prediction
 
