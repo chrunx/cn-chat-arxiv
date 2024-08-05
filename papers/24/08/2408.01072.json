@@ -1,0 +1,11 @@
+{
+    "title": "A Survey on Self-play Methods in Reinforcement Learning",
+    "abstract": "arXiv:2408.01072v1 Announce Type: new  Abstract: Self-play, characterized by agents' interactions with copies or past versions of itself, has recently gained prominence in reinforcement learning. This paper first clarifies the preliminaries of self-play, including the multi-agent reinforcement learning framework and basic game theory concepts. Then it provides a unified framework and classifies existing self-play algorithms within this framework. Moreover, the paper bridges the gap between the algorithms and their practical implications by illustrating the role of self-play in different scenarios. Finally, the survey highlights open challenges and future research directions in self-play. This paper is an essential guide map for understanding the multifaceted landscape of self-play in RL.",
+    "link": "https://arxiv.org/abs/2408.01072",
+    "context": "Title: A Survey on Self-play Methods in Reinforcement Learning\nAbstract: arXiv:2408.01072v1 Announce Type: new  Abstract: Self-play, characterized by agents' interactions with copies or past versions of itself, has recently gained prominence in reinforcement learning. This paper first clarifies the preliminaries of self-play, including the multi-agent reinforcement learning framework and basic game theory concepts. Then it provides a unified framework and classifies existing self-play algorithms within this framework. Moreover, the paper bridges the gap between the algorithms and their practical implications by illustrating the role of self-play in different scenarios. Finally, the survey highlights open challenges and future research directions in self-play. This paper is an essential guide map for understanding the multifaceted landscape of self-play in RL.",
+    "path": "papers/24/08/2408.01072.json",
+    "total_tokens": 534,
+    "translated_title": "自对弈方法在强化学习中的调查",
+    "translated_abstract": "这篇论文详细介绍了自对弈（Self-play）在强化学习领域中最新取得的重要进展。首先，本文介绍了自对弈的基本概念，包括多智能体强化学习框架和基本的博弈论概念。然后，本文提供了一个统一的自对弈算法框架，并将现有的自对弈算法归类到这个框架之下。此外，本文通过展示自对弈在不同场景中的应用，弥合了算法与实践之间的差距。最后，本文提出了自对弈面临的开放性问题和未来的研究方向。本文为理解自对弈在强化学习中的多层面特点提供了一个宝贵的指南。",
+    "tldr": "自对弈强化学习的方法在帮助智能体通过与自身复制或历史版本的对弈中学习，其在不同场景中有广泛的应用，并提出了相关的开放问题和研究方向。"
+}

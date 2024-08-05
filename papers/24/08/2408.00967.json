@@ -1,0 +1,12 @@
+{
+    "title": "Extracting Object Heights From LiDAR & Aerial Imagery",
+    "abstract": "arXiv:2408.00967v1 Announce Type: new  Abstract: This work shows a procedural method for extracting object heights from LiDAR and aerial imagery. We discuss how to get heights and the future of LiDAR and imagery processing. SOTA object segmentation allows us to take get object heights with no deep learning background. Engineers will be keeping track of world data across generations and reprocessing them. They will be using older procedural methods like this paper and newer ones discussed here. SOTA methods are going beyond analysis and into generative AI. We cover both a procedural methodology and the newer ones performed with language models. These include point cloud, imagery and text encoding allowing for spatially aware AI.",
+    "link": "https://arxiv.org/abs/2408.00967",
+    "context": "Title: Extracting Object Heights From LiDAR & Aerial Imagery\nAbstract: arXiv:2408.00967v1 Announce Type: new  Abstract: This work shows a procedural method for extracting object heights from LiDAR and aerial imagery. We discuss how to get heights and the future of LiDAR and imagery processing. SOTA object segmentation allows us to take get object heights with no deep learning background. Engineers will be keeping track of world data across generations and reprocessing them. They will be using older procedural methods like this paper and newer ones discussed here. SOTA methods are going beyond analysis and into generative AI. We cover both a procedural methodology and the newer ones performed with language models. These include point cloud, imagery and text encoding allowing for spatially aware AI.",
+    "path": "papers/24/08/2408.00967.json",
+    "total_tokens": 535,
+    "translated_title": "论文标题: 从激光雷达和航空影像中提取物体高度",
+    "translated_abstract": "arXiv:2408.00967v1 公告类型: 更新  摘要: 本文介绍了一种提取激光雷达和航空影像中物体高度的过程方法。我们讨论了如何获取高度，以及激光雷达和影像处理的未来。最先进的对象分割技术使我们能够在没有深度学习背景的情况下获取物体高度。工程师将追踪世界数据在不同代际之间的进展，并重新处理它们。他们将使用像本文中讨论的那些较新的方法和一些较旧的、在这里也讨论的方法。最先进的方法正在超越分析，进入生成式人工智能。我们覆盖了过程方法和与语言模型一起执行的新方法。这些包括点云、影像和文本编码，允许人工智能具备空间意识。",
+    "tldr": "本文提供了一种提取激光雷达和航空影像中物体高度的过程方法，并讨论了其方法在未来激光雷达和影像处理中的应用前景。",
+    "en_tdlr": "This paper introduces a procedural method for extracting object heights from LiDAR and aerial imagery, discussing its implications for future LiDAR and imagery processing."
+}

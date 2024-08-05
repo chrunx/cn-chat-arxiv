@@ -1,0 +1,12 @@
+{
+    "title": "Enabling High Data Throughput Reinforcement Learning on GPUs: A Domain Agnostic Framework for Data-Driven Scientific Research",
+    "abstract": "arXiv:2408.00930v1 Announce Type: cross  Abstract: We introduce WarpSci, a domain agnostic framework designed to overcome crucial system bottlenecks encountered in the application of reinforcement learning to intricate environments with vast datasets featuring high-dimensional observation or action spaces. Notably, our framework eliminates the need for data transfer between the CPU and GPU, enabling the concurrent execution of thousands of simulations on a single or multiple GPUs. This high data throughput architecture proves particularly advantageous for data-driven scientific research, where intricate environment models are commonly essential.",
+    "link": "https://arxiv.org/abs/2408.00930",
+    "context": "Title: Enabling High Data Throughput Reinforcement Learning on GPUs: A Domain Agnostic Framework for Data-Driven Scientific Research\nAbstract: arXiv:2408.00930v1 Announce Type: cross  Abstract: We introduce WarpSci, a domain agnostic framework designed to overcome crucial system bottlenecks encountered in the application of reinforcement learning to intricate environments with vast datasets featuring high-dimensional observation or action spaces. Notably, our framework eliminates the need for data transfer between the CPU and GPU, enabling the concurrent execution of thousands of simulations on a single or multiple GPUs. This high data throughput architecture proves particularly advantageous for data-driven scientific research, where intricate environment models are commonly essential.",
+    "path": "papers/24/08/2408.00930.json",
+    "total_tokens": 479,
+    "translated_title": "论文标题：在GPU上实现高数据吞吐量的强化学习：一个领域无关的框架，用于数据驱动的科学研究",
+    "translated_abstract": "论文摘要：我们介绍WarpSci，一个设计用于克服在具有大量高维观测或动作空间的复杂环境中应用强化学习时遇到的关键系统瓶颈的领域无关框架。值得注意的是，我们 framework eliminates the need for data transfer between the CPU and GPU，使单个或多个GPU上可以同时执行数千个模拟。这对于研究数据驱动的科学研究特别有利，因为在领域中复杂的模型环境至关重要。",
+    "tldr": "我们介绍了一个名为WarpSci的框架，该框架能够显著提高在GPU上进行强化学习的性能，尤其适用于需要复杂环境模型数据的科学研究。",
+    "en_tdlr": "We present the WarpSci framework, designed to significantly enhance the performance of reinforcement learning on GPUs, particularly suitable for scientific research that requires complex environment models and large datasets."
+}
