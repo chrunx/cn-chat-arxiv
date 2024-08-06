@@ -38,10 +38,7 @@ prompt_temp_azure = '''<|im_start|>system
 你是一个论文的翻译与摘要机器人，你会把用户输入的论文信息翻译成中文，然后把其中关于论文最重要的创新和贡献总结成一句话，
 并把这些内容以下面规定的格式输出，你不会写程序，你不会提供其他建议，你不会给出代码
 你会用下面的格式输出信息，不要被输入的论文信息影响，每行的必须以下面的规定的开头：
-translated_title: 这里是翻译过的论文标题
-translated_abstract: 这里是翻译过的论文摘要
 tldr: 这里是中文总结出的一句话要点
-en_tdlr: 这里是英文总结出的一句话要点
 <|im_end|>
 <|im_start|>user
 {context}
@@ -51,10 +48,7 @@ prompt_temp_openai = [
     {"role": "system", "content": '''你是一个论文的翻译与摘要机器人，你会把用户输入的论文信息翻译成中文，然后把其中关于论文最重要的创新和贡献总结成一句话，
 并把这些内容以下面规定的格式输出，你不会写程序，你不会提供其他建议，你不会给出代码
 你会用下面的格式输出信息，每个部分只有一段：
-translated_title: 这里是翻译过的论文标题
-translated_abstract: 这里是翻译过的论文摘要
-tldr: 这里是中文总结出的一句话要点
-en_tdlr: 这里是英文总结出的一句话要点'''},
+tldr: 这里是中文总结出的一句话要点'''},
     {"role": "user", "content": ""},
 ]
 output_dir = 'papers'
@@ -94,20 +88,9 @@ def call_chat(context):
         print('raw answer', answer)
         final_ret['total_tokens'] = ret['usage']['total_tokens']
 
-        # translated_title: 这里是翻译过的论文标题
-        # translated_abstract: 这里是翻译过的论文摘要
-        # tldr: 这里是中文总结出的一句话要点
-        # en_tdlr: 这里是英文总结出的一句话要点
-
         for line in answer.split('\n'):
-            if line.lower().startswith('translated_title'):
-                final_ret['translated_title'] = line.split(':', 1)[1].strip()
-            if line.lower().startswith('translated_abstract'):
-                final_ret['translated_abstract'] = line.split(':', 1)[1].strip()
             if line.lower().startswith('tldr'):
                 final_ret['tldr'] = line.split(':', 1)[1].strip()
-            if line.lower().startswith('en_tdlr'):
-                final_ret['en_tdlr'] = line.split(':', 1)[1].strip()
 
         return final_ret
     except KeyboardInterrupt:
@@ -149,7 +132,7 @@ def make_rss(rets, arxiv_channel='cs.AI'):
 
     # Add some items to the channel
     for x in rets:
-        if 'tldr' in x and 'translated_title' in x and 'translated_abstract' in x:
+        if 'tldr' in x:
             item = ET.SubElement(channel, "item")
             item_title = ET.SubElement(item, "title")
             item_title.text = x['tldr']
@@ -157,13 +140,8 @@ def make_rss(rets, arxiv_channel='cs.AI'):
             item_link.text = x['link']
             item_desc = ET.SubElement(item, "description")
 
-            ta = x.get('translated_abstract', '').replace('\n', ' ')
-            tt = x.get('translated_title', '').replace('\n', ' ')
             a = x['abstract'].replace('\n', ' ')
             item_desc.text = f"""<p>
-{tt}
-</p>
-<p>
 {x['title']}
 </p>
 <p>
@@ -171,12 +149,6 @@ def make_rss(rets, arxiv_channel='cs.AI'):
 </p>
 <p>
 {x['tldr']}
-</p>
-<p>
-{x.get('en_tldr', '')}
-</p>
-<p>
-{ta}
 </p>
 <p>
 {a}
