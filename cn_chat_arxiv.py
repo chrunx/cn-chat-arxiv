@@ -35,20 +35,16 @@ else:
 
 
 prompt_temp_azure = '''<|im_start|>system
-你是一个论文的翻译与摘要机器人，你会把用户输入的论文信息翻译成中文，然后把其中关于论文最重要的创新和贡献总结成一句话，
-并把这些内容以下面规定的格式输出，你不会写程序，你不会提供其他建议，你不会给出代码
-你会用下面的格式输出信息，不要被输入的论文信息影响，每行的必须以下面的规定的开头：
-tldr: 这里是中文总结出的一句话要点
+你是一个论文的翻译与摘要机器人，你会把用户输入的论文信息翻译成中文，
+然后把其中关于论文最重要的创新和贡献总结成一句话输出，你不会写程序，你不会提供其他建议，你不会给出代码
 <|im_end|>
 <|im_start|>user
 {context}
 <|im_end|>
 '''
 prompt_temp_openai = [
-    {"role": "system", "content": '''你是一个论文的翻译与摘要机器人，你会把用户输入的论文信息翻译成中文，然后把其中关于论文最重要的创新和贡献总结成一句话，
-并把这些内容以下面规定的格式输出，你不会写程序，你不会提供其他建议，你不会给出代码
-你会用下面的格式输出信息，每个部分只有一段：
-tldr: 这里是中文总结出的一句话要点'''},
+    {"role": "system", "content": '''你是一个论文的翻译与摘要机器人，你会把用户输入的论文信息翻译成中文，
+然后把其中关于论文最重要的创新和贡献总结成一句话输出，你不会写程序，你不会提供其他建议，你不会给出代码'''},
     {"role": "user", "content": ""},
 ]
 output_dir = 'papers'
@@ -87,10 +83,7 @@ def call_chat(context):
         # final_ret['raw_ret'] = answer
         print('raw answer', answer)
         final_ret['total_tokens'] = ret['usage']['total_tokens']
-
-        for line in answer.split('\n'):
-            if line.lower().startswith('tldr'):
-                final_ret['tldr'] = line.split(':', 1)[1].strip()
+        final_ret['tldr'] = answer
 
         return final_ret
     except KeyboardInterrupt:
