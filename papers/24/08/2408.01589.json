@@ -1,0 +1,11 @@
+{
+    "title": "Soil Sample Search in Partially Observable Environments",
+    "abstract": "arXiv:2408.01589v1 Announce Type: new  Abstract: To work in unknown outdoor environments, autonomous sampling machines need the ability to target samples despite limited visibility and robotic arm reach distance. We design a heuristic guided search method to speed up the search process and more efficiently localize the approximate center of soil regions. Through simulation experiments, we assess the effectiveness of the proposed algorithm and discover superior performance in terms of speed, distance traveled, and success rate compared to naive baselines.",
+    "link": "https://arxiv.org/abs/2408.01589",
+    "context": "Title: Soil Sample Search in Partially Observable Environments\nAbstract: arXiv:2408.01589v1 Announce Type: new  Abstract: To work in unknown outdoor environments, autonomous sampling machines need the ability to target samples despite limited visibility and robotic arm reach distance. We design a heuristic guided search method to speed up the search process and more efficiently localize the approximate center of soil regions. Through simulation experiments, we assess the effectiveness of the proposed algorithm and discover superior performance in terms of speed, distance traveled, and success rate compared to naive baselines.",
+    "path": "papers/24/08/2408.01589.json",
+    "total_tokens": 455,
+    "translated_title": "部分可观测环境中的土壤样本搜索",
+    "translated_abstract": "arXiv:2408.01589v1 公告类型：新 摘要：为了在未知户外环境中工作，自主采样机械需要能够在有限的可见度和机械臂可达距离内定位样本。我们设计了一种启发式引导搜索方法，以加快搜索过程并更有效地定位土壤区域的近似中心。通过模拟实验，我们评估了该算法的有效性，发现在速度、行驶距离和成功率方面，与简单基准相比，该算法具有优越的性能。",
+    "tldr": "设计了一种启发式搜索方法，可在不依赖完全可视化的情况下快速定位土壤区域中心，显著提高搜索效率。"
+}

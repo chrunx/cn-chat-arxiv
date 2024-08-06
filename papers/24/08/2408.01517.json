@@ -1,0 +1,12 @@
+{
+    "title": "Gradient flow in parameter space is equivalent to linear interpolation in output space",
+    "abstract": "arXiv:2408.01517v1 Announce Type: cross  Abstract: We prove that the usual gradient flow in parameter space that underlies many training algorithms for neural networks in deep learning can be continuously deformed into an adapted gradient flow which yields (constrained) Euclidean gradient flow in output space. Moreover, if the Jacobian of the outputs with respect to the parameters is full rank (for fixed training data), then the time variable can be reparametrized so that the resulting flow is simply linear interpolation, and a global minimum can be achieved.",
+    "link": "https://arxiv.org/abs/2408.01517",
+    "context": "Title: Gradient flow in parameter space is equivalent to linear interpolation in output space\nAbstract: arXiv:2408.01517v1 Announce Type: cross  Abstract: We prove that the usual gradient flow in parameter space that underlies many training algorithms for neural networks in deep learning can be continuously deformed into an adapted gradient flow which yields (constrained) Euclidean gradient flow in output space. Moreover, if the Jacobian of the outputs with respect to the parameters is full rank (for fixed training data), then the time variable can be reparametrized so that the resulting flow is simply linear interpolation, and a global minimum can be achieved.",
+    "path": "papers/24/08/2408.01517.json",
+    "total_tokens": 540,
+    "translated_title": "参数空间梯度流与输出空间线性插值等效",
+    "translated_abstract": "arXiv:2408.01517v1 公告类型：交叉 摘要：我们对神经网络深度学习中许多训练算法背后的标准参数空间梯度流进行了证明，证明其可以被连续变形为适应性梯度流，该梯度流在输出空间中导致（受限）欧氏梯度流。此外，如果关于参数的输出雅可比矩阵对于固定训练数据具有满秩，则可以重新参数化时间变量，使得 resulting flow 只是线性插值，并且可以实现全局最小值。",
+    "tldr": "该论文证明参数空间的梯度流可通过重新参数化等效于输出空间的线性插值，并且在参数雅可比矩阵满秩的条件下，全局最小值可达。",
+    "en_tdlr": "This paper proves that the usual gradient flow in parameter space underlying many deep learning neural network training algorithms can be continuously deformed into an adapted gradient flow that results in constrained Euclidean gradient flow in output space. Under the condition that the Jacobian of the output with respect to the parameters has full rank for fixed training data, the resulting flow can be reparametrized as simple linear interpolation, and a global minimum can be achieved."
+}

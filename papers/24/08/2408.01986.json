@@ -1,0 +1,11 @@
+{
+    "title": "DeMansia: Mamba Never Forgets Any Tokens",
+    "abstract": "arXiv:2408.01986v1 Announce Type: cross  Abstract: This paper examines the mathematical foundations of transformer architectures, highlighting their limitations particularly in handling long sequences. We explore prerequisite models such as Mamba, Vision Mamba (ViM), and LV-ViT that pave the way for our proposed architecture, DeMansia. DeMansia integrates state space models with token labeling techniques to enhance performance in image classification tasks, efficiently addressing the computational challenges posed by traditional transformers. The architecture, benchmark, and comparisons with contemporary models demonstrate DeMansia's effectiveness. The implementation of this paper is available on GitHub at https://github.com/catalpaaa/DeMansia",
+    "link": "https://arxiv.org/abs/2408.01986",
+    "context": "Title: DeMansia: Mamba Never Forgets Any Tokens\nAbstract: arXiv:2408.01986v1 Announce Type: cross  Abstract: This paper examines the mathematical foundations of transformer architectures, highlighting their limitations particularly in handling long sequences. We explore prerequisite models such as Mamba, Vision Mamba (ViM), and LV-ViT that pave the way for our proposed architecture, DeMansia. DeMansia integrates state space models with token labeling techniques to enhance performance in image classification tasks, efficiently addressing the computational challenges posed by traditional transformers. The architecture, benchmark, and comparisons with contemporary models demonstrate DeMansia's effectiveness. The implementation of this paper is available on GitHub at https://github.com/catalpaaa/DeMansia",
+    "path": "papers/24/08/2408.01986.json",
+    "total_tokens": 353,
+    "translated_title": "这里是被翻译过的论文标题",
+    "translated_abstract": "这里是被翻译过的论文摘要",
+    "tldr": "这里是被总结出的中文要点"
+}

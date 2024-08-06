@@ -1,0 +1,11 @@
+{
+    "title": "Backward explanations via redefinition of predicates",
+    "abstract": "arXiv:2408.02606v1 Announce Type: new  Abstract: History eXplanation based on Predicates (HXP), studies the behavior of a Reinforcement Learning (RL) agent in a sequence of agent's interactions with the environment (a history), through the prism of an arbitrary predicate. To this end, an action importance score is computed for each action in the history. The explanation consists in displaying the most important actions to the user. As the calculation of an action's importance is #W[1]-hard, it is necessary for long histories to approximate the scores, at the expense of their quality. We therefore propose a new HXP method, called Backward-HXP, to provide explanations for these histories without having to approximate scores. Experiments show the ability of B-HXP to summarise long histories.",
+    "link": "https://arxiv.org/abs/2408.02606",
+    "context": "Title: Backward explanations via redefinition of predicates\nAbstract: arXiv:2408.02606v1 Announce Type: new  Abstract: History eXplanation based on Predicates (HXP), studies the behavior of a Reinforcement Learning (RL) agent in a sequence of agent's interactions with the environment (a history), through the prism of an arbitrary predicate. To this end, an action importance score is computed for each action in the history. The explanation consists in displaying the most important actions to the user. As the calculation of an action's importance is #W[1]-hard, it is necessary for long histories to approximate the scores, at the expense of their quality. We therefore propose a new HXP method, called Backward-HXP, to provide explanations for these histories without having to approximate scores. Experiments show the ability of B-HXP to summarise long histories.",
+    "path": "papers/24/08/2408.02606.json",
+    "total_tokens": 572,
+    "translated_title": "通过重新定义谓词的逆向解释",
+    "translated_abstract": "arXiv:2408.02606v1 通告类型： 新 摘要： 基于谓词的历史解释（HXP）研究了一个强化学习（RL）代理在环境中的序列交互行为（历史），并通过任意谓词来观察其行为。为此，为历史中的每个动作计算一个动作重要性分数。解释的组成部分是向用户显示最重要的动作。由于计算动作重要性分数是一组#W[1] hardness问题，对于长历史，我们需要近似分数，以牺牲分数质量为代价。因此，我们提出了一种新的HXP方法，称为反向HXP，能够在不近似分数的情况下为这些历史提供解释。实验展示出了B-HXP方法描述长历史的能力。",
+    "tldr": "本文提出了一种新的逆向解释方法，可以在不牺牲分数质量的情况下为RL代理在环境中的长序列交互提供解释。"
+}

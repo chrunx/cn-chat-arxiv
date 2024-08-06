@@ -1,0 +1,11 @@
+{
+    "title": "Cascading Refinement Video Denoising with Uncertainty Adaptivity",
+    "abstract": "arXiv:2408.02284v1 Announce Type: new  Abstract: Accurate alignment is crucial for video denoising. However, estimating alignment in noisy environments is challenging. This paper introduces a cascading refinement video denoising method that can refine alignment and restore images simultaneously. Better alignment enables restoration of more detailed information in each frame. Furthermore, better image quality leads to better alignment. This method has achieved SOTA performance by a large margin on the CRVD dataset. Simultaneously, aiming to deal with multi-level noise, an uncertainty map was created after each iteration. Because of this, redundant computation on the easily restored videos was avoided. By applying this method, the entire computation was reduced by 25% on average.",
+    "link": "https://arxiv.org/abs/2408.02284",
+    "context": "Title: Cascading Refinement Video Denoising with Uncertainty Adaptivity\nAbstract: arXiv:2408.02284v1 Announce Type: new  Abstract: Accurate alignment is crucial for video denoising. However, estimating alignment in noisy environments is challenging. This paper introduces a cascading refinement video denoising method that can refine alignment and restore images simultaneously. Better alignment enables restoration of more detailed information in each frame. Furthermore, better image quality leads to better alignment. This method has achieved SOTA performance by a large margin on the CRVD dataset. Simultaneously, aiming to deal with multi-level noise, an uncertainty map was created after each iteration. Because of this, redundant computation on the easily restored videos was avoided. By applying this method, the entire computation was reduced by 25% on average.",
+    "path": "papers/24/08/2408.02284.json",
+    "total_tokens": 578,
+    "translated_title": "自适应不确定性升采样视频去噪方法",
+    "translated_abstract": "在arXiv:2408.02284v1中宣布，这是一个新的摘要。准确的位置匹配是视频去噪的关键。然而，在噪声环境中估计位置匹配是非常具有挑战性的。本文介绍了一种级联精化视频去噪方法，该方法可以在精化位置匹配的同时恢复图像。更好的图像质量可以恢复更多的细节信息。此外，更好的图像质量将带来更高的精确度匹配。在这个数据集上，这种方法显著超越了状态的最优性能。此外，为了处理不同级别的噪声，在每次迭代后创建了一个不确定度图。因此，对于那些容易恢复的视频，无需进行多余的计算。通过这种方式，平均减少了25%的总计算量。",
+    "tldr": "本文提出的级联精化视频去噪方法通过自适应不确定性升采样技术，成功实现了在CRVD数据集上的大幅度性能提升。通过创建不确定度图，该方法平均减少了25%的计算量。"
+}

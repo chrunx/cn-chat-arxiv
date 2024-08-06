@@ -1,0 +1,12 @@
+{
+    "title": "SpecRover: Code Intent Extraction via LLMs",
+    "abstract": "arXiv:2408.02232v1 Announce Type: cross  Abstract: Autonomous program improvement typically involves automatically producing bug fixes and feature additions. Such program improvement can be accomplished by a combination of large language model (LLM) and program analysis capabilities, in the form of an LLM agent. Since program repair or program improvement typically requires a specification of intended behavior - specification inference can be useful for producing high quality program patches. In this work, we examine efficient and low-cost workflows for iterative specification inference within an LLM agent. Given a GitHub issue to be resolved in a software project, our goal is to conduct iterative code search accompanied by specification inference - thereby inferring intent from both the project structure and behavior. The intent thus captured is examined by a reviewer agent with the goal of vetting the patches as well as providing a measure of confidence in the vetted patches. Our app",
+    "link": "https://arxiv.org/abs/2408.02232",
+    "context": "Title: SpecRover: Code Intent Extraction via LLMs\nAbstract: arXiv:2408.02232v1 Announce Type: cross  Abstract: Autonomous program improvement typically involves automatically producing bug fixes and feature additions. Such program improvement can be accomplished by a combination of large language model (LLM) and program analysis capabilities, in the form of an LLM agent. Since program repair or program improvement typically requires a specification of intended behavior - specification inference can be useful for producing high quality program patches. In this work, we examine efficient and low-cost workflows for iterative specification inference within an LLM agent. Given a GitHub issue to be resolved in a software project, our goal is to conduct iterative code search accompanied by specification inference - thereby inferring intent from both the project structure and behavior. The intent thus captured is examined by a reviewer agent with the goal of vetting the patches as well as providing a measure of confidence in the vetted patches. Our app",
+    "path": "papers/24/08/2408.02232.json",
+    "total_tokens": 376,
+    "translated_title": "论文标题翻译",
+    "translated_abstract": "Paper abstract translated",
+    "tldr": "此处是中文摘要的小结",
+    "en_tdlr": "此处是英文摘要的小结"
+}
