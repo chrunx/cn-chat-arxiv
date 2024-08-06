@@ -25,17 +25,15 @@ Variables
 
 # 利用ChatGPT实现中文Arxiv论文的快速阅读
 
-可以直接看每个子项目的markdown文件（例如人工智能领域是cs.AI.md）
-
-也可以通过RSS阅读器订阅每个子项目的xml文件（例如人工智能领域是cs.AI.xml）
+可以通过RSS阅读器订阅每个子项目的xml文件（例如人工智能领域是cs.AI.xml）
 
 项目会基于GitHub Action自动更新（如果不出问题的话）
 
 订阅地址如：
 
-https://github.com/qhduan/cn-chat-arxiv/raw/master/cs.AI.xml
+https://github.com/chrunx/cn-chat-arxiv/raw/master/cs.AI.xml
 
-https://github.com/qhduan/cn-chat-arxiv/raw/master/ + 具体文件
+https://github.com/chrunx/cn-chat-arxiv/raw/master/ + 具体文件
 
 ## 领域列表
 
