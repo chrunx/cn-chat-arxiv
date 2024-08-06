@@ -131,49 +131,6 @@ def clean_title(x):
     return x
 
 
-def make_markdown(rets):
-    summary = []
-    details = []
-    for x in rets:
-        if 'tldr' in x and 'translated_title' in x and 'translated_abstract' in x:
-            ind = len(summary) + 1
-            tldr = x['tldr'].replace('\n', ' ')
-            en_tldr = x.get('en_tldr', '').replace('\n', ' ')
-            summary.append(f"| [^{ind}] | [{clean_title(x['title'])}]({x['link']}) | {tldr} |")
-            tt = x.get('translated_title', '').replace('\n', ' ')
-            ta = x.get('translated_abstract', '').replace('\n', ' ')
-            a = x['abstract'].replace('\n', ' ')
-            details.append(f"""[^{ind}]: {tt}
-
-    {x['title']}
-
-    [{x['link']}]({x['link']})
-
-    {tldr}
-
-    {en_tldr}
-
-    {ta}
-
-    {a}
-    """)
-    summary_text = '\n'.join(summary)
-    details_text = '\n'.join(details)
-
-    markdown = f'''# 摘要
-
-| Ref | Title | Summary |
-| --- | --- | --- |
-{summary_text}
-
-# 详细
-
-{details_text}
-
-'''
-    return markdown
-
-
 def make_rss(rets, arxiv_channel='cs.AI'):
     # Create the root element
     rss = ET.Element("rss")
@@ -293,9 +250,6 @@ Abstract: {description_text}'''
             json.dump(ret, fp, indent=4, ensure_ascii=False)
 
     rets = sorted(good_rets, key=lambda x: x['link'], reverse=True)
-    markdown = make_markdown(rets)
-    with open(f'{arxiv_channel}.md', 'w') as fp:
-        fp.write(markdown)
     make_rss(rets, arxiv_channel)
     with open('latest_updated.txt', 'w') as fp:
         fp.write(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
