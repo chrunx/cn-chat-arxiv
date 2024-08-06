@@ -1,9 +1,0 @@
-{
-    "title": "A brief tutorial on information theory",
-    "abstract": "arXiv:2402.16556v3 Announce Type: replace-cross  Abstract: At the 2023 Les Houches Summer School on Theoretical Biological Physics, several students asked for some background on information theory, and so we added a tutorial to the scheduled lectures. This is largely a transcript of that tutorial, lightly edited. It covers basic definitions and context rather than detailed calculations. We hope to have maintained the informality of the presentation, including exchanges with the students, while still being useful.",
-    "link": "https://arxiv.org/abs/2402.16556",
-    "context": "Title: A brief tutorial on information theory\nAbstract: arXiv:2402.16556v3 Announce Type: replace-cross  Abstract: At the 2023 Les Houches Summer School on Theoretical Biological Physics, several students asked for some background on information theory, and so we added a tutorial to the scheduled lectures. This is largely a transcript of that tutorial, lightly edited. It covers basic definitions and context rather than detailed calculations. We hope to have maintained the informality of the presentation, including exchanges with the students, while still being useful.",
-    "path": "papers/24/02/2402.16556.json",
-    "total_tokens": 217,
-    "tldr": "该文稿提供了信息论的基本定义和背景，旨在为理论生物物理学暑期学校的学生提供一个关于信息论的教程，尽管它侧重于阐述而非详尽的计算，但仍然包含了一些实用内容。"
-}

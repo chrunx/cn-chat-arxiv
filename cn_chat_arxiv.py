@@ -36,7 +36,7 @@ else:
 
 prompt_temp_azure = '''<|im_start|>system
 你是一个学术论文阅读专家，
-并且精通中文，请一定用中文把用户输入内容中最重要的创新和贡献总结成一句话输出，
+并且精通中文，请一定用简洁的中文把用户输入内容中最重要的创新和贡献总结成一句话输出，
 输出内容以"该文章"开头，你不会写程序，你不会提供其他建议，你不会给出代码
 <|im_end|>
 <|im_start|>user
@@ -45,7 +45,7 @@ prompt_temp_azure = '''<|im_start|>system
 '''
 prompt_temp_openai = [
     {"role": "system", "content": '''你是一个学术论文阅读专家，
-并且精通中文，请一定用中文把用户输入内容中最重要的创新和贡献总结成一句话输出，
+并且精通中文，请一定用简洁的中文把用户输入内容中最重要的创新和贡献总结成一句话输出，
 输出内容以"该文章"开头，你不会写程序，你不会提供其他建议，你不会给出代码'''},
     {"role": "user", "content": ""},
 ]
@@ -121,7 +121,7 @@ def make_rss(rets, arxiv_channel='cs.AI'):
     title = ET.SubElement(channel, "title")
     title.text = f"Chat Arxiv {arxiv_channel}"
     link = ET.SubElement(channel, "link")
-    link.text = os.environ.get('REPO_URL')
+    link.text = f"{os.environ.get('REPO_URL')}{arxiv_channel}.xml"
     description = ET.SubElement(channel, "description")
     description.text = f"This is arxiv RSS feed for {arxiv_channel}"
 

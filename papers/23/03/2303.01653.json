@@ -1,9 +1,0 @@
-{
-    "title": "Upper Bounds on Overshoot in SIR Models with Nonlinear Incidence",
-    "abstract": "arXiv:2303.01653v5 Announce Type: replace  Abstract: We expand the calculation of the upper bound on epidemic overshoot in SIR models to account for nonlinear incidence. We lay out the general procedure and restrictions to perform the calculation analytically for nonlinear functions in the number of susceptibles. We demonstrate the procedure by working through several examples and also numerically study what happens to the upper bound on overshoot when nonlinear incidence manifests in the form of epidemic dynamics over a contact network. We find that both steeper incidence terms and larger contact heterogeneity can increase the range of communicable diseases at which the overshoot remains a relatively large public health hazard.",
-    "link": "https://arxiv.org/abs/2303.01653",
-    "context": "Title: Upper Bounds on Overshoot in SIR Models with Nonlinear Incidence\nAbstract: arXiv:2303.01653v5 Announce Type: replace  Abstract: We expand the calculation of the upper bound on epidemic overshoot in SIR models to account for nonlinear incidence. We lay out the general procedure and restrictions to perform the calculation analytically for nonlinear functions in the number of susceptibles. We demonstrate the procedure by working through several examples and also numerically study what happens to the upper bound on overshoot when nonlinear incidence manifests in the form of epidemic dynamics over a contact network. We find that both steeper incidence terms and larger contact heterogeneity can increase the range of communicable diseases at which the overshoot remains a relatively large public health hazard.",
-    "path": "papers/23/03/2303.01653.json",
-    "total_tokens": 255,
-    "tldr": "该研究创新性地扩展了SIR模型中非线性发病率条件下疫摒过冲的上界计算，并分析了在接触网络上的非线性发病率对疫摒过冲上界的影响。"
-}
