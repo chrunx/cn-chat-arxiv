@@ -186,7 +186,7 @@ def make_rss(rets, arxiv_channel='cs.AI'):
     title = ET.SubElement(channel, "title")
     title.text = f"Chat Arxiv {arxiv_channel}"
     link = ET.SubElement(channel, "link")
-    link.text = "https://github.com/qhduan/cn-chat-arxiv"
+    link.text = os.environ.get('READ_LIST')
     description = ET.SubElement(channel, "description")
     description.text = f"This is arxiv RSS feed for {arxiv_channel}"
 
