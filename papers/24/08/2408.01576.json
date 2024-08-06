@@ -1,0 +1,9 @@
+{
+    "title": "Autonomous Integration of Bench-Top Wet Lab Equipment",
+    "abstract": "arXiv:2408.01576v1 Announce Type: new  Abstract: Laboratory automation is an expensive and complicated endeavor with limited inflexible options for small-scale labs. We develop a prototype system for tending to a bench-top centrifuge using computer vision methods for color detection and circular Hough Transforms to detect and localize centrifuge buckets. Initial results show that the prototype is capable of automating the usage of regular bench-top lab equipment.",
+    "link": "https://arxiv.org/abs/2408.01576",
+    "context": "Title: Autonomous Integration of Bench-Top Wet Lab Equipment\nAbstract: arXiv:2408.01576v1 Announce Type: new  Abstract: Laboratory automation is an expensive and complicated endeavor with limited inflexible options for small-scale labs. We develop a prototype system for tending to a bench-top centrifuge using computer vision methods for color detection and circular Hough Transforms to detect and localize centrifuge buckets. Initial results show that the prototype is capable of automating the usage of regular bench-top lab equipment.",
+    "path": "papers/24/08/2408.01576.json",
+    "total_tokens": 214,
+    "tldr": "该文章成功开发了一个计算机视觉驱动的系统，能够自动化操作常规的实验室设备，如离心机，展示了小型实验室自动化的新可能性。"
+}

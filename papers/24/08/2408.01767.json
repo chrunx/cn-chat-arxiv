@@ -1,0 +1,9 @@
+{
+    "title": "Comparison of Embedded Spaces for Deep Learning Classification",
+    "abstract": "arXiv:2408.01767v1 Announce Type: cross  Abstract: Embedded spaces are a key feature in deep learning. Good embedded spaces represent the data well to support classification and advanced techniques such as open-set recognition, few-short learning and explainability. This paper presents a compact overview of different techniques to design embedded spaces for classification. It compares different loss functions and constraints on the network parameters with respect to the achievable geometric structure of the embedded space. The techniques are demonstrated with two and three-dimensional embeddings for the MNIST, Fashion MNIST and CIFAR-10 datasets, allowing visual inspection of the embedded spaces.",
+    "link": "https://arxiv.org/abs/2408.01767",
+    "context": "Title: Comparison of Embedded Spaces for Deep Learning Classification\nAbstract: arXiv:2408.01767v1 Announce Type: cross  Abstract: Embedded spaces are a key feature in deep learning. Good embedded spaces represent the data well to support classification and advanced techniques such as open-set recognition, few-short learning and explainability. This paper presents a compact overview of different techniques to design embedded spaces for classification. It compares different loss functions and constraints on the network parameters with respect to the achievable geometric structure of the embedded space. The techniques are demonstrated with two and three-dimensional embeddings for the MNIST, Fashion MNIST and CIFAR-10 datasets, allowing visual inspection of the embedded spaces.",
+    "path": "papers/24/08/2408.01767.json",
+    "total_tokens": 274,
+    "tldr": "该文章通过对比不同损失函数和网络参数约束，展示了如何通过设计嵌入空间来进行分类，并在二维和三维嵌入中展示了 MNIST、Fashion MNIST 和 CIFAR-10 数据集的结果，对于支持开放式识别、少样本学习和解释性等高级技术具有重要意义。"
+}

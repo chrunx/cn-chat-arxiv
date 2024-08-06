@@ -1,0 +1,9 @@
+{
+    "title": "Deep Learning Approach for Ear Recognition and Longitudinal Evaluation in Children",
+    "abstract": "arXiv:2408.01588v1 Announce Type: new  Abstract: Ear recognition as a biometric modality is becoming increasingly popular, with promising broader application areas. While current applications involve adults, one of the challenges in ear recognition for children is the rapid structural changes in the ear as they age. This work introduces a foundational longitudinal dataset collected from children aged 4 to 14 years over a 2.5-year period and evaluates ear recognition performance in this demographic. We present a deep learning based approach for ear recognition, using an ensemble of VGG16 and MobileNet, focusing on both adult and child datasets, with an emphasis on longitudinal evaluation for children.",
+    "link": "https://arxiv.org/abs/2408.01588",
+    "context": "Title: Deep Learning Approach for Ear Recognition and Longitudinal Evaluation in Children\nAbstract: arXiv:2408.01588v1 Announce Type: new  Abstract: Ear recognition as a biometric modality is becoming increasingly popular, with promising broader application areas. While current applications involve adults, one of the challenges in ear recognition for children is the rapid structural changes in the ear as they age. This work introduces a foundational longitudinal dataset collected from children aged 4 to 14 years over a 2.5-year period and evaluates ear recognition performance in this demographic. We present a deep learning based approach for ear recognition, using an ensemble of VGG16 and MobileNet, focusing on both adult and child datasets, with an emphasis on longitudinal evaluation for children.",
+    "path": "papers/24/08/2408.01588.json",
+    "total_tokens": 286,
+    "tldr": "该文章提出了一种基于深度学习的儿童耳纹识别方法，该方法使用VGG16和MobileNet混合模型，并在长期数据跟踪中显示了在儿童群体中识别耳纹的可行性，填补了耳纹识别技术在儿童年龄段应用中的空白。"
+}

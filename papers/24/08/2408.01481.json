@@ -1,0 +1,9 @@
+{
+    "title": "Using a CNN Model to Assess Visual Artwork's Creativity",
+    "abstract": "arXiv:2408.01481v1 Announce Type: new  Abstract: Assessing artistic creativity has long challenged researchers, with traditional methods proving time-consuming. Recent studies have applied machine learning to evaluate creativity in drawings, but not paintings. Our research addresses this gap by developing a CNN model to automatically assess the creativity of students' paintings. Using a dataset of 600 paintings by professionals and children, our model achieved 90% accuracy and faster evaluation times than human raters. This approach demonstrates the potential of machine learning in advancing artistic creativity assessment, offering a more efficient alternative to traditional methods.",
+    "link": "https://arxiv.org/abs/2408.01481",
+    "context": "Title: Using a CNN Model to Assess Visual Artwork's Creativity\nAbstract: arXiv:2408.01481v1 Announce Type: new  Abstract: Assessing artistic creativity has long challenged researchers, with traditional methods proving time-consuming. Recent studies have applied machine learning to evaluate creativity in drawings, but not paintings. Our research addresses this gap by developing a CNN model to automatically assess the creativity of students' paintings. Using a dataset of 600 paintings by professionals and children, our model achieved 90% accuracy and faster evaluation times than human raters. This approach demonstrates the potential of machine learning in advancing artistic creativity assessment, offering a more efficient alternative to traditional methods.",
+    "path": "papers/24/08/2408.01481.json",
+    "total_tokens": 243,
+    "tldr": "该文章通过发展一个CNN模型，在提高了评估学生绘画创意准确性的同时，相对于人工评分，大大缩短了评价时间。"
+}

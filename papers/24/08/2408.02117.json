@@ -1,0 +1,9 @@
+{
+    "title": "Value-Based Rationales Improve Social Experience: A Multiagent Simulation Study",
+    "abstract": "arXiv:2408.02117v1 Announce Type: cross  Abstract: We propose Exanna, a framework to realize agents that incorporate values in decision making. An Exannaagent considers the values of itself and others when providing rationales for its actions and evaluating the rationales provided by others. Via multiagent simulation, we demonstrate that considering values in decision making and producing rationales, especially for norm-deviating actions, leads to (1) higher conflict resolution, (2) better social experience, (3) higher privacy, and (4) higher flexibility.",
+    "link": "https://arxiv.org/abs/2408.02117",
+    "context": "Title: Value-Based Rationales Improve Social Experience: A Multiagent Simulation Study\nAbstract: arXiv:2408.02117v1 Announce Type: cross  Abstract: We propose Exanna, a framework to realize agents that incorporate values in decision making. An Exannaagent considers the values of itself and others when providing rationales for its actions and evaluating the rationales provided by others. Via multiagent simulation, we demonstrate that considering values in decision making and producing rationales, especially for norm-deviating actions, leads to (1) higher conflict resolution, (2) better social experience, (3) higher privacy, and (4) higher flexibility.",
+    "path": "papers/24/08/2408.02117.json",
+    "total_tokens": 271,
+    "tldr": "该文章提出了Exanna框架，该框架使代理人在作出决策时能够考虑其自身和他人的价值观，并在提供行动理由时加以体现。通过多agent模拟实验，研究显示考虑价值观并提供理由的行为能够显著提高冲突解决能力、社交体验质量、隐私保护意识和灵活性。"
+}

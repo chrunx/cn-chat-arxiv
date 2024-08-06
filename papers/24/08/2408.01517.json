@@ -1,0 +1,9 @@
+{
+    "title": "Gradient flow in parameter space is equivalent to linear interpolation in output space",
+    "abstract": "arXiv:2408.01517v1 Announce Type: cross  Abstract: We prove that the usual gradient flow in parameter space that underlies many training algorithms for neural networks in deep learning can be continuously deformed into an adapted gradient flow which yields (constrained) Euclidean gradient flow in output space. Moreover, if the Jacobian of the outputs with respect to the parameters is full rank (for fixed training data), then the time variable can be reparametrized so that the resulting flow is simply linear interpolation, and a global minimum can be achieved.",
+    "link": "https://arxiv.org/abs/2408.01517",
+    "context": "Title: Gradient flow in parameter space is equivalent to linear interpolation in output space\nAbstract: arXiv:2408.01517v1 Announce Type: cross  Abstract: We prove that the usual gradient flow in parameter space that underlies many training algorithms for neural networks in deep learning can be continuously deformed into an adapted gradient flow which yields (constrained) Euclidean gradient flow in output space. Moreover, if the Jacobian of the outputs with respect to the parameters is full rank (for fixed training data), then the time variable can be reparametrized so that the resulting flow is simply linear interpolation, and a global minimum can be achieved.",
+    "path": "papers/24/08/2408.01517.json",
+    "total_tokens": 295,
+    "tldr": "该文章证明，深度学习中很多训练算法所基于的参数空间梯度流可以连续变形为一种适应性梯度流，该梯度流在输出空间导致了约束欧氏梯度流。同时，如果输出相对于参数的雅可比矩阵在固定训练数据下是满秩的，则可以重新参数化时间变量，使得得到的流是简单的一维线性插值，并且在全局最小处达到稳定。"
+}

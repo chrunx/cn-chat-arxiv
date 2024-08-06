@@ -1,0 +1,9 @@
+{
+    "title": "Prototyping of a multirotor UAV for precision landing under rotor failures",
+    "abstract": "arXiv:2408.01676v1 Announce Type: new  Abstract: This work presents a prototype of a multirotor aerial vehicle capable of precision landing, even under the effects of rotor failures. The manuscript presents the fault-tolerant techniques and mechanical designs to achieve a fault-tolerant multirotor, and a vision-based navigation system required to achieve a precision landing. Preliminary experimental results will be shown, to validate on one hand the fault-tolerant control vehicle and, on the other hand, the autonomous landing algorithm. Also, a prototype of the fault-tolerant UAV is presented, capable of precise autonomous landing, which will be used in future experiments.",
+    "link": "https://arxiv.org/abs/2408.01676",
+    "context": "Title: Prototyping of a multirotor UAV for precision landing under rotor failures\nAbstract: arXiv:2408.01676v1 Announce Type: new  Abstract: This work presents a prototype of a multirotor aerial vehicle capable of precision landing, even under the effects of rotor failures. The manuscript presents the fault-tolerant techniques and mechanical designs to achieve a fault-tolerant multirotor, and a vision-based navigation system required to achieve a precision landing. Preliminary experimental results will be shown, to validate on one hand the fault-tolerant control vehicle and, on the other hand, the autonomous landing algorithm. Also, a prototype of the fault-tolerant UAV is presented, capable of precise autonomous landing, which will be used in future experiments.",
+    "path": "papers/24/08/2408.01676.json",
+    "total_tokens": 280,
+    "tldr": "该文章提出了一种能够应对旋翼故障并实现精确着陆的多旋翼无人机原型设计。该设计包括故障 tolerant 控制技术和机械方案，以及基于视觉的导航系统，以通过实验测试的基本结果验证其系统性能。"
+}

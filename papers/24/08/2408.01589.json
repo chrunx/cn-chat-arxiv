@@ -1,0 +1,9 @@
+{
+    "title": "Soil Sample Search in Partially Observable Environments",
+    "abstract": "arXiv:2408.01589v1 Announce Type: new  Abstract: To work in unknown outdoor environments, autonomous sampling machines need the ability to target samples despite limited visibility and robotic arm reach distance. We design a heuristic guided search method to speed up the search process and more efficiently localize the approximate center of soil regions. Through simulation experiments, we assess the effectiveness of the proposed algorithm and discover superior performance in terms of speed, distance traveled, and success rate compared to naive baselines.",
+    "link": "https://arxiv.org/abs/2408.01589",
+    "context": "Title: Soil Sample Search in Partially Observable Environments\nAbstract: arXiv:2408.01589v1 Announce Type: new  Abstract: To work in unknown outdoor environments, autonomous sampling machines need the ability to target samples despite limited visibility and robotic arm reach distance. We design a heuristic guided search method to speed up the search process and more efficiently localize the approximate center of soil regions. Through simulation experiments, we assess the effectiveness of the proposed algorithm and discover superior performance in terms of speed, distance traveled, and success rate compared to naive baselines.",
+    "path": "papers/24/08/2408.01589.json",
+    "total_tokens": 215,
+    "tldr": "该文章提出了一种基于启发式 guided search 的路径规划方法，用以提高在不明环境中土壤样本搜索的效率和精度。"
+}
