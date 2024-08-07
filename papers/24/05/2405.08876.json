@@ -1,9 +1,0 @@
-{
-    "title": "Gauge-invariant magnetic charges in linearised gravity",
-    "abstract": "arXiv:2405.08876v2 Announce Type: replace  Abstract: Linearised gravity has magnetic charges carried by (linearised) Kaluza-Klein monopoles. A gauge-invariant expression is found for these charges that is similar to Penrose's gauge-invariant expression for the ADM charges. A systematic search is made for other gauge-invariant charges.",
-    "link": "https://arxiv.org/abs/2405.08876",
-    "context": "Title: Gauge-invariant magnetic charges in linearised gravity\nAbstract: arXiv:2405.08876v2 Announce Type: replace  Abstract: Linearised gravity has magnetic charges carried by (linearised) Kaluza-Klein monopoles. A gauge-invariant expression is found for these charges that is similar to Penrose's gauge-invariant expression for the ADM charges. A systematic search is made for other gauge-invariant charges.",
-    "path": "papers/24/05/2405.08876.json",
-    "total_tokens": 218,
-    "tldr": "该文章发现线性化引力中的磁荷可以通过类似于Penrose的几何重排表示法表示，并针对线性化Kaluza-Klein单极子进行了分类搜索，找到了其他可能的几何重排表示法的磁荷表达式。"
-}

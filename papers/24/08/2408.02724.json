@@ -1,9 +1,0 @@
-{
-    "title": "Chiral Edge States Emerging on Anyon-Net",
-    "abstract": "arXiv:2408.02724v1 Announce Type: cross  Abstract: We propose a symmetry-based approach to constructing lattice models for chiral topological phases, focusing on non-Abelian anyons. Using a 2+1D version of anyon chains and modular tensor categories(MTCs), we ensure exact MTC symmetry at the microscopic level. Numerical simulations using tensor networks demonstrate chiral edge modes for topological phases with Ising and Fibonacci anyons. Our method contrasts with conventional solvability approaches, providing a new theoretical avenue to explore strongly coupled 2+1D systems, revealing chiral edge states in non-Abelian anyonic systems.",
-    "link": "https://arxiv.org/abs/2408.02724",
-    "context": "Title: Chiral Edge States Emerging on Anyon-Net\nAbstract: arXiv:2408.02724v1 Announce Type: cross  Abstract: We propose a symmetry-based approach to constructing lattice models for chiral topological phases, focusing on non-Abelian anyons. Using a 2+1D version of anyon chains and modular tensor categories(MTCs), we ensure exact MTC symmetry at the microscopic level. Numerical simulations using tensor networks demonstrate chiral edge modes for topological phases with Ising and Fibonacci anyons. Our method contrasts with conventional solvability approaches, providing a new theoretical avenue to explore strongly coupled 2+1D systems, revealing chiral edge states in non-Abelian anyonic systems.",
-    "path": "papers/24/08/2408.02724.json",
-    "total_tokens": 329,
-    "tldr": "该文章提出了一个基于对称性的方法，用于构建包含非阿贝尔任何链条和模部张量范畴的拓扑相，实现了在2+1维系统的非阿贝尔任何气的精确对称性。通过使用张量网络进行数值模拟，揭示了在具有伊辛和费博纳奇任何体的拓扑相中存在手性边缘态。这种方法为研究强耦合2+1维系统提供了新的理论途径，并对非阿贝尔任何系统的边缘手性态进行了展示。"
-}

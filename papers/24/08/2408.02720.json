@@ -1,9 +1,0 @@
-{
-    "title": "Do holographic CFT states have unique semiclassical bulk duals?",
-    "abstract": "arXiv:2408.02720v1 Announce Type: new  Abstract: We discuss a situation where a holographic CFT state has multiple semiclassical bulk duals. In our example, a given holographic state has two simple, semiclassical descriptions, one with a closed universe, constructed using the gravitational path integral, and one without a closed universe, constructed using the extrapolate dictionary. This highlights an ambiguity in the AdS/CFT dictionary. We propose various options for resolving this tension although none are perfectly satisfactory. We also discuss what this implies for the black hole interior and the gravitational path integral.",
-    "link": "https://arxiv.org/abs/2408.02720",
-    "context": "Title: Do holographic CFT states have unique semiclassical bulk duals?\nAbstract: arXiv:2408.02720v1 Announce Type: new  Abstract: We discuss a situation where a holographic CFT state has multiple semiclassical bulk duals. In our example, a given holographic state has two simple, semiclassical descriptions, one with a closed universe, constructed using the gravitational path integral, and one without a closed universe, constructed using the extrapolate dictionary. This highlights an ambiguity in the AdS/CFT dictionary. We propose various options for resolving this tension although none are perfectly satisfactory. We also discuss what this implies for the black hole interior and the gravitational path integral.",
-    "path": "papers/24/08/2408.02720.json",
-    "total_tokens": 327,
-    "tldr": "该文章提出，某些 holographical CFT 状态可能有多重半经典 Bulk 对等体。在给定的例子中，一个特定的 holographical 状态既可以解释为一个闭合宇宙，通过 gravitational 路径积分构建，也可以解释为没有闭合宇宙，通过 extrapolate 字典构建。这揭示了 AdS/CFT 字典中的一个歧义。文章提出了多种解决这一紧张局势的方案，尽管没有方案是完全满意的。文章还讨论了这一点对于黑洞内部和 gravitational 路径积分的影响。"
-}
