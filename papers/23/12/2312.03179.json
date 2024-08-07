@@ -1,0 +1,9 @@
+{
+    "title": "CaloQVAE : Simulating high-energy particle-calorimeter interactions using hybrid quantum-classical generative models",
+    "abstract": "arXiv:2312.03179v4 Announce Type: replace  Abstract: The Large Hadron Collider's high luminosity era presents major computational challenges in the analysis of collision events. Large amounts of Monte Carlo (MC) simulation will be required to constrain the statistical uncertainties of the simulated datasets below these of the experimental data. Modelling of high-energy particles propagating through the calorimeter section of the detector is the most computationally intensive MC simulation task. We introduce a technique combining recent advancements in generative models and quantum annealing for fast and efficient simulation of high-energy particle-calorimeter interactions.",
+    "link": "https://arxiv.org/abs/2312.03179",
+    "context": "Title: CaloQVAE : Simulating high-energy particle-calorimeter interactions using hybrid quantum-classical generative models\nAbstract: arXiv:2312.03179v4 Announce Type: replace  Abstract: The Large Hadron Collider's high luminosity era presents major computational challenges in the analysis of collision events. Large amounts of Monte Carlo (MC) simulation will be required to constrain the statistical uncertainties of the simulated datasets below these of the experimental data. Modelling of high-energy particles propagating through the calorimeter section of the detector is the most computationally intensive MC simulation task. We introduce a technique combining recent advancements in generative models and quantum annealing for fast and efficient simulation of high-energy particle-calorimeter interactions.",
+    "path": "papers/23/12/2312.03179.json",
+    "total_tokens": 273,
+    "tldr": "该文章介绍了结合了生成模型和量子退火技术的一种新方法，用于快速、高效地模拟高能粒子与测径器相互作用的过程，以应对大型强子对撞机高亮度运行时代面临的重大计算挑战。"
+}

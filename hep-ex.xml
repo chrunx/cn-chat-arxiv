@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0"><channel><title>Chat Arxiv hep-ex</title><link>https://raw.githubusercontent.com/chrunx/cn-chat-arxiv/master/hep-ex.xml</link><description>This is arxiv RSS feed for hep-ex</description><item><title>该文章通过标准模型中的$\rm{SU}(3)_F$对称性规范计算了$D$和$D_s$衰变过程中的充(CP)相异性，预测了若遵循QCD中的$U$-轴对称，直接CP相异性在大于标准模型预测值范围内的可能性，暗示了潜在的新物理可能。</title><link>https://arxiv.org/abs/2408.03227</link><description>&lt;p&gt;
+$\rm{SU}(3)_F$ sum rules for CP asymmetry of $D_{(s)}$ decays
+&lt;/p&gt;
+&lt;p&gt;
+https://arxiv.org/abs/2408.03227
+&lt;/p&gt;
+&lt;p&gt;
+该文章通过标准模型中的$\rm{SU}(3)_F$对称性规范计算了$D$和$D_s$衰变过程中的充(CP)相异性，预测了若遵循QCD中的$U$-轴对称，直接CP相异性在大于标准模型预测值范围内的可能性，暗示了潜在的新物理可能。
+&lt;/p&gt;
+&lt;p&gt;
+arXiv:2408.03227v1 Announce Type: cross  Abstract: Charge-parity (CP) asymmetries in charm decays are extremely suppressed in the Standard Model and may well be dominated by new-physics contributions. The LHCb collaboration reported the results of direct CP asymmetry measurements in $D^0\to K^+ K^-$ and $D^0\to \pi^+\pi^-$ decays with unprecedented accuracy: $a_{\rm{CP}}(K^+ K^-)=(7.7\pm5.7)\times 10^{-4}$ and $a_{\rm{CP}}(\pi^+\pi^-)=(23.2\pm6.1)\times 10^{-4}$, with the latter quantity inferred from the precise measurement of $\Delta a_{\rm{CP}} =\, a_{\rm{CP}}(K^+ K^-) -a_{\rm{CP}}(\pi^+\pi^-) =\, (-15.7\pm2.9)\times 10^{-4}$. When interpreted within the Standard Model, these values indicate a breakdown of the approximate $U$-spin symmetry of QCD. If, however, this symmetry holds and the data stem from new physics, other CP asymmetries should be enhanced as well. We derive CP asymmetry sum rules based on $\rm{SU}(3)$ flavor symmetry for $D$ meson decays into a pair of pseudoscalar m
+&lt;/p&gt;</description></item><item><title>该文章通过测量$e^+e^-$碰撞中$\Sigma^+$超子相对于$\bar{\Sigma}^-$反超子的横向极化、相位和电磁衰减因子的模比，为理解$\Sigma^+\to\bar{\Sigma}^-$对产生的机制提供了关键数据。</title><link>https://arxiv.org/abs/2408.03205</link><description>&lt;p&gt;
+Measurement of $\Sigma^+$ transverse polarization in $e^+e^-$ collisions at $\sqrt{s} = 3.68-3.71$ GeV
+&lt;/p&gt;
+&lt;p&gt;
+https://arxiv.org/abs/2408.03205
+&lt;/p&gt;
+&lt;p&gt;
+该文章通过测量$e^+e^-$碰撞中$\Sigma^+$超子相对于$\bar{\Sigma}^-$反超子的横向极化、相位和电磁衰减因子的模比，为理解$\Sigma^+\to\bar{\Sigma}^-$对产生的机制提供了关键数据。
+&lt;/p&gt;
+&lt;p&gt;
+arXiv:2408.03205v1 Announce Type: new  Abstract: Using $e^+e^-$ collision data collected with the BESIII detector at seven energy points ranging from 3.68 to 3.71 GeV and corresponding to an integrated luminosity of $652.1~{\rm pb^{-1}}$, we present an energy-dependent measurement of the transverse polarization, relative phase and modulus ratio of the electromagnetic form factors of the $\Sigma^+$ hyperon in the $e^+e^- \to \Sigma^+ \bar{\Sigma}^-$ reaction. These results are helpful to understand the production mechanism of the $\Sigma^+$-$\bar\Sigma^-$ pairs.
+&lt;/p&gt;</description></item><item><title>该文章通过Bethe-Salpeter方程方法预测了未被实验证实的$D$-波奇异数态$c$重子$\eta_{_{c2}}(^1D_{_2})$的理论质量和电磁衰变宽度，并指出其理论全宽度约为366千电子伏。文章强调了相对论修正的影响，并展示了在3800到3872 MeV的质量范围内，衰变截面对质量和谱线状态的变化敏感性。文章提出的电磁衰变通道为$h_{_{c}}$和$J/\psi$的放射性衰变，以及$psi(2S)$和$psi(3770)$的放射性衰变，这些结果可以为未来实验寻找和测量该奇异数态$c$重子提供理论指导。</title><link>https://arxiv.org/abs/2408.03011</link><description>&lt;p&gt;
+$\eta_{_{c2}}(^1D_{_2})$ and its electromagnetic decays
+&lt;/p&gt;
+&lt;p&gt;
+https://arxiv.org/abs/2408.03011
+&lt;/p&gt;
+&lt;p&gt;
+该文章通过Bethe-Salpeter方程方法预测了未被实验证实的$D$-波奇异数态$c$重子$\eta_{_{c2}}(^1D_{_2})$的理论质量和电磁衰变宽度，并指出其理论全宽度约为366千电子伏。文章强调了相对论修正的影响，并展示了在3800到3872 MeV的质量范围内，衰变截面对质量和谱线状态的变化敏感性。文章提出的电磁衰变通道为$h_{_{c}}$和$J/\psi$的放射性衰变，以及$psi(2S)$和$psi(3770)$的放射性衰变，这些结果可以为未来实验寻找和测量该奇异数态$c$重子提供理论指导。
+&lt;/p&gt;
+&lt;p&gt;
+arXiv:2408.03011v1 Announce Type: cross  Abstract: The spin-singlet state $\eta_{_{c2}}(^1D_{_2})$ has not been discovered in experiment and it is the only missing low-excited $D$-wave charmonium, so in this paper, we like to study its properties. Using the Bethe-Salpeter equation method, we obtain its mass as $3828.2$ MeV and its electromagnetic decay widths as $\Gamma[\eta_{_{c2}}(1D)\rightarrow h_{_{c}}(1P)\gamma]=284$ keV, $\Gamma[\eta_{_{c2}}(1D)\rightarrow J/\psi\gamma]=1.04$ keV, $\Gamma[\eta_{_{c2}}(1D)\rightarrow\psi(2S)\gamma]=3.08$ eV, and $\Gamma[\eta_{_{c2}}(1D)\rightarrow\psi(3770)\gamma]=0.143$ keV. We estimate its full width to be about $366$ keV, and point out that the electromagnetic decay partial width is very sensitive to its mass and show the variation of the width along with the mass in the range of $3800\sim3872$ MeV. In our calculation, the emphasis is put on the relativistic corrections. Our results show that $\eta_{_{c2}}\rightarrow h_{_{c}}\gamma$ is the non-
+&lt;/p&gt;</description></item><item><title>该文章通过分析积累的BESIII探测器数据，首次观测到$\eta_{c}(2S) \to K^{+}K^{-}\eta$的衰变模式，测量了相应的 branching fractions，并在此基础上评估了$\eta_{c}(2S)$到K^+K^-η衰变的精确率。</title><link>https://arxiv.org/abs/2408.02940</link><description>&lt;p&gt;
+Observation of $\eta_{c}(2S) \to K^{+}K^{-}\eta$
+&lt;/p&gt;
+&lt;p&gt;
+https://arxiv.org/abs/2408.02940
+&lt;/p&gt;
+&lt;p&gt;
+该文章通过分析积累的BESIII探测器数据，首次观测到$\eta_{c}(2S) \to K^{+}K^{-}\eta$的衰变模式，测量了相应的 branching fractions，并在此基础上评估了$\eta_{c}(2S)$到K^+K^-η衰变的精确率。
+&lt;/p&gt;
+&lt;p&gt;
+arXiv:2408.02940v1 Announce Type: new  Abstract: By analyzing $(27.12 \pm 0.14)\times10^{8}$ $\psi(3686)$ events accumulated with the BESIII detector, the decay $\eta_{c}(2S) \to K^{+} K^{-} \eta$ is observed for the first time with a significance of $6.2\sigma$ after considering systematic uncertainties. The product of the branching fractions of $\psi(3686) \to \gamma\eta_{c}(2S)$ and $\eta_{c}(2S) \to K^{+} K^{-} \eta$ is measured to be $\mathcal{B}(\psi(3686) \to\gamma\eta_{c}(2S))\times \mathcal{B}(\eta_{c}(2S)\to K^{+} K^{-}\eta)=(2.39 \pm 0.32 \pm 0.34) \times 10^{-6}$, where the first uncertainty is statistical, and the second one is systematic. The branching fraction of $\eta_{c}(2S)\to K^{+} K^{-}\eta$ is determined to be $\mathcal{B}(\eta_{c}(2S)\to K^{+} K^{-}\eta) = (3.42 \pm 0.46 \pm 0.48 \pm 2.44) \times 10^{-3}$, where the third uncertainty is due to the branching fraction of $\psi(3686) \to \gamma\eta_{c}(2S)$. Using a recent BESIII measurement of $\mathcal{B} (\eta_{c}
+&lt;/p&gt;</description></item><item><title>该文章首次使用XENONnT实验对太阳 $^8$B中性子通过Coherent Elastic Neutrino-Nucleus Scattering (CE$\nu$NS)的现象进行了测量，这是一个里程碑性的实验进展，它验证了科学家对太阳辐射中太阳能量的直接测量，并为理解基本物理作用提供了新的数据点。</title><link>https://arxiv.org/abs/2408.02877</link><description>&lt;p&gt;
+First Measurement of Solar $^8$B Neutrinos via Coherent Elastic Neutrino-Nucleus Scattering with XENONnT
+&lt;/p&gt;
+&lt;p&gt;
+https://arxiv.org/abs/2408.02877
+&lt;/p&gt;
+&lt;p&gt;
+该文章首次使用XENONnT实验对太阳 $^8$B中性子通过Coherent Elastic Neutrino-Nucleus Scattering (CE$\nu$NS)的现象进行了测量，这是一个里程碑性的实验进展，它验证了科学家对太阳辐射中太阳能量的直接测量，并为理解基本物理作用提供了新的数据点。
+&lt;/p&gt;
+&lt;p&gt;
+arXiv:2408.02877v1 Announce Type: cross  Abstract: We present the first measurement of nuclear recoils from solar $^8$B neutrinos via coherent elastic neutrino-nucleus scattering with the XENONnT dark matter experiment. The central detector of XENONnT is a low-background, two-phase time projection chamber with a 5.9\,t sensitive liquid xenon target. A blind analysis with an exposure of 3.51\,t$\times$y resulted in 37 observed events above 0.5\,keV, with ($26.4^{+1.4}_{-1.3}$) events expected from backgrounds. The background-only hypothesis is rejected with a statistical significance of 2.73\,$\sigma$. The measured $^8$B solar neutrino flux of $(4.7_{-2.3}^{+3.6})\times 10^6\,\mathrm{cm}^{-2}\mathrm{s}^{-1}$ is consistent with results from dedicated solar neutrino experiments. The measured neutrino flux-weighted CE$\nu$NS cross-section on Xe of $(1.1^{+0.8}_{-0.5})\times10^{-39}\,\mathrm{cm}^2$ is consistent with the Standard Model prediction. This is the first direct measurement of nuc
+&lt;/p&gt;</description></item><item><title>该文章通过将Kolmogorov-Arnold Networks应用于某LHC物理案例的高级特征二分类任务，研究了其在处理高性能和解释性改进方面的潜力。结果表明，尽管KANs在性能方面没有证明比传统前馈网络更高效，但在某些情况下，尤其是小规模的KAN模型，可能在保持较低参数数量的同时提供更好的数据表示学习能力。</title><link>https://arxiv.org/abs/2408.02743</link><description>&lt;p&gt;
+KAN we improve on HEP classification tasks? Kolmogorov-Arnold Networks applied to an LHC physics example
+&lt;/p&gt;
+&lt;p&gt;
+https://arxiv.org/abs/2408.02743
+&lt;/p&gt;
+&lt;p&gt;
+该文章通过将Kolmogorov-Arnold Networks应用于某LHC物理案例的高级特征二分类任务，研究了其在处理高性能和解释性改进方面的潜力。结果表明，尽管KANs在性能方面没有证明比传统前馈网络更高效，但在某些情况下，尤其是小规模的KAN模型，可能在保持较低参数数量的同时提供更好的数据表示学习能力。
+&lt;/p&gt;
+&lt;p&gt;
+arXiv:2408.02743v1 Announce Type: cross  Abstract: Recently, Kolmogorov-Arnold Networks (KANs) have been proposed as an alternative to multilayer perceptrons, suggesting advantages in performance and interpretability. We study a typical binary event classification task in high-energy physics including high-level features and comment on the performance and interpretability of KANs in this context. We find that the learned activation functions of a one-layer KAN resemble the log-likelihood ratio of the input features. In deeper KANs, the activations in the first KAN layer differ from those in the one-layer KAN, which indicates that the deeper KANs learn more complex representations of the data. We study KANs with different depths and widths and we compare them to multilayer perceptrons in terms of performance and number of trainable parameters. For the chosen classification task, we do not find that KANs are more parameter efficient. However, small KANs may offer advantages in terms of i
+&lt;/p&gt;</description></item><item><title>该文章证明在深潜伏性过程区域，海森堡不确定性关系和朗德-佩尔尔斯不确定性关系中隐含存在“隐藏”的角变量，这些变量构成了新的不确定性关系。通过对间接测量理论的研究，文章推测在间接测量中虚拟粒子的速度存在一个估计公式，且应用于HERA实验数据时，发现虚拟光子的速度超过了自由空间中的光速，提出在粒子相互作用的领域，新的角度参数与相位空间的几何形态和时空连续体的维度紧密相关。文章进一步提出了在虚拟粒子速度的研究中存在一种类似类光速粒子的可能性，并提出了一种推测的理论框架来理解这种在时空问题中的极端现象。这项研究为进一步深化对粒子物理标准模型的理解，以及探索量子引力理论下时空结构的性质提供了新的见解。</title><link>https://arxiv.org/abs/2408.02696</link><description>&lt;p&gt;
+Additional dimensions of space and time in the region of deep inelastic processes
+&lt;/p&gt;
+&lt;p&gt;
+https://arxiv.org/abs/2408.02696
+&lt;/p&gt;
+&lt;p&gt;
+该文章证明在深潜伏性过程区域，海森堡不确定性关系和朗德-佩尔尔斯不确定性关系中隐含存在“隐藏”的角变量，这些变量构成了新的不确定性关系。通过对间接测量理论的研究，文章推测在间接测量中虚拟粒子的速度存在一个估计公式，且应用于HERA实验数据时，发现虚拟光子的速度超过了自由空间中的光速，提出在粒子相互作用的领域，新的角度参数与相位空间的几何形态和时空连续体的维度紧密相关。文章进一步提出了在虚拟粒子速度的研究中存在一种类似类光速粒子的可能性，并提出了一种推测的理论框架来理解这种在时空问题中的极端现象。这项研究为进一步深化对粒子物理标准模型的理解，以及探索量子引力理论下时空结构的性质提供了新的见解。
+&lt;/p&gt;
+&lt;p&gt;
+arXiv:2408.02696v1 Announce Type: cross  Abstract: We prove that the well-known Heisenberg uncertainty relations and Landau-Peierls uncertainty relations implicitly contain ``hidden'' angular variables, which belong to new uncertainty relations. Based on the obtained relations, we derive a formula for estimating the speed $U^*$ of a virtual particle in indirect measurements. We applied the theory of indirect measurements and the derived formula to estimate the module of the group velocity of virtual photons from the DIS HERA data. The HERA data indicate that the speed of virtual photons exceeds the speed of light $c$ in free space, $U^*&amp;gt;c$. The properties of virtual photons and a hypothetical tachyon particle are almost identical. It is found that in the realm of particle interaction, the new angular parameters are closely related to the type of the phase-space geometry and dimensionality of the space-time continuum. It is suggested that the problem of the normalization condition $U^* 
+&lt;/p&gt;</description></item><item><title>该文章通过结合对矮星系（dSphs）的分析，利用VERITAS成像大气Cherenkov望远镜阵列收集的638小时数据，呈现出对暗物质的一种间接搜寻方法。这包括对17个dSphs的长时间观测，旨在探测潜在的由TeV尺度暗物质粒子衰变或湮灭产生的极高能量（VHE）γ射线，从而为理解暗物质的本质提供了可能的新途径。</title><link>https://arxiv.org/abs/2407.16518</link><description>&lt;p&gt;
+An indirect search for dark matter with a combined analysis of dwarf spheroidal galaxies from VERITAS
+&lt;/p&gt;
+&lt;p&gt;
+https://arxiv.org/abs/2407.16518
+&lt;/p&gt;
+&lt;p&gt;
+该文章通过结合对矮星系（dSphs）的分析，利用VERITAS成像大气Cherenkov望远镜阵列收集的638小时数据，呈现出对暗物质的一种间接搜寻方法。这包括对17个dSphs的长时间观测，旨在探测潜在的由TeV尺度暗物质粒子衰变或湮灭产生的极高能量（VHE）γ射线，从而为理解暗物质的本质提供了可能的新途径。
+&lt;/p&gt;
+&lt;p&gt;
+arXiv:2407.16518v2 Announce Type: replace-cross  Abstract: Understanding the nature and identity of dark matter is a key goal in the physics community. In the case that TeV-scale dark matter particles decay or annihilate into standard model particles, very-high-energy (VHE) gamma rays (greater than 100 GeV) will be present in the final state. The Very Energetic Radiation Imaging Telescope Array System (VERITAS) is an imaging atmospheric Cherenkov telescope array that can indirectly detect VHE gamma rays in an energy range of 100 GeV to &amp;gt; 30 TeV. Dwarf spheroidal galaxies (dSphs) are ideal candidates in the search for dark matter due to their high dark matter content, high mass-to-light ratios, and their low gamma-ray fluxes from astrophysical processes. This study uses a legacy data set of 638 hours collected on 17 dSphs, built over 11 years with an observing strategy optimized according to the dark matter content of the targets. The study addresses a broad dark matter particle mass ra
+&lt;/p&gt;</description></item><item><title>该文章提出了一种由定向晶体组成的同质计数器，其能够通过电磁相变过程中的差异来更精确地识别粒子的性质，从而定义了高能粒子识别的新边界。</title><link>https://arxiv.org/abs/2405.11302</link><description>&lt;p&gt;
+Particle identification capability of a homogeneous calorimeter composed of oriented crystals
+&lt;/p&gt;
+&lt;p&gt;
+https://arxiv.org/abs/2405.11302
+&lt;/p&gt;
+&lt;p&gt;
+该文章提出了一种由定向晶体组成的同质计数器，其能够通过电磁相变过程中的差异来更精确地识别粒子的性质，从而定义了高能粒子识别的新边界。
+&lt;/p&gt;
+&lt;p&gt;
+arXiv:2405.11302v2 Announce Type: replace  Abstract: Recent studies have shown that the electromagnetic shower induced by a high-energy electron, positron or photon incident along the axis of an oriented crystal develops in a space more compact than the ordinary. On the other hand, the properties of the hadronic interactions are not affected by the lattice structure. This means that, inside an oriented crystal, the natural difference between the hadronic and the electromagnetic shower profile is strongly accentuated. Thus, a calorimeter composed of oriented crystals could be intrinsically capable of identifying more accurately the nature of the incident particles, with respect to a detector composed only of non-aligned crystals. Since no oriented calorimeter has ever been developed, this possibility remains largely unexplored and can be investigated only by mean of numerical simulations. In this work, we report the first quantitative evaluation of the particle identification capability
+&lt;/p&gt;</description></item><item><title>该文章指出，通过检测单个量子比特设备中的低阈值能量沉积，有可能发现暗物质的存在，这一方法已达到远超过传统直接探测实验的新高。研究人员利用最新的量子比特测量结果，对惰性物质与原子核的相互作用进行了严格限制，从而排除了多种潜在的暗物质类型。未来的研究将进一步利用低量子比特设备的潜在敏感度来探测暗物质。</title><link>https://arxiv.org/abs/2405.00112</link><description>&lt;p&gt;
+Transmon Qubit Constraints on Dark Matter-Nucleon Scattering
+&lt;/p&gt;
+&lt;p&gt;
+https://arxiv.org/abs/2405.00112
+&lt;/p&gt;
+&lt;p&gt;
+该文章指出，通过检测单个量子比特设备中的低阈值能量沉积，有可能发现暗物质的存在，这一方法已达到远超过传统直接探测实验的新高。研究人员利用最新的量子比特测量结果，对惰性物质与原子核的相互作用进行了严格限制，从而排除了多种潜在的暗物质类型。未来的研究将进一步利用低量子比特设备的潜在敏感度来探测暗物质。
+&lt;/p&gt;
+&lt;p&gt;
+arXiv:2405.00112v2 Announce Type: replace-cross  Abstract: We recently pointed out that power measurements of single quasiparticle devices can be used to detect dark matter. These devices have the lowest known energy thresholds, far surpassing standard direct detection experiments, requiring energy deposition above only about an meV. We calculate dark matter induced quasiparticle densities in transmon qubits, and use the latest transmon qubit measurements that provide one of the strongest existing lab-based bounds on dark matter-nucleon scattering below about 100 MeV. We strongly constrain sub-component dark matter, using both a dark matter population thermalized in the Earth as well as the dark matter wind from the Galactic halo. We demonstrate future potential sensitivities using devices with low quasiparticle densities.
+&lt;/p&gt;</description></item><item><title>该文章通过利用光锥量子色动力学（QCD）方法，系统研究了争议性的Ωc0共振的基本电磁性质，试图通过这种方式探索这些未充分阐明的内部结构的实质。文章受到大型强子对撞机(LHCb)合作组观测到的Ωc0状态的启发，本文使用光锥求和规则模型研究了这些状态的电磁性质，这些状态被解释为具有两重子和三重子结构的紧凑的夸克-夸克-反夸克五夸克复合体，具有1/2-和3/2-的角动量- parity量子数。通过分析计算出的数值结果，文章得出结论，Ωc0状态的磁矩能够反映出它们的内部构造，而这种磁矩的测量极有可能在未来的实验设施中被用于区分这些状态的空间角动量- parity量子数，因此非常有利于理解它们的内部构成和辨别这些状态的量子数。</title><link>https://arxiv.org/abs/2402.18901</link><description>&lt;p&gt;
+Electromagnetic properties of $\Omega_{c}^0$ resonances via light-cone QCD
+&lt;/p&gt;
+&lt;p&gt;
+https://arxiv.org/abs/2402.18901
+&lt;/p&gt;
+&lt;p&gt;
+该文章通过利用光锥量子色动力学（QCD）方法，系统研究了争议性的Ωc0共振的基本电磁性质，试图通过这种方式探索这些未充分阐明的内部结构的实质。文章受到大型强子对撞机(LHCb)合作组观测到的Ωc0状态的启发，本文使用光锥求和规则模型研究了这些状态的电磁性质，这些状态被解释为具有两重子和三重子结构的紧凑的夸克-夸克-反夸克五夸克复合体，具有1/2-和3/2-的角动量- parity量子数。通过分析计算出的数值结果，文章得出结论，Ωc0状态的磁矩能够反映出它们的内部构造，而这种磁矩的测量极有可能在未来的实验设施中被用于区分这些状态的空间角动量- parity量子数，因此非常有利于理解它们的内部构成和辨别这些状态的量子数。
+&lt;/p&gt;
+&lt;p&gt;
+arXiv:2402.18901v3 Announce Type: replace-cross  Abstract: We systematically study the electromagnetic properties of controversial states whose internal structure is not elucidated and we try to offer a different point of view to unravel the internal structure of these states. Inspired by the $\Omega_c$ states observed by the LHCb Collaboration, we study the electromagnetic properties of the $\Omega_c$ states as the compact diquark-diquark-antiquark pentaquarks with both $J^P = \frac{1}{2}^-$ and $J^P = \frac{3}{2}^-$ in the context of the QCD light-cone sum rule model. From the obtained numerical results, we conclude that the magnetic dipole moments of the $\Omega_c$ states can reflect their inner structures, which can be used to distinguish their spin-parity quantum numbers. Measuring the magnetic moment of the $\Omega_c$ states in future experimental facilities can be very helpful for understanding the internal organization and identifying the quantum numbers of these states.
+&lt;/p&gt;</description></item><item><title>该文章提出了一种基于非晶硅的探测器，用于超高速剂量率的质子放射治疗监测，展示了在高达20 kGy/s的剂量率下检测器的优异性能和线性和恢复特性，预示着未来在FLASH疗法的剂量监测方面的应用潜力。</title><link>https://arxiv.org/abs/2401.14300</link><description>&lt;p&gt;
+Amorphous silicon detectors for proton beam monitoring in FLASH radiotherapy
+&lt;/p&gt;
+&lt;p&gt;
+https://arxiv.org/abs/2401.14300
+&lt;/p&gt;
+&lt;p&gt;
+该文章提出了一种基于非晶硅的探测器，用于超高速剂量率的质子放射治疗监测，展示了在高达20 kGy/s的剂量率下检测器的优异性能和线性和恢复特性，预示着未来在FLASH疗法的剂量监测方面的应用潜力。
+&lt;/p&gt;
+&lt;p&gt;
+arXiv:2401.14300v2 Announce Type: replace  Abstract: Ultra-high dose rate radiation therapy (FLASH) based on proton irradiation is of major interest for cancer treatments but creates new challenges for dose monitoring. Amorphous hydrogenated silicon is known to be one of the most radiation-hard semiconductors. In this study, detectors based on this material are investigated at proton dose rates similar to or exceeding those required for FLASH therapy. Tested detectors comprise two different types of contacts, two different thicknesses deposited either on glass or on polyimide substrates. All detectors exhibit excellent linear behaviour as a function of dose rate up to a value of 20 kGy/s. Linearity is achieved independently of the depletion condition of the device and remarkably in passive (unbiased) conditions. The degradation of the performance as a function of the dose rate and its recovery are also discussed.
+&lt;/p&gt;</description></item><item><title>该文章介绍了结合了生成模型和量子退火技术的一种新方法，用于快速、高效地模拟高能粒子与测径器相互作用的过程，以应对大型强子对撞机高亮度运行时代面临的重大计算挑战。</title><link>https://arxiv.org/abs/2312.03179</link><description>&lt;p&gt;
+CaloQVAE : Simulating high-energy particle-calorimeter interactions using hybrid quantum-classical generative models
+&lt;/p&gt;
+&lt;p&gt;
+https://arxiv.org/abs/2312.03179
+&lt;/p&gt;
+&lt;p&gt;
+该文章介绍了结合了生成模型和量子退火技术的一种新方法，用于快速、高效地模拟高能粒子与测径器相互作用的过程，以应对大型强子对撞机高亮度运行时代面临的重大计算挑战。
+&lt;/p&gt;
+&lt;p&gt;
+arXiv:2312.03179v4 Announce Type: replace  Abstract: The Large Hadron Collider's high luminosity era presents major computational challenges in the analysis of collision events. Large amounts of Monte Carlo (MC) simulation will be required to constrain the statistical uncertainties of the simulated datasets below these of the experimental data. Modelling of high-energy particles propagating through the calorimeter section of the detector is the most computationally intensive MC simulation task. We introduce a technique combining recent advancements in generative models and quantum annealing for fast and efficient simulation of high-energy particle-calorimeter interactions.
+&lt;/p&gt;</description></item><item><title>该文章详细分析了在1-Higgs-singlet扩展的Standard Model中，$pp$对撞产生的$t\bar{t}$对生产过程，其中包含了额外的重Higgs粒子$h_2$与轻Higgs粒子$h_1$的混合。该过程受到与QCD连续背景产生的大幅度干涉效应影响，特别是通过链条诱导的Higgs介导的振幅与中间重Higgs共振贡献之间的大干涉。为了可靠地建模这些干涉效应对后黎曼度数的影响，文章计算了矩阵元的NLO修正，并纠正了对整个人群的影响，包括高阶的QCD修正和重Higgs的中性质量形状要求。文章还指出了有效期内的非可分两环图的模糊处理，并给出了几个基准点下的数值结果，包括重Higgs质量的700-3000GeV范围，考虑到干涉效应和QCD修正在未来的实验中可能的信号识别和解释。</title><link>https://arxiv.org/abs/2309.16759</link><description>&lt;p&gt;
+Higgs interference effects in top-quark pair production in the 1HSM
+&lt;/p&gt;
+&lt;p&gt;
+https://arxiv.org/abs/2309.16759
+&lt;/p&gt;
+&lt;p&gt;
+该文章详细分析了在1-Higgs-singlet扩展的Standard Model中，$pp$对撞产生的$t\bar{t}$对生产过程，其中包含了额外的重Higgs粒子$h_2$与轻Higgs粒子$h_1$的混合。该过程受到与QCD连续背景产生的大幅度干涉效应影响，特别是通过链条诱导的Higgs介导的振幅与中间重Higgs共振贡献之间的大干涉。为了可靠地建模这些干涉效应对后黎曼度数的影响，文章计算了矩阵元的NLO修正，并纠正了对整个人群的影响，包括高阶的QCD修正和重Higgs的中性质量形状要求。文章还指出了有效期内的非可分两环图的模糊处理，并给出了几个基准点下的数值结果，包括重Higgs质量的700-3000GeV范围，考虑到干涉效应和QCD修正在未来的实验中可能的信号识别和解释。
+&lt;/p&gt;
+&lt;p&gt;
+arXiv:2309.16759v2 Announce Type: replace-cross  Abstract: We present a next-to-leading-order (NLO) study of the process $pp \; ( \to \{ h_1, h_2 \}) \to t\bar{t} + X$ in the 1-Higgs-singlet extension of the Standard Model with an additional heavy Higgs boson $h_2$ that mixes with the light Higgs boson $h_1$. This process is subject to large interference effects between loop-induced Higgs-mediated amplitudes and the QCD continuum background which tend to overcompensate any resonance contributions. A reliable modelling of the resulting top-pair invariant mass shapes requires the inclusion of higher-order QCD corrections, which are presented here. The computation of these NLO corrections is exact in all contributions but in the class of non-factorisable two-loop diagrams which are included in an approximate way such that all infrared singular limits are preserved. We present numerical results for several benchmark points with heavy Higgs masses in the range $700$--$3000$ GeV considering 
+&lt;/p&gt;</description></item></channel></rss>
