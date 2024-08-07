@@ -7,6 +7,7 @@ import os
 import re
 import traceback
 import xml.etree.ElementTree as ET
+from xml.sax.saxutils import escape
 from copy import deepcopy
 from concurrent.futures import TimeoutError
 
@@ -135,23 +136,29 @@ def make_rss(rets, arxiv_channel='cs.AI'):
             item_link.text = x['link']
             item_desc = ET.SubElement(item, "description")
 
-            a = x['abstract'].replace('\n', ' ')
-            item_desc.text = f"""<p>
-{x['title']}
-</p>
-<p>
-{x['link']}
-</p>
-<p>
-{x['tldr']}
-</p>
-<p>
-{a}
-</p>"""
+            # Escape HTML entities in title, link, tldr, and abstract
+            escaped_title = escape(x['title'])
+            escaped_link = escape(x['link'])
+            escaped_tldr = escape(x['tldr'])
+            escaped_abstract = escape(x['abstract'].replace('\n', ' '))
 
-    # Save the XML file
+            # Format the description content
+            item_desc.text = f"""&lt;p&gt;
+{escaped_title}
+&lt;/p&gt;
+&lt;p&gt;
+{escaped_link}
+&lt;/p&gt;
+&lt;p&gt;
+{escaped_tldr}
+&lt;/p&gt;
+&lt;p&gt;
+{escaped_abstract}
+&lt;/p&gt;"""
+
+    # Save the XML file with UTF-8 encoding
     tree = ET.ElementTree(rss)
-    tree.write(f"{arxiv_channel}.xml")
+    tree.write(f"{arxiv_channel}.xml", encoding='utf-8', xml_declaration=True)
 
 
 def chat_arxiv(arxiv_channel='cs.AI'):
