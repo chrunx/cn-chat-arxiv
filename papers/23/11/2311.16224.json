@@ -1,9 +1,0 @@
-{
-    "title": "Defect groups of class $\\mathcal{S}$ theories from the Coulomb branch",
-    "abstract": "arXiv:2311.16224v2 Announce Type: replace  Abstract: We study the global forms of class $\\mathcal{S}[A_{N-1}]$ 4d $\\mathcal{N} = 2$ theories by deriving their defect groups (charges of line operators up to screening by local operators) from Coulomb branch data. Specifically, we employ an explicit construction of the BPS quiver for the case of full regular punctures to show that the defect group is $(\\mathbb{Z}_N)^{2g}$, where $g$ is the genus of the associated Riemann surface. This determines a sector of surface operators in the 5d symmetry TFT. We show how these can also be identified from dimensional reduction of M-theory.",
-    "link": "https://arxiv.org/abs/2311.16224",
-    "context": "Title: Defect groups of class $\\mathcal{S}$ theories from the Coulomb branch\nAbstract: arXiv:2311.16224v2 Announce Type: replace  Abstract: We study the global forms of class $\\mathcal{S}[A_{N-1}]$ 4d $\\mathcal{N} = 2$ theories by deriving their defect groups (charges of line operators up to screening by local operators) from Coulomb branch data. Specifically, we employ an explicit construction of the BPS quiver for the case of full regular punctures to show that the defect group is $(\\mathbb{Z}_N)^{2g}$, where $g$ is the genus of the associated Riemann surface. This determines a sector of surface operators in the 5d symmetry TFT. We show how these can also be identified from dimensional reduction of M-theory.",
-    "path": "papers/23/11/2311.16224.json",
-    "total_tokens": 367,
-    "tldr": "该文章从电荷线操作者的截止到局部操作者的屏幕数据出发，研究了4d $\\mathcal{N} = 2$ 类 $\\mathcal{S}[A_{N-1}]$ 理论的全局形式缺陷组。通过完全常规刺点的具体构造BPS纤维，表明了缺陷组是 $(\\mathbb{Z}_N)^{2g}$，其中H是对应 Riemann面数的生成数。这决定了五维对称拓扑量子场论中的表面对象的一个分区。文章还展示了这些可以从M理论的维度还原中识别出来。"
-}

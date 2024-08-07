@@ -1,9 +1,0 @@
-{
-    "title": "Three Dimensional Gravity and Schramm-Loewner Evolution",
-    "abstract": "arXiv:1912.02694v3 Announce Type: replace  Abstract: The partition function of three dimensional gravity in the quantum regime is dual to the Ising model when the central charge $c=1/2$. Mathematically, we show that the three dimensional gravity can be described by Schramm-Loewner Evolution(SLE) with certain $\\kappa$. In fact, SLE depends on the parameter $\\kappa$ which controls the diffusion of the Brownian motion. %Each value of $c < 1$ corresponds to two values of $\\kappa$ which are represented by two different phases. Each value of $c < 1$ corresponds to two values of $\\kappa$, which may hint that the three dimensional gravity has two different phases at certain central charge c. Moreover, phase transition is also discussed in AdS and Ising model.",
-    "link": "https://arxiv.org/abs/1912.02694",
-    "context": "Title: Three Dimensional Gravity and Schramm-Loewner Evolution\nAbstract: arXiv:1912.02694v3 Announce Type: replace  Abstract: The partition function of three dimensional gravity in the quantum regime is dual to the Ising model when the central charge $c=1/2$. Mathematically, we show that the three dimensional gravity can be described by Schramm-Loewner Evolution(SLE) with certain $\\kappa$. In fact, SLE depends on the parameter $\\kappa$ which controls the diffusion of the Brownian motion. %Each value of $c < 1$ corresponds to two values of $\\kappa$ which are represented by two different phases. Each value of $c < 1$ corresponds to two values of $\\kappa$, which may hint that the three dimensional gravity has two different phases at certain central charge c. Moreover, phase transition is also discussed in AdS and Ising model.",
-    "path": "papers/19/12/1912.02694.json",
-    "total_tokens": 317,
-    "tldr": "该文章揭示了三维量子引力理论与Ising模型的双关性，并证明在参数κ的特定值下，三 dimensional gravity可以由SLE描述，这为理解三维宇宙的随机性质和引力双关性提供了新视角。"
-}
