@@ -1,3 +1,5 @@
+[![Fetch arxiv daily](https://github.com/chrunx/cn-chat-arxiv/actions/workflows/cn-chat-arxiv.yml/badge.svg?event=schedule)](https://github.com/chrunx/cn-chat-arxiv/actions/workflows/cn-chat-arxiv.yml)
+
 添加 Action Secrets 和 Variables 如下：
 
 Secrets
