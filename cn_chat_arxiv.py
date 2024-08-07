@@ -143,18 +143,18 @@ def make_rss(rets, arxiv_channel='cs.AI'):
             escaped_abstract = escape(x['abstract'].replace('\n', ' '))
 
             # Format the description content
-            item_desc.text = f"""&lt;p&gt;
+            item_desc.text = f"""<p>
 {escaped_title}
-&lt;/p&gt;
-&lt;p&gt;
+</p>
+<p>
 {escaped_link}
-&lt;/p&gt;
-&lt;p&gt;
+</p>
+<p>
 {escaped_tldr}
-&lt;/p&gt;
-&lt;p&gt;
+</p>
+<p>
 {escaped_abstract}
-&lt;/p&gt;"""
+</p>"""
 
     # Save the XML file with UTF-8 encoding
     tree = ET.ElementTree(rss)
