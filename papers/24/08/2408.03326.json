@@ -1,0 +1,9 @@
+{
+    "title": "LLaVA-OneVision: Easy Visual Task Transfer",
+    "abstract": "arXiv:2408.03326v1 Announce Type: new  Abstract: We present LLaVA-OneVision, a family of open large multimodal models (LMMs) developed by consolidating our insights into data, models, and visual representations in the LLaVA-NeXT blog series. Our experimental results demonstrate that LLaVA-OneVision is the first single model that can simultaneously push the performance boundaries of open LMMs in three important computer vision scenarios: single-image, multi-image, and video scenarios. Importantly, the design of LLaVA-OneVision allows strong transfer learning across different modalities/scenarios, yielding new emerging capabilities. In particular, strong video understanding and cross-scenario capabilities are demonstrated through task transfer from images to videos.",
+    "link": "https://arxiv.org/abs/2408.03326",
+    "context": "Title: LLaVA-OneVision: Easy Visual Task Transfer\nAbstract: arXiv:2408.03326v1 Announce Type: new  Abstract: We present LLaVA-OneVision, a family of open large multimodal models (LMMs) developed by consolidating our insights into data, models, and visual representations in the LLaVA-NeXT blog series. Our experimental results demonstrate that LLaVA-OneVision is the first single model that can simultaneously push the performance boundaries of open LMMs in three important computer vision scenarios: single-image, multi-image, and video scenarios. Importantly, the design of LLaVA-OneVision allows strong transfer learning across different modalities/scenarios, yielding new emerging capabilities. In particular, strong video understanding and cross-scenario capabilities are demonstrated through task transfer from images to videos.",
+    "path": "papers/24/08/2408.03326.json",
+    "total_tokens": 319,
+    "tldr": "该文章的重要创新贡献在于提出LLaVA-OneVision，这是一种开放的大型多模态模型，可以在单图像、多图像和视频场景中同时推动性能边界，通过单一模型展现强大的跨模态和跨场景任务迁移能力，特别是将图像理解能力成功迁移到视频场景中。"
+}

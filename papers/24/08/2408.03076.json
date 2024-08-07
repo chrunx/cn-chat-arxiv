@@ -1,0 +1,9 @@
+{
+    "title": "Solving QUBO on the Loihi 2 Neuromorphic Processor",
+    "abstract": "arXiv:2408.03076v1 Announce Type: cross  Abstract: In this article, we describe an algorithm for solving Quadratic Unconstrained Binary Optimization problems on the Intel Loihi 2 neuromorphic processor. The solver is based on a hardware-aware fine-grained parallel simulated annealing algorithm developed for Intel's neuromorphic research chip Loihi 2. Preliminary results show that our approach can generate feasible solutions in as little as 1 ms and up to 37x more energy efficient compared to two baseline solvers running on a CPU. These advantages could be especially relevant for size-, weight-, and power-constrained edge computing applications.",
+    "link": "https://arxiv.org/abs/2408.03076",
+    "context": "Title: Solving QUBO on the Loihi 2 Neuromorphic Processor\nAbstract: arXiv:2408.03076v1 Announce Type: cross  Abstract: In this article, we describe an algorithm for solving Quadratic Unconstrained Binary Optimization problems on the Intel Loihi 2 neuromorphic processor. The solver is based on a hardware-aware fine-grained parallel simulated annealing algorithm developed for Intel's neuromorphic research chip Loihi 2. Preliminary results show that our approach can generate feasible solutions in as little as 1 ms and up to 37x more energy efficient compared to two baseline solvers running on a CPU. These advantages could be especially relevant for size-, weight-, and power-constrained edge computing applications.",
+    "path": "papers/24/08/2408.03076.json",
+    "total_tokens": 286,
+    "tldr": "该文章创新性地在英特尔Loihi 2型神经形态处理器上开发了一个针对二次无约束二元优化问题的算法，该算法通过硬件感知并能够快速生成解决方案，并且在能量效率上相比于传统的CPU上的算法有显著的提升。"
+}

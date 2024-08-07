@@ -1,0 +1,9 @@
+{
+    "title": "Stability-Informed Initialization of Neural Ordinary Differential Equations",
+    "abstract": "arXiv:2311.15890v3 Announce Type: replace-cross  Abstract: This paper addresses the training of Neural Ordinary Differential Equations (neural ODEs), and in particular explores the interplay between numerical integration techniques, stability regions, step size, and initialization techniques. It is shown how the choice of integration technique implicitly regularizes the learned model, and how the solver's corresponding stability region affects training and prediction performance. From this analysis, a stability-informed parameter initialization technique is introduced. The effectiveness of the initialization method is displayed across several learning benchmarks and industrial applications.",
+    "link": "https://arxiv.org/abs/2311.15890",
+    "context": "Title: Stability-Informed Initialization of Neural Ordinary Differential Equations\nAbstract: arXiv:2311.15890v3 Announce Type: replace-cross  Abstract: This paper addresses the training of Neural Ordinary Differential Equations (neural ODEs), and in particular explores the interplay between numerical integration techniques, stability regions, step size, and initialization techniques. It is shown how the choice of integration technique implicitly regularizes the learned model, and how the solver's corresponding stability region affects training and prediction performance. From this analysis, a stability-informed parameter initialization technique is introduced. The effectiveness of the initialization method is displayed across several learning benchmarks and industrial applications.",
+    "path": "papers/23/11/2311.15890.json",
+    "total_tokens": 248,
+    "tldr": "该文章提出了一个基于稳定性的初始化技术，旨在提升神经ODE模型的训练效率和预测性能，尤其是在不同学习任务和工业应用中均取得了显著的成果。"
+}

@@ -1,0 +1,9 @@
+{
+    "title": "Development of REGAI: Rubric Enabled Generative Artificial Intelligence",
+    "abstract": "arXiv:2408.02811v1 Announce Type: new  Abstract: This paper presents and evaluates a new retrieval augmented generation (RAG) and large language model (LLM)-based artificial intelligence (AI) technique: rubric enabled generative artificial intelligence (REGAI). REGAI uses rubrics, which can be created manually or automatically by the system, to enhance the performance of LLMs for evaluation purposes. REGAI improves on the performance of both classical LLMs and RAG-based LLM techniques. This paper describes REGAI, presents data regarding its performance and discusses several possible application areas for the technology.",
+    "link": "https://arxiv.org/abs/2408.02811",
+    "context": "Title: Development of REGAI: Rubric Enabled Generative Artificial Intelligence\nAbstract: arXiv:2408.02811v1 Announce Type: new  Abstract: This paper presents and evaluates a new retrieval augmented generation (RAG) and large language model (LLM)-based artificial intelligence (AI) technique: rubric enabled generative artificial intelligence (REGAI). REGAI uses rubrics, which can be created manually or automatically by the system, to enhance the performance of LLMs for evaluation purposes. REGAI improves on the performance of both classical LLMs and RAG-based LLM techniques. This paper describes REGAI, presents data regarding its performance and discusses several possible application areas for the technology.",
+    "path": "papers/24/08/2408.02811.json",
+    "total_tokens": 283,
+    "tldr": "该文章介绍了基于规则的生成式人工智能REGAI，这是一种通过使用自生成或手动预设的规则来增强大型语言模型性能的新技术。REGAI能够改善传统大型语言模型和基于检索的生成式语言模型的表现，且已经在多个领域表现出潜在的应用价值。"
+}

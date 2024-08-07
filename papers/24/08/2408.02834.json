@@ -1,0 +1,9 @@
+{
+    "title": "DaCapo: a modular deep learning framework for scalable 3D image segmentation",
+    "abstract": "arXiv:2408.02834v1 Announce Type: new  Abstract: DaCapo is a specialized deep learning library tailored to expedite the training and application of existing machine learning approaches on large, near-isotropic image data. In this correspondence, we introduce DaCapo's unique features optimized for this specific domain, highlighting its modular structure, efficient experiment management tools, and scalable deployment capabilities. We discuss its potential to improve access to large-scale, isotropic image segmentation and invite the community to explore and contribute to this open-source initiative.",
+    "link": "https://arxiv.org/abs/2408.02834",
+    "context": "Title: DaCapo: a modular deep learning framework for scalable 3D image segmentation\nAbstract: arXiv:2408.02834v1 Announce Type: new  Abstract: DaCapo is a specialized deep learning library tailored to expedite the training and application of existing machine learning approaches on large, near-isotropic image data. In this correspondence, we introduce DaCapo's unique features optimized for this specific domain, highlighting its modular structure, efficient experiment management tools, and scalable deployment capabilities. We discuss its potential to improve access to large-scale, isotropic image segmentation and invite the community to explore and contribute to this open-source initiative.",
+    "path": "papers/24/08/2408.02834.json",
+    "total_tokens": 299,
+    "tldr": "该文章介绍了一个名为DaCapo的模块化深度学习框架，该框架能够加速针对大规模近等轴对称图像数据的机器学习方法训练和应用。DaCapo框架特别优化了对于这一领域的特性，包括其模块化结构、有效的实验管理工具以及可扩展的部署能力。文章强调了DaCapo在改善对大规模等轴对称图像分割技术的访问方面的潜力，并鼓励社区对该开源项目进行探索和贡献。"
+}

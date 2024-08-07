@@ -1,0 +1,9 @@
+{
+    "title": "Learning to Turn: Diffusion Imitation for Robust Row Turning in Under-Canopy Robots",
+    "abstract": "arXiv:2408.03059v1 Announce Type: new  Abstract: Under-canopy agricultural robots require robust navigation capabilities to enable full autonomy but struggle with tight row turning between crop rows due to degraded GPS reception, visual aliasing, occlusion, and complex vehicle dynamics. We propose an imitation learning approach using diffusion policies to learn row turning behaviors from demonstrations provided by human operators or privileged controllers. Simulation experiments in a corn field environment show potential in learning this task with only visual observations and velocity states. However, challenges remain in maintaining control within rows and handling varied initial conditions, highlighting areas for future improvement.",
+    "link": "https://arxiv.org/abs/2408.03059",
+    "context": "Title: Learning to Turn: Diffusion Imitation for Robust Row Turning in Under-Canopy Robots\nAbstract: arXiv:2408.03059v1 Announce Type: new  Abstract: Under-canopy agricultural robots require robust navigation capabilities to enable full autonomy but struggle with tight row turning between crop rows due to degraded GPS reception, visual aliasing, occlusion, and complex vehicle dynamics. We propose an imitation learning approach using diffusion policies to learn row turning behaviors from demonstrations provided by human operators or privileged controllers. Simulation experiments in a corn field environment show potential in learning this task with only visual observations and velocity states. However, challenges remain in maintaining control within rows and handling varied initial conditions, highlighting areas for future improvement.",
+    "path": "papers/24/08/2408.03059.json",
+    "total_tokens": 271,
+    "tldr": "该文章提出了一个使用扩散政策进行模仿学习的策略，用于训练机器人如何在植被茂密的农业环境中进行稳健的路线转弯，解决了GPS信号弱、视觉混淆、遮挡和复杂车辆动态等问题。"
+}

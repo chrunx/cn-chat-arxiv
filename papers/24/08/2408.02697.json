@@ -1,0 +1,9 @@
+{
+    "title": "Why Rectified Power Unit Networks Fail and How to Improve It: An Effective Theory Perspective",
+    "abstract": "arXiv:2408.02697v1 Announce Type: cross  Abstract: The Rectified Power Unit (RePU) activation functions, unlike the Rectified Linear Unit (ReLU), have the advantage of being a differentiable function when constructing neural networks. However, it can be experimentally observed when deep layers are stacked, neural networks constructed with RePU encounter critical issues. These issues include the values exploding or vanishing and failure of training. And these happen regardless of the hyperparameter initialization. From the perspective of effective theory, we aim to identify the causes of this phenomenon and propose a new activation function that retains the advantages of RePU while overcoming its drawbacks.",
+    "link": "https://arxiv.org/abs/2408.02697",
+    "context": "Title: Why Rectified Power Unit Networks Fail and How to Improve It: An Effective Theory Perspective\nAbstract: arXiv:2408.02697v1 Announce Type: cross  Abstract: The Rectified Power Unit (RePU) activation functions, unlike the Rectified Linear Unit (ReLU), have the advantage of being a differentiable function when constructing neural networks. However, it can be experimentally observed when deep layers are stacked, neural networks constructed with RePU encounter critical issues. These issues include the values exploding or vanishing and failure of training. And these happen regardless of the hyperparameter initialization. From the perspective of effective theory, we aim to identify the causes of this phenomenon and propose a new activation function that retains the advantages of RePU while overcoming its drawbacks.",
+    "path": "papers/24/08/2408.02697.json",
+    "total_tokens": 278,
+    "tldr": "该文章从有效理论的角度出发，提出了基于RePU的神经网络在深层结构中存在值爆炸或消失的问题，并通过有效的理论解释和新的激活函数设计，解决了RePU在深层网络中训练失败的问题。"
+}

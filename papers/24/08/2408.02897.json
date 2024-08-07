@@ -1,0 +1,9 @@
+{
+    "title": "A Metric Driven Approach to Mixed Precision Training",
+    "abstract": "arXiv:2408.02897v1 Announce Type: cross  Abstract: As deep learning methodologies have developed, it has been generally agreed that increasing neural network size improves model quality. However, this is at the expense of memory and compute requirements, which also need to be increased. Various efficiency techniques have been proposed to rein in hardware costs, one being the use of low precision numerics. Recent accelerators have introduced several different 8-bit data types to help accommodate DNNs in terms of numerics. In this paper, we identify a metric driven methodology to aid in the choice of numerics. We demonstrate how such a methodology can help scale training of a language representation model. The technique can be generalized to other model architectures.",
+    "link": "https://arxiv.org/abs/2408.02897",
+    "context": "Title: A Metric Driven Approach to Mixed Precision Training\nAbstract: arXiv:2408.02897v1 Announce Type: cross  Abstract: As deep learning methodologies have developed, it has been generally agreed that increasing neural network size improves model quality. However, this is at the expense of memory and compute requirements, which also need to be increased. Various efficiency techniques have been proposed to rein in hardware costs, one being the use of low precision numerics. Recent accelerators have introduced several different 8-bit data types to help accommodate DNNs in terms of numerics. In this paper, we identify a metric driven methodology to aid in the choice of numerics. We demonstrate how such a methodology can help scale training of a language representation model. The technique can be generalized to other model architectures.",
+    "path": "papers/24/08/2408.02897.json",
+    "total_tokens": 284,
+    "tldr": "该文章提出了一种基于度量驱动的方法，用于指导混合精度的神经网络训练，通过选择合适的数值精度，该方法有助于在加速器上高效地训练大规模语言模型，并将该方法推广到其他模型架构中。"
+}
