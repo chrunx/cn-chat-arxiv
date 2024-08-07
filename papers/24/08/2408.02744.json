@@ -1,0 +1,9 @@
+{
+    "title": "Rationality of Lorentzian Lattice CFTs And The Associated Modular Tensor Category",
+    "abstract": "arXiv:2408.02744v1 Announce Type: new  Abstract: We discuss the rationality of Lorentzian lattice conformal field theory (LLCFT) recently constructed in arXiv:2312.16296 and obtain equivalent characterizations of rationality generalising Wendland's rational Narain CFT characterization. We then describe the construction of a modular tensor category (MTC) associated to rational LLCFTs. We explicitly construct the modular data and braiding and fusing matrices for the MTC. As a concrete example, we show that the LLCFT based on a certain even, self-dual Lorentzian lattice of signature $(m,n)$ with $m$ even realises the $D(m\\bmod 8)$ level 1 Kac-Moody MTC.",
+    "link": "https://arxiv.org/abs/2408.02744",
+    "context": "Title: Rationality of Lorentzian Lattice CFTs And The Associated Modular Tensor Category\nAbstract: arXiv:2408.02744v1 Announce Type: new  Abstract: We discuss the rationality of Lorentzian lattice conformal field theory (LLCFT) recently constructed in arXiv:2312.16296 and obtain equivalent characterizations of rationality generalising Wendland's rational Narain CFT characterization. We then describe the construction of a modular tensor category (MTC) associated to rational LLCFTs. We explicitly construct the modular data and braiding and fusing matrices for the MTC. As a concrete example, we show that the LLCFT based on a certain even, self-dual Lorentzian lattice of signature $(m,n)$ with $m$ even realises the $D(m\\bmod 8)$ level 1 Kac-Moody MTC.",
+    "path": "papers/24/08/2408.02744.json",
+    "total_tokens": 320,
+    "tldr": "该篇文章探讨了洛伦兹群晶格 conformal field theory (LLCFT) 的理性性质，并构建了与之关联的模块 tensor 范畴 (MTC)，实现了特定 Kac-Moody 模块范畴的晶格构造。"
+}

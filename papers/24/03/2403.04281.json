@@ -1,0 +1,9 @@
+{
+    "title": "Topology Change from Pointlike Sources",
+    "abstract": "arXiv:2403.04281v2 Announce Type: replace-cross  Abstract: In this paper we study topology-changing spacetimes occurring from pointlike sources. Following an old idea of Penrose, we will opt for a non-Hausdorff model of topology change in which an initial pointlike source is ``doubled\" and allowed to propagate along null rays into an eventual cobordism. By appealing to recent developments in non-Hausdorff differential geometry, we will describe and evaluate gravitational actions on these topology-changing spacetimes. Motivated by analogous results for the Trousers space, we describe a sign convention for Lorentzian angles that will ensure the dampening of our non-Hausdorff topology-changing spacetimes within a two-dimensional path integral for gravity.",
+    "link": "https://arxiv.org/abs/2403.04281",
+    "context": "Title: Topology Change from Pointlike Sources\nAbstract: arXiv:2403.04281v2 Announce Type: replace-cross  Abstract: In this paper we study topology-changing spacetimes occurring from pointlike sources. Following an old idea of Penrose, we will opt for a non-Hausdorff model of topology change in which an initial pointlike source is ``doubled\" and allowed to propagate along null rays into an eventual cobordism. By appealing to recent developments in non-Hausdorff differential geometry, we will describe and evaluate gravitational actions on these topology-changing spacetimes. Motivated by analogous results for the Trousers space, we describe a sign convention for Lorentzian angles that will ensure the dampening of our non-Hausdorff topology-changing spacetimes within a two-dimensional path integral for gravity.",
+    "path": "papers/24/03/2403.04281.json",
+    "total_tokens": 337,
+    "tldr": "该文章研究了从点源产生的新型拓扑变化的时空结构，并采用了一种非海瑟夫模型来描述拓扑变化，该方法使得初始的点源能在不变性条件下沿虚无光线传播，最终形成一个可以进行同调的研究区域。论文还探讨了在这种拓扑变化时空中的引力作用，并提出了一种新的时空拓扑变化的描述方法，以及对它们在量子引力路径积分中的影响。"
+}

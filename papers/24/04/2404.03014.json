@@ -1,0 +1,9 @@
+{
+    "title": "On the Charge Algebra of Causal Diamonds in Three Dimensional Gravity",
+    "abstract": "arXiv:2404.03014v2 Announce Type: replace  Abstract: Covariant phase space methods are applied to the analysis of a causal diamond in 2+1-dimensional pure Einstein gravity. It is found that the reduced phase space is parametrized by a family of charges with a dual geometrical interpretation: they are geometric observables on the corner of the diamond, and they generate diffeomorphisms. The Poisson brackets among them close into an algebra. Knowledge of the corner charges therefore permits reconstruction of the diamond geometry, which realizes a form of local holography. The results are contrasted with the literature, and the path to a quantum description of spacetime geometry is discussed.",
+    "link": "https://arxiv.org/abs/2404.03014",
+    "context": "Title: On the Charge Algebra of Causal Diamonds in Three Dimensional Gravity\nAbstract: arXiv:2404.03014v2 Announce Type: replace  Abstract: Covariant phase space methods are applied to the analysis of a causal diamond in 2+1-dimensional pure Einstein gravity. It is found that the reduced phase space is parametrized by a family of charges with a dual geometrical interpretation: they are geometric observables on the corner of the diamond, and they generate diffeomorphisms. The Poisson brackets among them close into an algebra. Knowledge of the corner charges therefore permits reconstruction of the diamond geometry, which realizes a form of local holography. The results are contrasted with the literature, and the path to a quantum description of spacetime geometry is discussed.",
+    "path": "papers/24/04/2404.03014.json",
+    "total_tokens": 347,
+    "tldr": "该文章创新性地应用了协变相空间方法，分析了2+1维纯爱因斯坦引力中的因果钻石的简化相空间。研究发现，简化相空间由一组具有双重几何解释的电量参数化。这些电量代表钻石角的局部几何观测，并产生 Diffeomorphism 群。电量之间的泊松括约闭合成一个量子群。因此，这些钻石角的电量可以重建钻石几何，实现一种形式的局部霍金假说。文章将这些结果与现有的文献进行了对比，并讨论了时空几何的量子描述所面临的挑战。"
+}

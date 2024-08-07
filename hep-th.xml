@@ -1,0 +1,409 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0"><channel><title>Chat Arxiv hep-th</title><link>https://raw.githubusercontent.com/chrunx/cn-chat-arxiv/master/hep-th.xml</link><description>This is arxiv RSS feed for hep-th</description><item><title>该文章通过详细研究早期宇宙各阶段的Krylov复杂性，尤其是单场 inflation期间的 thermal state，揭示了宇宙演化过程中的信息处理能力。利用闭合系统和开放系统的方法，作者发现inflation阶段Krylov复杂性随时间增加，而在辐射主导和物质主导时期达到稳定值，这主要是因为粒子产生现象导致的变化。研究还表明，inflation阶段表现出较强的 dissipative systems特征，而辐射和物质主导时期则呈现为较弱的 dissipative systems特征。</title><link>https://arxiv.org/abs/2408.03293</link><description>&amp;lt;p&amp;gt;
+Krylov complexity of thermal state in early universe
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2408.03293
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章通过详细研究早期宇宙各阶段的Krylov复杂性，尤其是单场 inflation期间的 thermal state，揭示了宇宙演化过程中的信息处理能力。利用闭合系统和开放系统的方法，作者发现inflation阶段Krylov复杂性随时间增加，而在辐射主导和物质主导时期达到稳定值，这主要是因为粒子产生现象导致的变化。研究还表明，inflation阶段表现出较强的 dissipative systems特征，而辐射和物质主导时期则呈现为较弱的 dissipative systems特征。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2408.03293v1 Announce Type: new  Abstract: In our work, we perform a detailed study of the Krylov complexity of the thermal state across the entire early universe, encompassing the inflation, radiation-dominated period, and matter-dominated period, which is for the single field inflation. We utilize both the closed system's method and open system's method to achieve this goal. To accurately calculate the Krylov complexity, we purified the thermal state, resulting in a pure state with two modes. Our analysis with both methods indicates that the Krylov complexity will increase during inflation, but will saturate at constant values during the radiation-dominated and matter-dominated periods, where the generation of particles via preheating leads to this evolution. Furthermore, our findings reveal that inflation behaves as a strong dissipative system, while the radiation-dominated and matter-dominated periods act as weak dissipative systems. The chaotic feature during these periods f
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章运用规范理论中的时间重新标度自由度，为任意数量分子的弗里德曼-勒梅特-罗伯逊-华莱士(FLRW)宇宙背景提供了一种新的分析解，并且揭示了标量和缠结谐波进动的Schr\"odinger方程形式，这对于理解宇宙微波背景辐射的偏振特性具有重要意义。</title><link>https://arxiv.org/abs/2408.03243</link><description>&amp;lt;p&amp;gt;
+Gauge theory meets cosmology
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2408.03243
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章运用规范理论中的时间重新标度自由度，为任意数量分子的弗里德曼-勒梅特-罗伯逊-华莱士(FLRW)宇宙背景提供了一种新的分析解，并且揭示了标量和缠结谐波进动的Schr\"odinger方程形式，这对于理解宇宙微波背景辐射的偏振特性具有重要意义。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2408.03243v1 Announce Type: new  Abstract: We reconsider linear perturbations around general Friedmann - Lemaitre - Robertson - Walker (FLRW) cosmological backgrounds. Exploiting gauge freedom involving only time reparametrizations, we write down classical background solutions analytically, for an arbitrary number of fluid components. We then show that the time evolution of scalar and tensor adiabatic perturbations are governed by Schr\"odinger-like differential equations of generalized Heun type. After recovering known analytic results for a single-component fluid, we discuss more general situations with two and three different fluid components, with special attention to the combination of radiation, matter and vacuum energy, which is supposed to describe the $\Lambda$CDM model. The evolution of linear perturbations of a flat $\Lambda$CDM universe is described by a two-transient model, where the transitions from radiation to matter and matter to vacuum energy are governed by a H
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章分析了从 $D=6, \, N=(1,0)$ 超引力耦合到一个单代数张量多重态的 $S^3$ 缩低过程得到的 $D=3, \, N=4$ 规范超引力的一般 Killing 旋量。文章研究了具有不规律 Killing 向量的解决方案，并发现了三种类型的新解决方案。其中两种——即具有非零规范场的 null 拉伸 AdS$_3$（也称为 Schr\"odinger 时空）和电荷域壁解决方案——可以上调到六维以生成具有 $S^3$ 纤维方向旋转的有趣 AdS$_3 \times$ S$^3$ 背景，同时保持原始解决方案的 Schr\"odinger 尺度不变性，并且产生了已知的带有旋转的 dyonic 字符串解决方案。第三种解决方案是一个没有规范场域壁解决方案，上调之后产生了一个分散的 dyonic 字符串解决方案。</title><link>https://arxiv.org/abs/2408.03197</link><description>&amp;lt;p&amp;gt;
+Rotating AdS$_3 \times$S$^3$ and Dyonic Strings from 3-Dimensions
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2408.03197
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章分析了从 $D=6, \, N=(1,0)$ 超引力耦合到一个单代数张量多重态的 $S^3$ 缩低过程得到的 $D=3, \, N=4$ 规范超引力的一般 Killing 旋量。文章研究了具有不规律 Killing 向量的解决方案，并发现了三种类型的新解决方案。其中两种——即具有非零规范场的 null 拉伸 AdS$_3$（也称为 Schr\"odinger 时空）和电荷域壁解决方案——可以上调到六维以生成具有 $S^3$ 纤维方向旋转的有趣 AdS$_3 \times$ S$^3$ 背景，同时保持原始解决方案的 Schr\"odinger 尺度不变性，并且产生了已知的带有旋转的 dyonic 字符串解决方案。第三种解决方案是一个没有规范场域壁解决方案，上调之后产生了一个分散的 dyonic 字符串解决方案。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2408.03197v1 Announce Type: new  Abstract: We make a general Killing spinor analysis of a particular $D=3, \, N=4$ gauged supergravity that comes from a consistent S$^3$ reduction of $D=6, \, N=(1,0)$ supergravity coupled to a single chiral tensor multiplet. We then focus on its supersymmetric solutions with a null Killing vector and find three new ones. Two of these, namely the null warped AdS$_3$ (also known as the Schr\"odinger spacetime) and the charged domain wall solutions, admit non-trivial gauge fields which give rise to rotating solutions in 6-dimensions. The uplift of the first one produces an interesting AdS$_3 \times$S$^3$ background with a non-trivial rotation in the $U(1)$ fiber direction of the S$^3$ which retains the Schr\"odinger scale invariance that the seed solution has. The second one leads to the well-known rotating dyonic string solution. Finally, the uplift of the third one, which is a domain wall solution with no gauge fields, results in a distribution of
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章通过直接的组合证明，推广了Kontsevich的非同伦性定理，并给出了费曼图标识的一个直接解，从而实现了非同伦性定理在广义形式上的证明。</title><link>https://arxiv.org/abs/2408.03192</link><description>&amp;lt;p&amp;gt;
+Combinatorial proof of a Non-Renormalization Theorem
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2408.03192
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章通过直接的组合证明，推广了Kontsevich的非同伦性定理，并给出了费曼图标识的一个直接解，从而实现了非同伦性定理在广义形式上的证明。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2408.03192v1 Announce Type: cross  Abstract: We provide a direct combinatorial proof of a Feynman graph identity which implies a wide generalization of a formality theorem by Kontsevich. For a Feynman graph $\Gamma$, we associate to each vertex a position $x_v \in \mathbb R$ and to each edge $e$ the combination $s_e = a_e^{-\frac 12} \left( x^+_e - x^-_e \right)$, where $x^\pm_e$ are the positions of the two end vertices of $e$ and $a_e$ a Schwinger parameter. The $``$topological propagator$"$ $P_e = e^{-s_e^2}$d$s_e$ includes a part proportional to d$x_v$ and a part proportional to d$a_e$. Integrating the product of all $P_e$ over positions produces a differential form $\alpha_\Gamma$ in the variables $a_e$. We prove that $\alpha_\Gamma \wedge \alpha_\Gamma=0$.
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章研究了霍金辐射背景下霍金信息的概念，并提出了一种新的热化机制，该机制能够解释为何在霍金辐射过程中信息得以保存，并且与现行量子引力理论相协调。该研究对理解量子信息在时空结构中的作用具有重要意义，有可能为解决信息悖论提供新的视角。</title><link>https://arxiv.org/abs/2408.03061</link><description>&amp;lt;p&amp;gt;
+Flat-Space Limit of Holographic Pseudo Entropy in (A)dS Spacetimes
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2408.03061
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章研究了霍金辐射背景下霍金信息的概念，并提出了一种新的热化机制，该机制能够解释为何在霍金辐射过程中信息得以保存，并且与现行量子引力理论相协调。该研究对理解量子信息在时空结构中的作用具有重要意义，有可能为解决信息悖论提供新的视角。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2408.03061v1 Announce Type: new  Abstract: The real part of pseudo entropy in conformal field theories is holographically calculated by the area of some extremal spacelike surfaces in the dual dS and AdS spacetimes. We show that the flat-space limit of these curves in three dimensional (A)dS spacetimes is well-defined. We find that if the length of the curves is calculated from the radial coordinate where the retarded time is extremum, then after taking the flat-space limit, the entanglement entropy of the dual theory of three-dimensional flat spacetime is obtained. For dS spacetime, the radial coordinate corresponding to the extremum of retarded time is located inside the cosmological horizon. Our results suggest that on the field theory side, the entanglement entropy in the dual theory of flat spacetimes should be obtained from the ultra-relativistic limit of pseudo entropy in the dual CFT to (A)ds spacetimes.
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章发现，在一定的B场条件下，超级弦理论在旋转BTZ黑洞背景下的研究与单迹$T\bar T$全息论保持一致性，这表明了特定条件下弦理论与全息对偶之间的兼容性。</title><link>https://arxiv.org/abs/2408.03022</link><description>&amp;lt;p&amp;gt;
+To $B$ or not to be in single-trace $T\bar T$ holography
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2408.03022
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章发现，在一定的B场条件下，超级弦理论在旋转BTZ黑洞背景下的研究与单迹$T\bar T$全息论保持一致性，这表明了特定条件下弦理论与全息对偶之间的兼容性。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2408.03022v1 Announce Type: new  Abstract: Superstring theory on black-strings backgrounds, corresponding to deformed, rotating BTZ black holes, formed by $p$ fundamental strings or negative strings, is inspected. For non-rotating black strings, in the positive case, it was shown in [1] that the excitation energy of a probe long string, plus its contribution to the black-string background, is in harmony with single-trace $T\bar T$ holography, if the $B$-field vanishes at the origin. Here, we investigate the superstring on deformed, rotating BTZ black holes, for both the positive and negative cases, and find that for a particular value of the $B$-field, the harmony with single-trace $T\bar T$ holography persists.
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章计算了在QCD中，当费曼图中费曼节点无限接近时，理论分数量在最接近费曼节点的情况下，计算了三道循环圈和部分子结构的结果。这项工作为提供一个完整的，与具体过程无关的图节板和过程图数量的解释，为理解高能粒子的相互作用的复杂性提供了更深层次的理解。通过打破严格路径因子的局限性，该研究为理解高能粒子的相互作用复杂性提供了一种新工具，这将有助于未来我们对高能粒子相互作用的深入了解和计算。</title><link>https://arxiv.org/abs/2408.03019</link><description>&amp;lt;p&amp;gt;
+Splitting amplitudes at N$^3$LO in QCD
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2408.03019
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章计算了在QCD中，当费曼图中费曼节点无限接近时，理论分数量在最接近费曼节点的情况下，计算了三道循环圈和部分子结构的结果。这项工作为提供一个完整的，与具体过程无关的图节板和过程图数量的解释，为理解高能粒子的相互作用的复杂性提供了更深层次的理解。通过打破严格路径因子的局限性，该研究为理解高能粒子的相互作用复杂性提供了一种新工具，这将有助于未来我们对高能粒子相互作用的深入了解和计算。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2408.03019v1 Announce Type: cross  Abstract: In the limit where partons become collinear to each other, scattering amplitudes factorize into a product of universal, process-independent building blocks and scattering amplitudes involving fewer partons. We compute these universal building blocks -- known as splitting amplitudes -- for two collinear QCD partons up to third loop order in QCD. Our results describe arbitrary time-like splitting processes. Due to the violation of strict collinear factorization in space-like splitting processes, we specifically present space-like splitting amplitudes for three-parton QCD scattering amplitudes at third loop order. To achieve our results, we perform a collinear expansion of three-loop scattering amplitudes using a new expansion-by-subgraph technology, which is based on the method of regions.
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章创新性地探讨了JNW时空中的裸 singularity 形成可能性，并研究了通过引入不同的物质内容构建的质膜在描述引力坍缩过程中对裸 singularity 形成的限制，从而确定了在满足因果律和非零能量条件的情况下，即使原始JNW时空包含裸 singularity，引力坍塌过程中也不发生裸 singularity。</title><link>https://arxiv.org/abs/2408.03016</link><description>&amp;lt;p&amp;gt;
+Can a naked singularity be formed during the gravitational collapse of a Janis-Newman-Winicour solution?
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2408.03016
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章创新性地探讨了JNW时空中的裸 singularity 形成可能性，并研究了通过引入不同的物质内容构建的质膜在描述引力坍缩过程中对裸 singularity 形成的限制，从而确定了在满足因果律和非零能量条件的情况下，即使原始JNW时空包含裸 singularity，引力坍塌过程中也不发生裸 singularity。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2408.03016v1 Announce Type: cross  Abstract: The Janis-Newman-Winicour (JNW) spacetime possesses a naked singularity, although it represents an exact particle-like solution to the Einstein-Klein-Gordon theory with a massless scalar field. Here, we investigate the possible formation of a naked singularity in the JNW spacetime, using the thin-shell approximation to describe the gravitational collapse. By introducing different matter contents to construct thin-shells, we demonstrate the impossibility of naked singularity formation during the gravitational collapse unless the causality or null energy condition of the thin-shell is violated. Therefore, the weak cosmic censorship is satisfied even with the naked singularity of the JNW spacetime.
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章聚焦于双模数K3纤维化Calabi-Yau三曼的代数几何和模性质，并通过引入一种新的分类方法，揭示了39对包含有双模特性的Calabi-Yau镜像对，为深入理解该类空间的代数几何性质和模结构提供了新的路径。</title><link>https://arxiv.org/abs/2408.02994</link><description>&amp;lt;p&amp;gt;
+Enumerative geometry and modularity in two-modulus K3-fibered Calabi-Yau threefolds
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2408.02994
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章聚焦于双模数K3纤维化Calabi-Yau三曼的代数几何和模性质，并通过引入一种新的分类方法，揭示了39对包含有双模特性的Calabi-Yau镜像对，为深入理解该类空间的代数几何性质和模结构提供了新的路径。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2408.02994v1 Announce Type: new  Abstract: Motivated in part by the modular properties of enumerative invariants of K3-fibered Calabi-Yau threefolds, we introduce a family of 39 Calabi-Yau mirror pairs $(X,Y)$ with $h_{1,1}(X)=h_{2,1}(Y)=2$, labelled by certain integer quadruples $(m,i,j,s)$ with $m\leq 11$. On the A-model side, $X$ arises as a complete intersection in a projective bundle over a Fano fourfold $V_m^{[i,j]}$, and admits a Tyurin degeneration into a pair of degree $m$ Fano threefolds $F_m^{[i]}\cup F_m^{[j]}$ intersecting on an anticanonical K3 divisor of degree $2m$. On the B-model side, $Y$ is fibered by $M_{m}$-polarized K3-surfaces of Picard rank 19, and determined by a branched covering of $\mathbb{P}^1$, consistent with the Doran-Harder-Thompson mirror conjecture. When $s=0$, $Y$ itself acquires a Tyurin degeneration, and correspondingly $X$ acquires a fibration by degree $2m$ K3 surfaces, such that the two K\"ahler moduli control the size of the K3-fiber and 
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章系统探索了四维$\mathcal{N}=1$超级对称场理论（SCFTs）的相图，这些理论是通过将相关变形和自由 chiral multiplets 的耦合引入到具有少量物质多极的 supersymmetric gauge 理论中来稳定化的。文章中，作者识别出了 7,346 个等价的固定点 SCFT，这些固定点是通过非平凡的稳定性检验得到的。这些固定点展现出了有趣的几率特征，包括动量常数（a）与 central charges（c）呈窄分布、与重子数相关以及轻子动力学与 $a/c$ 比值的相关性。这些固定点的 $a/c$ 比例在0.7228和1.2100之间，这表明文章中的 SCFTs 比之前已知的非共线性 SCFTs 具有更大的相互作用强度。</title><link>https://arxiv.org/abs/2408.02953</link><description>&amp;lt;p&amp;gt;
+Large Landscape of 4d Superconformal Field Theories from Small Gauge Theories
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2408.02953
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章系统探索了四维$\mathcal{N}=1$超级对称场理论（SCFTs）的相图，这些理论是通过将相关变形和自由 chiral multiplets 的耦合引入到具有少量物质多极的 supersymmetric gauge 理论中来稳定化的。文章中，作者识别出了 7,346 个等价的固定点 SCFT，这些固定点是通过非平凡的稳定性检验得到的。这些固定点展现出了有趣的几率特征，包括动量常数（a）与 central charges（c）呈窄分布、与重子数相关以及轻子动力学与 $a/c$ 比值的相关性。这些固定点的 $a/c$ 比例在0.7228和1.2100之间，这表明文章中的 SCFTs 比之前已知的非共线性 SCFTs 具有更大的相互作用强度。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2408.02953v1 Announce Type: new  Abstract: We systematically explore the space of renormalization group flows of four-dimensional $\mathcal{N}=1$ superconformal field theories (SCFTs) triggered by relevant deformations, as well as by coupling to free chiral multiplets with relevant operators. In this way, we classify all possible fixed point SCFTs that can be obtained from certain rank 1 and 2 supersymmetric gauge theories with small amount of matter multiplets, identifying 7,346 inequivalent fixed points which pass a series of non-trivial consistency checks. This set of fixed points exhibits interesting statistical behaviors, including a narrow distribution of central charges $(a, c)$, a correlation between the number of relevant operators and the ratio $a/c$, and trends in the lightest operator dimension versus $a/c$. The ratio $a/c$ of this set is distributed between $0.7228$ and $1.2100$, where the upper bound is larger than that of previously known interacting SCFTs. Moreove
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章详细介绍了用于制定基于2连结的gauge理论的范畴论工具，并提供了范畴化BF理论（称为BFCG，也被称为2BF）的详尽构造。文章还展示了如何通过使用BFCG连接构造的体积形式将广义相对论与BFCG耦合起来，从而获得了一种与不变引力相关的不同关系。这种理论是BF隔离引力的一个范畴化推广，它不仅在新字段方面有所扩展，而且在体积形式的选择上也提供了一些新的可能性。此外，文章还展示了在abelian情形下，对于特定2群的选取，可以恢复BFCG的abelian版本。</title><link>https://arxiv.org/abs/2408.02889</link><description>&amp;lt;p&amp;gt;
+Categorical generalization of BF theory coupled to gravity
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2408.02889
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章详细介绍了用于制定基于2连结的gauge理论的范畴论工具，并提供了范畴化BF理论（称为BFCG，也被称为2BF）的详尽构造。文章还展示了如何通过使用BFCG连接构造的体积形式将广义相对论与BFCG耦合起来，从而获得了一种与不变引力相关的不同关系。这种理论是BF隔离引力的一个范畴化推广，它不仅在新字段方面有所扩展，而且在体积形式的选择上也提供了一些新的可能性。此外，文章还展示了在abelian情形下，对于特定2群的选取，可以恢复BFCG的abelian版本。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2408.02889v1 Announce Type: new  Abstract: We present a thorough introduction to the tools of category theory required for formulating gauge theories based on 2-connections. We provide a detailed construction of the categorical generalization of BF theory, dubbed BFCG, also known as 2BF. Similar to BF gravity, it is known that BFCG can be deformed to give general relativity. Here, we obtain an alternative relation between BFCG and gravity, which consists of coupling general relativity and BFCG by means of the volume form constructed out of the BFCG connections. The resulting theory, closely related to unimodular gravity, is a generalization of BF sequestered gravity not only in the sense that it adds new fields but also in that it allows for new choices for the volume form that is coupled to gravity. Furthermore, we show that BF sequestered gravity in the abelian case is recovered for a specific choice of the 2-group.
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章提出了一个对于“受限惠维尔对称性”的重新评估，指出一类在全局上保持标度不变性的标量-张量理论可以在一组更大的变换下保持不变，这些变换包含了局部的惠特尔变换以及对度规因子满足协变黎曼-哥本哈根方程这个限制。然而，文章发现这些理论的方程组并不在这些变换下保持不变，这一现象是因为我们发现限制条件对于度规因子使得受限惠特尔变换实际上是一个非局部变换。文章解释了对于非局部变换，从行动中消除边界项是不足以提供正确的物理结果的。此外，当从行动中导出方程组时，边界轨迹的变分并不总是零。</title><link>https://arxiv.org/abs/2408.02763</link><description>&amp;lt;p&amp;gt;
+A critical reassessment of "Restricted Weyl Symmetry"
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2408.02763
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章提出了一个对于“受限惠维尔对称性”的重新评估，指出一类在全局上保持标度不变性的标量-张量理论可以在一组更大的变换下保持不变，这些变换包含了局部的惠特尔变换以及对度规因子满足协变黎曼-哥本哈根方程这个限制。然而，文章发现这些理论的方程组并不在这些变换下保持不变，这一现象是因为我们发现限制条件对于度规因子使得受限惠特尔变换实际上是一个非局部变换。文章解释了对于非局部变换，从行动中消除边界项是不足以提供正确的物理结果的。此外，当从行动中导出方程组时，边界轨迹的变分并不总是零。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2408.02763v1 Announce Type: new  Abstract: A class of globally scale-invariant scalar-tensor theories have been proposed to be invariant under a larger class of transformations that take the form of local Weyl transformations supplemented by a restriction that the conformal factor satisfies a covariant Klein-Gordon equation. The action of these theories indeed seems to be invariant under such transformations up to boundary terms, this property being referred to as "restricted Weyl symmetry". However, we find that corresponding equations of motion are not invariant under these transformations. This is a paradox, that is explained by realizing that the restriction condition on the conformal factor forces the "restricted Weyl transformation" to be a nonlocal transformation. For nonlocal transformations would-be boundary terms cannot in general be discarded from the action. Moreover, variations of trajectories cannot be assumed to vanish at boundaries of the action when deriving equa
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章阐述了超对称指数在霍金奇点理论中的巨引力子展开，提供了对球形D3膜在内部空间中运动世界体积动力学的有效捕捉，并对巨引力子指数进行了严格定义，解决了选择积分轨迹或“峰选择”的潜在模糊性问题，并利用Murthy关于超对称指数的新展开提供了一个精确的数学框架来评估超级引力巨引力子指数，直接将Murthy的巨引力子展开与超级引力的D3膜展开结合。</title><link>https://arxiv.org/abs/2408.02759</link><description>&amp;lt;p&amp;gt;
+Analytic continuation and the giant graviton expansion
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2408.02759
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章阐述了超对称指数在霍金奇点理论中的巨引力子展开，提供了对球形D3膜在内部空间中运动世界体积动力学的有效捕捉，并对巨引力子指数进行了严格定义，解决了选择积分轨迹或“峰选择”的潜在模糊性问题，并利用Murthy关于超对称指数的新展开提供了一个精确的数学框架来评估超级引力巨引力子指数，直接将Murthy的巨引力子展开与超级引力的D3膜展开结合。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2408.02759v1 Announce Type: new  Abstract: There is now strong evidence that the superconformal index of holographic gauge theories admits a giant graviton expansion capturing the worldvolume dynamics of spherical D3-branes moving in internal space. While the giant graviton indices may be written as suitable contour integrals, care must be taken in their evaluation, as there can be an ambiguity in choice of integration contour or, equivalently, "pole selection". We resolve this ambiguity by using Murthy's recent expansion of the superconformal index to provide a rigorous underpinning of the evaluation of the supergravity giant graviton indices. In doing so, we directly relate Murthy's giant graviton expansion to the supergravity D3-brane expansion.
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章提出了一种新的方法来高效计算量子场论中温态一次函数的部分波分解，该方法利用卡西米尔微分方程，并深入研究了任意自旋的外部场和任何自旋交换的特性的计算，特别是在三维情態下。通过识别卡西米尔方程解与旋转群傅里叶级数中的一类特殊旋转函数，文章能够分析自由标量场的一次函数的分解和解出的平均OPE系数，为交换场的权重和自旋提供了丰富的信息。同时，文章还探讨了部分波函数的远渐行为和基于该远渐行为的一体化效应分析。</title><link>https://arxiv.org/abs/2408.02747</link><description>&amp;lt;p&amp;gt;
+Thermal One-point Functions and Their Partial Wave Decomposition
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2408.02747
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章提出了一种新的方法来高效计算量子场论中温态一次函数的部分波分解，该方法利用卡西米尔微分方程，并深入研究了任意自旋的外部场和任何自旋交换的特性的计算，特别是在三维情態下。通过识别卡西米尔方程解与旋转群傅里叶级数中的一类特殊旋转函数，文章能够分析自由标量场的一次函数的分解和解出的平均OPE系数，为交换场的权重和自旋提供了丰富的信息。同时，文章还探讨了部分波函数的远渐行为和基于该远渐行为的一体化效应分析。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2408.02747v1 Announce Type: new  Abstract: In this work we address partial wave decompositions of thermal one-point functions in conformal field theories on $S^1 \times S^{d-1}$. With the help of Casimir differential equations we develop efficient algorithms to compute the relevant conformal blocks for an external field of arbitrary spin and with any spin exchange along the thermal circle, at least in three dimensions. This is achieved by identifying solutions to the Casimir equations with a special class of spherical functions in the harmonic analysis of the conformal group. The resulting blocks are then applied to study the decomposition of one-point functions of the scalar $\phi^2$ and the stress tensor $T$ for a three-dimensional free scalar field $\phi$. We are able to read off averaged OPE coefficients into exchanged fields of high weight and spin for a complete set of tensor structures. We also extract an asymptotic behaviour of conformal blocks and use it to analyse the d
+&amp;lt;/p&amp;gt;</description></item><item><title>该篇文章探讨了洛伦兹群晶格 conformal field theory (LLCFT) 的理性性质，并构建了与之关联的模块 tensor 范畴 (MTC)，实现了特定 Kac-Moody 模块范畴的晶格构造。</title><link>https://arxiv.org/abs/2408.02744</link><description>&amp;lt;p&amp;gt;
+Rationality of Lorentzian Lattice CFTs And The Associated Modular Tensor Category
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2408.02744
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该篇文章探讨了洛伦兹群晶格 conformal field theory (LLCFT) 的理性性质，并构建了与之关联的模块 tensor 范畴 (MTC)，实现了特定 Kac-Moody 模块范畴的晶格构造。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2408.02744v1 Announce Type: new  Abstract: We discuss the rationality of Lorentzian lattice conformal field theory (LLCFT) recently constructed in arXiv:2312.16296 and obtain equivalent characterizations of rationality generalising Wendland's rational Narain CFT characterization. We then describe the construction of a modular tensor category (MTC) associated to rational LLCFTs. We explicitly construct the modular data and braiding and fusing matrices for the MTC. As a concrete example, we show that the LLCFT based on a certain even, self-dual Lorentzian lattice of signature $(m,n)$ with $m$ even realises the $D(m\bmod 8)$ level 1 Kac-Moody MTC.
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章通过在一般相对论框架内对电磁波在均匀引力场中传播的修正项进行计算，揭示了在特定条件下光线偏振矢量与光束路径的偏离，为理解光学特性的变化提供了理论依据。</title><link>https://arxiv.org/abs/2408.02729</link><description>&amp;lt;p&amp;gt;
+Gravity-induced birefringence in spherically symmetric spacetimes
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2408.02729
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章通过在一般相对论框架内对电磁波在均匀引力场中传播的修正项进行计算，揭示了在特定条件下光线偏振矢量与光束路径的偏离，为理解光学特性的变化提供了理论依据。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2408.02729v1 Announce Type: cross  Abstract: Geometric optics effectively describes the propagation of electromagnetic waves when the wavelength is much smaller than the characteristic length scale of the medium, making wave phenomena like diffraction negligible. As a result, light propagation in a vacuum is typically modeled by rays that follow null geodesics. However, general relativity predicts that polarization-dependent deviations from these geodesics occur in an inhomogeneous gravitational field. In this article, we evaluate the corrections for the deflection and emission of light by a massive gravitating body. Additionally, we derive the scaling behavior of the physical parameters characterizing the trajectories. The calculations are performed in the leading order in frequency. We use these results to assess the significance of the birefringence effect in various astrophysical observations. We find that the effect cannot be measured with current instruments but may be dete
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章提出了一种新的方法来简化在德西特空间中计算旋转粒子关联函数的复杂性，通过使用扭抑空间作为分析工具，使得关联函数的所有动力学约束得以显现，并且能够以一种简单的形式从顶点积分中推导出来。这种简化不仅使得关联函数的计算变得更加容易，而且有助于更直观地理解其在包含旋转粒子的宇宙中的行为。</title><link>https://arxiv.org/abs/2408.02727</link><description>&amp;lt;p&amp;gt;
+A New Twist on Spinning (A)dS Correlators
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2408.02727
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章提出了一种新的方法来简化在德西特空间中计算旋转粒子关联函数的复杂性，通过使用扭抑空间作为分析工具，使得关联函数的所有动力学约束得以显现，并且能够以一种简单的形式从顶点积分中推导出来。这种简化不仅使得关联函数的计算变得更加容易，而且有助于更直观地理解其在包含旋转粒子的宇宙中的行为。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2408.02727v1 Announce Type: new  Abstract: Massless spinning correlators in cosmology are extremely complicated. In contrast, the scattering amplitudes of massless particles with spin are very simple. We propose that the reason for the unreasonable complexity of these correlators lies in the use of inconvenient kinematic variables. For example, in de Sitter space, consistency with unitarity and the background isometries imply that the correlators must be conformally covariant and also conserved. However, the commonly used kinematic variables for correlators do not make all of these properties manifest. In this paper, we introduce twistor space as a powerful way to satisfy all kinematic constraints. We show that conformal correlators of conserved currents can be written as twistor integrals, where the conservation condition translates into holomorphicity of the integrand. The functional form of the twistor-space correlators is very simple and easily bootstrapped. For the case of t
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章提出了一个基于对称性的方法，用于构建包含非阿贝尔任何链条和模部张量范畴的拓扑相，实现了在2+1维系统的非阿贝尔任何气的精确对称性。通过使用张量网络进行数值模拟，揭示了在具有伊辛和费博纳奇任何体的拓扑相中存在手性边缘态。这种方法为研究强耦合2+1维系统提供了新的理论途径，并对非阿贝尔任何系统的边缘手性态进行了展示。</title><link>https://arxiv.org/abs/2408.02724</link><description>&amp;lt;p&amp;gt;
+Chiral Edge States Emerging on Anyon-Net
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2408.02724
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章提出了一个基于对称性的方法，用于构建包含非阿贝尔任何链条和模部张量范畴的拓扑相，实现了在2+1维系统的非阿贝尔任何气的精确对称性。通过使用张量网络进行数值模拟，揭示了在具有伊辛和费博纳奇任何体的拓扑相中存在手性边缘态。这种方法为研究强耦合2+1维系统提供了新的理论途径，并对非阿贝尔任何系统的边缘手性态进行了展示。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2408.02724v1 Announce Type: cross  Abstract: We propose a symmetry-based approach to constructing lattice models for chiral topological phases, focusing on non-Abelian anyons. Using a 2+1D version of anyon chains and modular tensor categories(MTCs), we ensure exact MTC symmetry at the microscopic level. Numerical simulations using tensor networks demonstrate chiral edge modes for topological phases with Ising and Fibonacci anyons. Our method contrasts with conventional solvability approaches, providing a new theoretical avenue to explore strongly coupled 2+1D systems, revealing chiral edge states in non-Abelian anyonic systems.
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章提出，某些 holographical CFT 状态可能有多重半经典 Bulk 对等体。在给定的例子中，一个特定的 holographical 状态既可以解释为一个闭合宇宙，通过 gravitational 路径积分构建，也可以解释为没有闭合宇宙，通过 extrapolate 字典构建。这揭示了 AdS/CFT 字典中的一个歧义。文章提出了多种解决这一紧张局势的方案，尽管没有方案是完全满意的。文章还讨论了这一点对于黑洞内部和 gravitational 路径积分的影响。</title><link>https://arxiv.org/abs/2408.02720</link><description>&amp;lt;p&amp;gt;
+Do holographic CFT states have unique semiclassical bulk duals?
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2408.02720
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章提出，某些 holographical CFT 状态可能有多重半经典 Bulk 对等体。在给定的例子中，一个特定的 holographical 状态既可以解释为一个闭合宇宙，通过 gravitational 路径积分构建，也可以解释为没有闭合宇宙，通过 extrapolate 字典构建。这揭示了 AdS/CFT 字典中的一个歧义。文章提出了多种解决这一紧张局势的方案，尽管没有方案是完全满意的。文章还讨论了这一点对于黑洞内部和 gravitational 路径积分的影响。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2408.02720v1 Announce Type: new  Abstract: We discuss a situation where a holographic CFT state has multiple semiclassical bulk duals. In our example, a given holographic state has two simple, semiclassical descriptions, one with a closed universe, constructed using the gravitational path integral, and one without a closed universe, constructed using the extrapolate dictionary. This highlights an ambiguity in the AdS/CFT dictionary. We propose various options for resolving this tension although none are perfectly satisfactory. We also discuss what this implies for the black hole interior and the gravitational path integral.
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章重点探讨了在非奇点 bounce 有效场论框架下，用以解决脉冲阵列定时观测中产生的中子星潮汐扰动信号的物理黑洞 (PHB) 过量产出的问题。通过分析方程状态参数 $w$ 的广泛取值，文章强调了在解释最新脉冲阵列定时数据时，这一参数对于避免过多 PHB 产出的重要性。研究确定了一个最优的 $w$ 参数窗口，即 $0.31 \leq w \leq 1/3$，该窗口内 PHB 的丰度落在 $f_{\rm PBH} \in (10^{-3},1)$，且产生的大质量 PHB 星体在 $M_{\rm PBH}\sim {\cal O}(10^{-7}-10^{-3})M_{\odot}$ 的范围内。在考虑脉冲阵列定时数据的情况下，文章发现消除过量产出的条件为 $1\sigma-2\sigma$ 的置信区间，对应的 $w$ 参数值在 $0.31&lt;w\leq 1/3$ 的狭窄窗口内。文章提出了一个整化-规约-重数 (RRR) 的标量功率重整化方法来解决这一问题。</title><link>https://arxiv.org/abs/2407.18976</link><description>&amp;lt;p&amp;gt;
+Obviating PBH overproduction for SIGWs generated by Pulsar Timing Arrays in loop corrected EFT of bounce
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2407.18976
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章重点探讨了在非奇点 bounce 有效场论框架下，用以解决脉冲阵列定时观测中产生的中子星潮汐扰动信号的物理黑洞 (PHB) 过量产出的问题。通过分析方程状态参数 $w$ 的广泛取值，文章强调了在解释最新脉冲阵列定时数据时，这一参数对于避免过多 PHB 产出的重要性。研究确定了一个最优的 $w$ 参数窗口，即 $0.31 \leq w \leq 1/3$，该窗口内 PHB 的丰度落在 $f_{\rm PBH} \in (10^{-3},1)$，且产生的大质量 PHB 星体在 $M_{\rm PBH}\sim {\cal O}(10^{-7}-10^{-3})M_{\odot}$ 的范围内。在考虑脉冲阵列定时数据的情况下，文章发现消除过量产出的条件为 $1\sigma-2\sigma$ 的置信区间，对应的 $w$ 参数值在 $0.31&amp;lt;w\leq 1/3$ 的狭窄窗口内。文章提出了一个整化-规约-重数 (RRR) 的标量功率重整化方法来解决这一问题。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2407.18976v2 Announce Type: replace-cross  Abstract: In order to unravel the present situation of the PBH overproduction problem, our study emphasizes the critical role played by the equation of state (EoS) parameter $w$ within the framework of effective field theory (EFT) of non-singular bounce. Our analysis focuses on a wide range of EoS parameter values that are still optimal for explaining the latest data from the pulsar timing array (PTA). As a result of our study, the most advantageous window, $0.31 \leq w \leq 1/3$, is identified as the location of a substantial PBH abundance, $f_{\rm PBH} \in (10^{-3},1)$ with large mass PBHs, $M_{\rm PBH}\sim {\cal O}(10^{-7}-10^{-3})M_{\odot}$, in the SIGW interpretation of the PTA signal. When confronted with PTA, we find that the overproduction avoiding circumstances are between $1\sigma-2\sigma$, while the EoS parameter lies inside the narrow window, $0.31&amp;lt;w\leq 1/3$. We propose a regularized-renormalized-resummed (RRR) scalar power 
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章通过计算N=4 Chern-Simons-matter理论中1/2 BPS Wilson线的局部插入物关联函数，研究了在该线支持下的缺陷CFT的守恒律，识别了超级位移多重态，并讨论了其弱耦合环境的实现形式。通过使用超空间描述，文章展示了超级位移四点函数，并表明了它们是如何由交叉比函数决定的。通过分析性质bootstrap方法，文章在强耦合时得到了这些函数的leading和next-to-leading阶的结果，这与arXiv:2004.07849中考虑的ABJM情形相符。</title><link>https://arxiv.org/abs/2406.13571</link><description>&amp;lt;p&amp;gt;
+Bootstrap of the defect 1/2 BPS Wilson lines in N=4 Chern-Simons-matter theories
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2406.13571
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章通过计算N=4 Chern-Simons-matter理论中1/2 BPS Wilson线的局部插入物关联函数，研究了在该线支持下的缺陷CFT的守恒律，识别了超级位移多重态，并讨论了其弱耦合环境的实现形式。通过使用超空间描述，文章展示了超级位移四点函数，并表明了它们是如何由交叉比函数决定的。通过分析性质bootstrap方法，文章在强耦合时得到了这些函数的leading和next-to-leading阶的结果，这与arXiv:2004.07849中考虑的ABJM情形相符。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2406.13571v2 Announce Type: replace  Abstract: We compute correlation functions of local operator insertions on the 1/2 BPS Wilson lines of N=4 Chern-Simons-matter theories in 3 dimensions. We study the algebra preserved by the defect CFT supported on the line, identify the superdisplacement multiplet and discuss some of its weak-coupling realizations. By employing a superspace description, we present the 4-point functions of the superdisplacement and show how they are determined by functions of cross-ratios. Within an analytic bootstrap approach, we derive these functions at leading and next-to-leading order at strong coupling, obtaining a result in agreement with appropriate orbifolds of the ABJM case considered in arXiv:2004.07849.
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章研究了修改后的 loops quantum cosmology（LQC）模型下的宇宙演化的通性，指出不论采用哪种不同的inflationary potential，从量子 bounce之前的进化到bounce之后的进化都是普遍的，并且弱依赖于inflationary potential，只要在bounce时刻动能占据主导。</title><link>https://arxiv.org/abs/2406.06745</link><description>&amp;lt;p&amp;gt;
+Universal properties of the evolution of the Universe in modified loop quantum cosmology
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2406.06745
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章研究了修改后的 loops quantum cosmology（LQC）模型下的宇宙演化的通性，指出不论采用哪种不同的inflationary potential，从量子 bounce之前的进化到bounce之后的进化都是普遍的，并且弱依赖于inflationary potential，只要在bounce时刻动能占据主导。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2406.06745v2 Announce Type: replace-cross  Abstract: In this paper, we systematically study the evolution of the Universe in the framework of a modified loop quantum cosmological model (mLQC-I) with various inflationary potentials, including chaotic, Starobinsky, generalized Starobinsky, polynomials of the first and second kinds, generalized T- models and natural inflation. In all these models, the big bang singularity is represented by a quantum bounce, and the evolution of the Universe both before and after the bounce is universal and weakly depends on the inflationary potentials, as long as the evolution is dominated by the kinetic energy of the inflaton at the bounce. In particular, the evolution in the pre-bounce region can be universally divided into three different phases: pre-bouncing, pre-transition, and pre-de Sitter. The pre-bouncing phase occurs immediately before the quantum bounce, during which the evolution of the Universe is dominated by the kinetic energy of the 
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章研究了标准模型中可能存在的磁单极子，并对涉及夸克、轻子和中子的磁单极子催化过程进行了分析，确认了磁单极子催化过程在标准模型中的普遍性和独立性。</title><link>https://arxiv.org/abs/2405.18689</link><description>&amp;lt;p&amp;gt;
+Monopoles and Fermions in the Standard Model
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2405.18689
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章研究了标准模型中可能存在的磁单极子，并对涉及夸克、轻子和中子的磁单极子催化过程进行了分析，确认了磁单极子催化过程在标准模型中的普遍性和独立性。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2405.18689v2 Announce Type: replace-cross  Abstract: We consider all magnetic monopoles that could have settled in the Standard Model after descending from a generic microscopic theory. These monopoles have Standard Model quantum numbers, are stable, and we also require that their magnetic fluxes are consistent with the electroweak symmetry breaking. Scattering processes involving quarks, leptons and protons on these monopoles are studied using partial waves decomposition. These processes in the lowest partial wave are known to be unsuppressed by the monopole mass and are relevant for monopole catalysis of proton decay. We provide estimates for scattering cross-sections and investigate and confirm the applicability of the twisted sector approach to scattering processes on these Standard Model monopoles. We find that the SM monopole catalysis processes are universal and model-independent.
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章发现线性化引力中的磁荷可以通过类似于Penrose的几何重排表示法表示，并针对线性化Kaluza-Klein单极子进行了分类搜索，找到了其他可能的几何重排表示法的磁荷表达式。</title><link>https://arxiv.org/abs/2405.08876</link><description>&amp;lt;p&amp;gt;
+Gauge-invariant magnetic charges in linearised gravity
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2405.08876
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章发现线性化引力中的磁荷可以通过类似于Penrose的几何重排表示法表示，并针对线性化Kaluza-Klein单极子进行了分类搜索，找到了其他可能的几何重排表示法的磁荷表达式。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2405.08876v2 Announce Type: replace  Abstract: Linearised gravity has magnetic charges carried by (linearised) Kaluza-Klein monopoles. A gauge-invariant expression is found for these charges that is similar to Penrose's gauge-invariant expression for the ADM charges. A systematic search is made for other gauge-invariant charges.
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章发展了一种新的框架，其中包含了引力、量子色动力学和量子电动力学的局部分布义康托夫斯（Chern-Simons）项，这些项在3+1维空间中具有局部尺度不变性。这些新的尺度不变性使得原有的标准模型与广义相对论相结合的模型在时空奇点附近出现了新的物理现象，特别是与强引力场相关的预测与标准模型的预测存在显著差异。</title><link>https://arxiv.org/abs/2405.05510</link><description>&amp;lt;p&amp;gt;
+Locally Scale Invariant Chern-Simons Actions in 3+1 Dimensions and Their Emergence From 4+2 Dimensional 2T-Physics
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2405.05510
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章发展了一种新的框架，其中包含了引力、量子色动力学和量子电动力学的局部分布义康托夫斯（Chern-Simons）项，这些项在3+1维空间中具有局部尺度不变性。这些新的尺度不变性使得原有的标准模型与广义相对论相结合的模型在时空奇点附近出现了新的物理现象，特别是与强引力场相关的预测与标准模型的预测存在显著差异。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2405.05510v2 Announce Type: replace  Abstract: The traditional Chern-Simons (CS) terms in 3+1 dimensions that modify General Relativity (GR), Quantum Chromodynamics (QCD), and Quantum Electrodynamics (QED), typically lack scale invariance. However, a locally scale invariant and geodesically complete framework for the Standard Model (SM) coupled to GR was previously constructed by employing a tailored form of local scale (Weyl) symmetry. This refined SM+GR model closely resembles the conventional SM in subatomic realms where gravitational effects are negligible. Nevertheless, it offers an intriguing prediction: the emergence of new physics beyond the traditional SM and GR near spacetime singularities, characterized by intense gravity and substantial deviations in the Higgs field. In this study, we expand upon the enhanced SM+GR by incorporating Weyl invariant CS terms for gravity, QCD, and QED in 3+1 dimensions, thereby integrating CS contributions within the locally scale-invaria
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章提出将量子场论中的有限重标度群视为无限维Lie群，并证明了对于有限重标化下的 gauge耦合常数的生成元满足Witt代数的对易关系，从而形成其子代数。此外，文章还探讨了在耦合常数和基本费米子场的重标化下的更一般情况的对易关系。此外，文章还构建了对应于重标化尺度变化的阿贝尔子群的生成元，并给出了在β函数和异常维度下的生成元表达式。文章还解释了如何使用指数映射来得到在对易子的作用下β函数和异常维度下的有限变化。</title><link>https://arxiv.org/abs/2404.15856</link><description>&amp;lt;p&amp;gt;
+Algebraic structure of the renormalization group in the renormalizable QFT theories
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2404.15856
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章提出将量子场论中的有限重标度群视为无限维Lie群，并证明了对于有限重标化下的 gauge耦合常数的生成元满足Witt代数的对易关系，从而形成其子代数。此外，文章还探讨了在耦合常数和基本费米子场的重标化下的更一般情况的对易关系。此外，文章还构建了对应于重标化尺度变化的阿贝尔子群的生成元，并给出了在β函数和异常维度下的生成元表达式。文章还解释了如何使用指数映射来得到在对易子的作用下β函数和异常维度下的有限变化。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2404.15856v2 Announce Type: replace  Abstract: We consider the group formed by finite renormalizations as an infinite-dimensional Lie group. It is demonstrated that for the finite renormalization of the gauge coupling constant its generators $\hat L_n$ with $n\ge 1$ satisfy the commutation relations of the Witt algebra and, therefore, form its subalgebra. The commutation relations are also written for the more general case when finite renormalizations are made for both the coupling constant and matter fields. We also construct the generator of the Abelian subgroup corresponding to the changes of the renormalization scale. The explicit expressions for the renormalization group generators are written in the case when they act on the $\beta$-function and the anomalous dimension. It is explained how the finite changes of these functions under the finite renormalizations can be obtained with the help of the exponential map.
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章通过在loop quantum cosmology背景下对$\alpha$-attractor模型的背景动力学进行研究，特别是分析了这些模型中的通货膨胀阶段的时间长度，以及紧随其后的量子跳跃。研究结果表明，可以从这些模型的预测中为参数$\alpha$以及Barbero-Immirzi参数施加限制。此外，对宇宙学扰动的梯度和标量比的约束进一步限制了不同$\alpha$吸引子模型（如T、E和$n=2$模型）中$\alpha$的值，例如对于$n=0$、$n=1$和$n=2$的模型，其$\alpha$值分别小于或等于10、17和67。这项研究对理解宇宙的早期宇宙学阶段和预测宇宙学的未来实验观察具有重要意义。</title><link>https://arxiv.org/abs/2404.10149</link><description>&amp;lt;p&amp;gt;
+$\alpha$-attractor potentials in loop quantum cosmology
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2404.10149
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章通过在loop quantum cosmology背景下对$\alpha$-attractor模型的背景动力学进行研究，特别是分析了这些模型中的通货膨胀阶段的时间长度，以及紧随其后的量子跳跃。研究结果表明，可以从这些模型的预测中为参数$\alpha$以及Barbero-Immirzi参数施加限制。此外，对宇宙学扰动的梯度和标量比的约束进一步限制了不同$\alpha$吸引子模型（如T、E和$n=2$模型）中$\alpha$的值，例如对于$n=0$、$n=1$和$n=2$的模型，其$\alpha$值分别小于或等于10、17和67。这项研究对理解宇宙的早期宇宙学阶段和预测宇宙学的未来实验观察具有重要意义。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2404.10149v2 Announce Type: replace-cross  Abstract: We perform in this work an analysis of the background dynamics for $\alpha$-attractor models in the context of loop quantum cosmology. Particular attention is given to the determination of the duration of the inflationary phase that is preceded by the quantum bounce in these models. From an analysis of the general predictions for these models, it is shown that we can be able to put constraints in the parameter $\alpha$ of the potentials and also on the quantum model itself, especially the Barbero-Immirzi parameter. In particular, the constraints on the tensor-to-scalar ratio and spectral tilt of the cosmological perturbations limit the $\alpha$ parameter of the potentials to values such that $\alpha_{n=0} \lesssim 10$, $\alpha_{n=1} \lesssim 17$ and $\alpha_{n=2} \lesssim 67$, for the $\alpha$ attractors T, E, and $n=2$ models, respectively. Using the constraints on the minimal amount of e-folds of expansion from the quantum bo
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章创新性地应用了协变相空间方法，分析了2+1维纯爱因斯坦引力中的因果钻石的简化相空间。研究发现，简化相空间由一组具有双重几何解释的电量参数化。这些电量代表钻石角的局部几何观测，并产生 Diffeomorphism 群。电量之间的泊松括约闭合成一个量子群。因此，这些钻石角的电量可以重建钻石几何，实现一种形式的局部霍金假说。文章将这些结果与现有的文献进行了对比，并讨论了时空几何的量子描述所面临的挑战。</title><link>https://arxiv.org/abs/2404.03014</link><description>&amp;lt;p&amp;gt;
+On the Charge Algebra of Causal Diamonds in Three Dimensional Gravity
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2404.03014
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章创新性地应用了协变相空间方法，分析了2+1维纯爱因斯坦引力中的因果钻石的简化相空间。研究发现，简化相空间由一组具有双重几何解释的电量参数化。这些电量代表钻石角的局部几何观测，并产生 Diffeomorphism 群。电量之间的泊松括约闭合成一个量子群。因此，这些钻石角的电量可以重建钻石几何，实现一种形式的局部霍金假说。文章将这些结果与现有的文献进行了对比，并讨论了时空几何的量子描述所面临的挑战。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2404.03014v2 Announce Type: replace  Abstract: Covariant phase space methods are applied to the analysis of a causal diamond in 2+1-dimensional pure Einstein gravity. It is found that the reduced phase space is parametrized by a family of charges with a dual geometrical interpretation: they are geometric observables on the corner of the diamond, and they generate diffeomorphisms. The Poisson brackets among them close into an algebra. Knowledge of the corner charges therefore permits reconstruction of the diamond geometry, which realizes a form of local holography. The results are contrasted with the literature, and the path to a quantum description of spacetime geometry is discussed.
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章利用AdS/QCD理论，通过升级模型到包含更多变量的瞬子气体，获得了关于中子星等离子体的更为准确和复杂的方程，这仅通过一个可调参数来描述。</title><link>https://arxiv.org/abs/2403.20240</link><description>&amp;lt;p&amp;gt;
+Deriving Neutron Star Equation of State from AdS/QCD
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2403.20240
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章利用AdS/QCD理论，通过升级模型到包含更多变量的瞬子气体，获得了关于中子星等离子体的更为准确和复杂的方程，这仅通过一个可调参数来描述。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2403.20240v2 Announce Type: replace-cross  Abstract: Neutron stars are among the main targets for gravitational wave observatories, however, their equation of state is still not well established. Mainly phenomenological models with many parameters are widely used by far, while theoretical models are not so practical. In arXiv:1902.08477, a theoretical equation of state with only one parameter is derived from Witten-Sakai-Sugimoto model, as an application of AdS/QCD, where pointlike instanton case is taken into consideration. When the tidal deformability constraint from gravitational wave event is satisfied, the maximum mass is about 1.7 solar masses. Now we upgrade this model to instanton gas, with one more variable, the instanton width. This is not naively a free parameter, but a function of the chemical potential. Thus we end up with a more complicated and accurate model, but still with only one adjustable parameter. In this case, we find the maximum mass becomes 1.85 solar mas
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章研究了从点源产生的新型拓扑变化的时空结构，并采用了一种非海瑟夫模型来描述拓扑变化，该方法使得初始的点源能在不变性条件下沿虚无光线传播，最终形成一个可以进行同调的研究区域。论文还探讨了在这种拓扑变化时空中的引力作用，并提出了一种新的时空拓扑变化的描述方法，以及对它们在量子引力路径积分中的影响。</title><link>https://arxiv.org/abs/2403.04281</link><description>&amp;lt;p&amp;gt;
+Topology Change from Pointlike Sources
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2403.04281
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章研究了从点源产生的新型拓扑变化的时空结构，并采用了一种非海瑟夫模型来描述拓扑变化，该方法使得初始的点源能在不变性条件下沿虚无光线传播，最终形成一个可以进行同调的研究区域。论文还探讨了在这种拓扑变化时空中的引力作用，并提出了一种新的时空拓扑变化的描述方法，以及对它们在量子引力路径积分中的影响。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2403.04281v2 Announce Type: replace-cross  Abstract: In this paper we study topology-changing spacetimes occurring from pointlike sources. Following an old idea of Penrose, we will opt for a non-Hausdorff model of topology change in which an initial pointlike source is ``doubled" and allowed to propagate along null rays into an eventual cobordism. By appealing to recent developments in non-Hausdorff differential geometry, we will describe and evaluate gravitational actions on these topology-changing spacetimes. Motivated by analogous results for the Trousers space, we describe a sign convention for Lorentzian angles that will ensure the dampening of our non-Hausdorff topology-changing spacetimes within a two-dimensional path integral for gravity.
+&amp;lt;/p&amp;gt;</description></item><item><title>用户输入的内容表明，该文章研究了持续性永恒膨胀和非持续性永恒膨胀之间的联系，以及它们与宇宙景观中的de Sitter定理的关联。作者提出了一种新的相关性指标，能够使用CMB（宇宙微波背景辐射）数据来评估永恒的（弦理论）通胀模型，并探讨了量子波动对非吸引子阶段的影响。此外，文章还提出了一个更为严格的测试标准，以评估预测结果，并且揭示了在宇宙景观中的低能量有效场理论中，精炼的de Sitter猜想参数与永恒膨胀的关联。文章还提出了宇宙舞台可能拥抱“多宇宙”情景的可能性，强调了在宇宙景观中发生的永恒行为的一般倾向。</title><link>https://arxiv.org/abs/2401.17730</link><description>&amp;lt;p&amp;gt;
+Non-perpetual Eternal Inflation and the Emergent de Sitter Swampland Conjecture
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2401.17730
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+用户输入的内容表明，该文章研究了持续性永恒膨胀和非持续性永恒膨胀之间的联系，以及它们与宇宙景观中的de Sitter定理的关联。作者提出了一种新的相关性指标，能够使用CMB（宇宙微波背景辐射）数据来评估永恒的（弦理论）通胀模型，并探讨了量子波动对非吸引子阶段的影响。此外，文章还提出了一个更为严格的测试标准，以评估预测结果，并且揭示了在宇宙景观中的低能量有效场理论中，精炼的de Sitter猜想参数与永恒膨胀的关联。文章还提出了宇宙舞台可能拥抱“多宇宙”情景的可能性，强调了在宇宙景观中发生的永恒行为的一般倾向。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2401.17730v3 Announce Type: replace  Abstract: We introduce a novel correlation, $n_s$ - $\Delta N$, connecting CMB parameters to the required total e-folds for eternal inflation. This correlation provides a robust tool for evaluating eternal (string) inflation models using CMB data and explores the impact of quantum fluctuations on non-attractor phases. By generalizing eternal inflation criteria, our parameterization simplifies rigorous testing of predictions and reveals a link between refined de Sitter conjecture parameters and the eternal nature of the cosmic landscape. This points to a general tendency towards eternal behavior in low-energy effective field theories within the landscape, opening the possibility for our cosmic stage to potentially embrace a 'multiverse' scenario.
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章研究了修正拓扑弦 partition function 在高度耦合的 string 耦合常数 $g_s$ 下的 resurgence 结构，以及在固定修正参数 $\mathsf{b}$ 下的大数情况。文章发现，对于 $\mathsf{b}\neq 1$ 的情况，Borel 变换存在两组简单的极点，对应于依照 $\mathsf{b}$ 和 $1/\mathsf{b}$ 调整的本征周期。文章还展示了相应的 Stokes 自同构可以通过非压缩的量子双对数的一般化表达。此外，文章推测 Stokes 常数是由修正的 Donaldson-Thomas 不变量所确定的，这些不变量衡量了不同自旋 $j$ 的 BPS 态数。这种修正拓扑弦 partition 功能的跃变是两个作者以前工作中的一个更一般性波函数变换性质的特殊情况，该性质出现在量子扭结肿块上。文章还显示了这一性质可以从弦子的变换性质推导得到。</title><link>https://arxiv.org/abs/2311.17638</link><description>&amp;lt;p&amp;gt;
+Resurgence of Refined Topological Strings and Dual Partition Functions
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2311.17638
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章研究了修正拓扑弦 partition function 在高度耦合的 string 耦合常数 $g_s$ 下的 resurgence 结构，以及在固定修正参数 $\mathsf{b}$ 下的大数情况。文章发现，对于 $\mathsf{b}\neq 1$ 的情况，Borel 变换存在两组简单的极点，对应于依照 $\mathsf{b}$ 和 $1/\mathsf{b}$ 调整的本征周期。文章还展示了相应的 Stokes 自同构可以通过非压缩的量子双对数的一般化表达。此外，文章推测 Stokes 常数是由修正的 Donaldson-Thomas 不变量所确定的，这些不变量衡量了不同自旋 $j$ 的 BPS 态数。这种修正拓扑弦 partition 功能的跃变是两个作者以前工作中的一个更一般性波函数变换性质的特殊情况，该性质出现在量子扭结肿块上。文章还显示了这一性质可以从弦子的变换性质推导得到。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2311.17638v2 Announce Type: replace  Abstract: We study the resurgent structure of the refined topological string partition function on a non-compact Calabi-Yau threefold, at large orders in the string coupling constant $g_s$ and fixed refinement parameter $\mathsf{b}$. For $\mathsf{b}\neq 1$, the Borel transform admits two families of simple poles, corresponding to integral periods rescaled by $\mathsf{b}$ and $1/\mathsf{b}$. We show that the corresponding Stokes automorphism is expressed in terms of a generalization of the non-compact quantum dilogarithm, and we conjecture that the Stokes constants are determined by the refined Donaldson-Thomas invariants counting spin-$j$ BPS states. This jump in the refined topological string partition function is a special case (unit five-brane charge) of a more general transformation property of wave functions on quantum twisted tori introduced in earlier work by two of the authors. We show that this property follows from the transformation
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章从电荷线操作者的截止到局部操作者的屏幕数据出发，研究了4d $\mathcal{N} = 2$ 类 $\mathcal{S}[A_{N-1}]$ 理论的全局形式缺陷组。通过完全常规刺点的具体构造BPS纤维，表明了缺陷组是 $(\mathbb{Z}_N)^{2g}$，其中H是对应 Riemann面数的生成数。这决定了五维对称拓扑量子场论中的表面对象的一个分区。文章还展示了这些可以从M理论的维度还原中识别出来。</title><link>https://arxiv.org/abs/2311.16224</link><description>&amp;lt;p&amp;gt;
+Defect groups of class $\mathcal{S}$ theories from the Coulomb branch
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2311.16224
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章从电荷线操作者的截止到局部操作者的屏幕数据出发，研究了4d $\mathcal{N} = 2$ 类 $\mathcal{S}[A_{N-1}]$ 理论的全局形式缺陷组。通过完全常规刺点的具体构造BPS纤维，表明了缺陷组是 $(\mathbb{Z}_N)^{2g}$，其中H是对应 Riemann面数的生成数。这决定了五维对称拓扑量子场论中的表面对象的一个分区。文章还展示了这些可以从M理论的维度还原中识别出来。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2311.16224v2 Announce Type: replace  Abstract: We study the global forms of class $\mathcal{S}[A_{N-1}]$ 4d $\mathcal{N} = 2$ theories by deriving their defect groups (charges of line operators up to screening by local operators) from Coulomb branch data. Specifically, we employ an explicit construction of the BPS quiver for the case of full regular punctures to show that the defect group is $(\mathbb{Z}_N)^{2g}$, where $g$ is the genus of the associated Riemann surface. This determines a sector of surface operators in the 5d symmetry TFT. We show how these can also be identified from dimensional reduction of M-theory.
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章提出并在强耦合场理论边界的gauge/gravity duality框架下验证了一种新的方法，该方法使用Einstein-Klein-Gordon模型来模拟不同的相变类型。研究表明，在第二类相变附近，传统的hydrodynamic expansion（渐近自由能）会失效，而对于第一类相变和 crossover，这个结论不成立。此外，关于模型中的时间和温度，原始作者并未提及具体的温度范围或相应的物理意义。在一系列图像和分析中，原作者详细讨论了不同类型的相变，并在不同类型的相变中得到了不同的结论。</title><link>https://arxiv.org/abs/2309.14773</link><description>&amp;lt;p&amp;gt;
+Relativistic hydrodynamics with phase transition
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2309.14773
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章提出并在强耦合场理论边界的gauge/gravity duality框架下验证了一种新的方法，该方法使用Einstein-Klein-Gordon模型来模拟不同的相变类型。研究表明，在第二类相变附近，传统的hydrodynamic expansion（渐近自由能）会失效，而对于第一类相变和 crossover，这个结论不成立。此外，关于模型中的时间和温度，原始作者并未提及具体的温度范围或相应的物理意义。在一系列图像和分析中，原作者详细讨论了不同类型的相变，并在不同类型的相变中得到了不同的结论。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2309.14773v2 Announce Type: replace  Abstract: Assessing the applicability of hydrodynamic expansions close to phase transition points is crucial from either theoretical or phenomenological points of view. We explore this within the gauge/gravity duality, using the Einstein-Klein-Gordon model, a bottom-up string theory construction. This model incorporates a parameter, $B_4$, that simulates different types of phase transitions in the strongly coupled field theory existing at the boundary. We thoroughly examine the thermodynamics and dynamics of time-dependent, linearized perturbations in the spin-2, spin-1, and spin-0 sectors. Our findings suggest that "hydrodynamic series breakdown near transition points" is valid exclusively for second-order phase transitions, not for crossovers or first-order phase transitions. Additionally, we observe that the high-temperature and low-temperature limits of the radius of convergence for the hydrodynamic series ($q^2_c$) are equal. We also disc
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章提出了一个从扩展的 electroweak 对称性出发的斯科奥格模型，证明了更高弱等效力 $SU(3)_L$ 能够将暗物质与正常物质统一在等效多重态中，其中暗物质携带着一种守恒的暗电荷，而正常物质则没有。这种模型中的对称性由 $SU(3)_C\otimes SU(3)_L \otimes U(1)_X\otimes U(1)_G$ 给出，其中第一因子是色群，其余的定义了一个斯科欧电弱理论，其中 $X$ 和 $G$ 决定了电荷 $Q=T_3-1/\sqrt{3}T_8+X$ 和暗电荷 $D=-2/\sqrt{3}T_8+G$。这一设 计为中微子提供了适当的斯科奥生成机制，并为暗物质稳定性提供了解释，因为这种稳定性由残留的暗 parity $P_D=(-1)^D$ 所保持。同时，文章还讨论了暗电荷的解读，因为 $SU(3)_L$ 在非常高的能量尺度上被打破。</title><link>https://arxiv.org/abs/2309.12091</link><description>&amp;lt;p&amp;gt;
+Scotogenic model from an extended electroweak symmetry
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2309.12091
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章提出了一个从扩展的 electroweak 对称性出发的斯科奥格模型，证明了更高弱等效力 $SU(3)_L$ 能够将暗物质与正常物质统一在等效多重态中，其中暗物质携带着一种守恒的暗电荷，而正常物质则没有。这种模型中的对称性由 $SU(3)_C\otimes SU(3)_L \otimes U(1)_X\otimes U(1)_G$ 给出，其中第一因子是色群，其余的定义了一个斯科欧电弱理论，其中 $X$ 和 $G$ 决定了电荷 $Q=T_3-1/\sqrt{3}T_8+X$ 和暗电荷 $D=-2/\sqrt{3}T_8+G$。这一设 计为中微子提供了适当的斯科奥生成机制，并为暗物质稳定性提供了解释，因为这种稳定性由残留的暗 parity $P_D=(-1)^D$ 所保持。同时，文章还讨论了暗电荷的解读，因为 $SU(3)_L$ 在非常高的能量尺度上被打破。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2309.12091v2 Announce Type: replace-cross  Abstract: We argue that the higher weak isospin $SU(3)_L$ manifestly unifies dark matter and normal matter in its isomultiplets for which dark matter carries a conserved dark charge while normal matter does not. The resultant gauge symmetry is given by $SU(3)_C\otimes SU(3)_L \otimes U(1)_X\otimes U(1)_G$, where the first factor is the color group, while the rest defines a theory of scotoelectroweak in which $X$ and $G$ determine electric charge $Q=T_3-1/\sqrt{3}T_8+X$ and dark charge $D=-2/\sqrt{3}T_8+G$. This setup provides both appropriate scotogenic neutrino masses and dark matter stability as preserved by a residual dark parity $P_D=(-1)^D$. Interpretation of the dark charge is further discussed, given that $SU(3)_L$ is broken at very high energy scale.
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章提出了一个改进的量子通信场景，其中接收器允许一个额外的“不确定”测量结果，并采用了一种基于解码消息错误概率的错误度量，这种概率是在接收器获得确定结果的情况下计算的。文章将这种设置称为“后选择通信”，并定义了最高可达成的通信速度为“后选择通信容量”。文章还提供了一个精确的单字母特征化，给出了该通道的“量子纠缠辅助容量”和“非信号辅助容量”的单字母特征化，这证明了两者都与通道的“投影互信息量”相等，而“投影互信息量”是基于“希尔伯特投影距离”的互信息变种。文章通过确定后选择通信容量以及非信号辅助和量子纠缠辅助的界限，证明了这两个界限都是通道的客观信息量。</title><link>https://arxiv.org/abs/2308.02583</link><description>&amp;lt;p&amp;gt;
+Postselected communication over quantum channels
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/2308.02583
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章提出了一个改进的量子通信场景，其中接收器允许一个额外的“不确定”测量结果，并采用了一种基于解码消息错误概率的错误度量，这种概率是在接收器获得确定结果的情况下计算的。文章将这种设置称为“后选择通信”，并定义了最高可达成的通信速度为“后选择通信容量”。文章还提供了一个精确的单字母特征化，给出了该通道的“量子纠缠辅助容量”和“非信号辅助容量”的单字母特征化，这证明了两者都与通道的“投影互信息量”相等，而“投影互信息量”是基于“希尔伯特投影距离”的互信息变种。文章通过确定后选择通信容量以及非信号辅助和量子纠缠辅助的界限，证明了这两个界限都是通道的客观信息量。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:2308.02583v3 Announce Type: replace-cross  Abstract: The single-letter characterisation of the entanglement-assisted capacity of a quantum channel is one of the seminal results of quantum information theory. In this paper, we consider a modified communication scenario in which the receiver is allowed an additional, `inconclusive' measurement outcome, and we employ an error metric given by the error probability in decoding the transmitted message conditioned on a conclusive measurement result. We call this setting postselected communication and the ensuing highest achievable rates the postselected capacities. Here, we provide a precise single-letter characterisation of postselected capacities in the setting of entanglement assistance as well as the more general nonsignalling assistance, establishing that they are both equal to the channel's projective mutual information -- a variant of mutual information based on the Hilbert projective metric. We do so by establishing bounds on th
+&amp;lt;/p&amp;gt;</description></item><item><title>该文章揭示了三维量子引力理论与Ising模型的双关性，并证明在参数κ的特定值下，三 dimensional gravity可以由SLE描述，这为理解三维宇宙的随机性质和引力双关性提供了新视角。</title><link>https://arxiv.org/abs/1912.02694</link><description>&amp;lt;p&amp;gt;
+Three Dimensional Gravity and Schramm-Loewner Evolution
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+https://arxiv.org/abs/1912.02694
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+该文章揭示了三维量子引力理论与Ising模型的双关性，并证明在参数κ的特定值下，三 dimensional gravity可以由SLE描述，这为理解三维宇宙的随机性质和引力双关性提供了新视角。
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+arXiv:1912.02694v3 Announce Type: replace  Abstract: The partition function of three dimensional gravity in the quantum regime is dual to the Ising model when the central charge $c=1/2$. Mathematically, we show that the three dimensional gravity can be described by Schramm-Loewner Evolution(SLE) with certain $\kappa$. In fact, SLE depends on the parameter $\kappa$ which controls the diffusion of the Brownian motion. %Each value of $c &amp;lt; 1$ corresponds to two values of $\kappa$ which are represented by two different phases. Each value of $c &amp;lt; 1$ corresponds to two values of $\kappa$, which may hint that the three dimensional gravity has two different phases at certain central charge c. Moreover, phase transition is also discussed in AdS and Ising model.
+&amp;lt;/p&amp;gt;</description></item></channel></rss>

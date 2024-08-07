@@ -1,0 +1,9 @@
+{
+    "title": "Combinatorial proof of a Non-Renormalization Theorem",
+    "abstract": "arXiv:2408.03192v1 Announce Type: cross  Abstract: We provide a direct combinatorial proof of a Feynman graph identity which implies a wide generalization of a formality theorem by Kontsevich. For a Feynman graph $\\Gamma$, we associate to each vertex a position $x_v \\in \\mathbb R$ and to each edge $e$ the combination $s_e = a_e^{-\\frac 12} \\left( x^+_e - x^-_e \\right)$, where $x^\\pm_e$ are the positions of the two end vertices of $e$ and $a_e$ a Schwinger parameter. The $``$topological propagator$\"$ $P_e = e^{-s_e^2}$d$s_e$ includes a part proportional to d$x_v$ and a part proportional to d$a_e$. Integrating the product of all $P_e$ over positions produces a differential form $\\alpha_\\Gamma$ in the variables $a_e$. We prove that $\\alpha_\\Gamma \\wedge \\alpha_\\Gamma=0$.",
+    "link": "https://arxiv.org/abs/2408.03192",
+    "context": "Title: Combinatorial proof of a Non-Renormalization Theorem\nAbstract: arXiv:2408.03192v1 Announce Type: cross  Abstract: We provide a direct combinatorial proof of a Feynman graph identity which implies a wide generalization of a formality theorem by Kontsevich. For a Feynman graph $\\Gamma$, we associate to each vertex a position $x_v \\in \\mathbb R$ and to each edge $e$ the combination $s_e = a_e^{-\\frac 12} \\left( x^+_e - x^-_e \\right)$, where $x^\\pm_e$ are the positions of the two end vertices of $e$ and $a_e$ a Schwinger parameter. The $``$topological propagator$\"$ $P_e = e^{-s_e^2}$d$s_e$ includes a part proportional to d$x_v$ and a part proportional to d$a_e$. Integrating the product of all $P_e$ over positions produces a differential form $\\alpha_\\Gamma$ in the variables $a_e$. We prove that $\\alpha_\\Gamma \\wedge \\alpha_\\Gamma=0$.",
+    "path": "papers/24/08/2408.03192.json",
+    "total_tokens": 376,
+    "tldr": "该文章通过直接的组合证明，推广了Kontsevich的非同伦性定理，并给出了费曼图标识的一个直接解，从而实现了非同伦性定理在广义形式上的证明。"
+}
