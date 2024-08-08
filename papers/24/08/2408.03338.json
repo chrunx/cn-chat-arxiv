@@ -1,0 +1,9 @@
+{
+    "title": "InLUT3D: Challenging real indoor dataset for point cloud analysis",
+    "abstract": "arXiv:2408.03338v1 Announce Type: new  Abstract: In this paper, we introduce the InLUT3D point cloud dataset, a comprehensive resource designed to advance the field of scene understanding in indoor environments. The dataset covers diverse spaces within the W7 faculty buildings of Lodz University of Technology, characterised by high-resolution laser-based point clouds and manual labelling. Alongside the dataset, we propose metrics and benchmarking guidelines essential for ensuring trustworthy and reproducible results in algorithm evaluation. We anticipate that the introduction of the InLUT3D dataset and its associated benchmarks will catalyse future advancements in 3D scene understanding, facilitating methodological rigour and inspiring new approaches in the field.",
+    "link": "https://arxiv.org/abs/2408.03338",
+    "context": "Title: InLUT3D: Challenging real indoor dataset for point cloud analysis\nAbstract: arXiv:2408.03338v1 Announce Type: new  Abstract: In this paper, we introduce the InLUT3D point cloud dataset, a comprehensive resource designed to advance the field of scene understanding in indoor environments. The dataset covers diverse spaces within the W7 faculty buildings of Lodz University of Technology, characterised by high-resolution laser-based point clouds and manual labelling. Alongside the dataset, we propose metrics and benchmarking guidelines essential for ensuring trustworthy and reproducible results in algorithm evaluation. We anticipate that the introduction of the InLUT3D dataset and its associated benchmarks will catalyse future advancements in 3D scene understanding, facilitating methodological rigour and inspiring new approaches in the field.",
+    "path": "papers/24/08/2408.03338.json",
+    "total_tokens": 288,
+    "tldr": "该文章引入了InLUT3D点云数据集，这是一个专门用于室内环境场景理解的高分辨率激光点云数据集，涵盖了多变的场景空间，并提供了手动标记和评价算法的有效性。"
+}

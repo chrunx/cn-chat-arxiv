@@ -1,0 +1,9 @@
+{
+    "title": "A Comprehensive Survey on Kolmogorov Arnold Networks (KAN)",
+    "abstract": "arXiv:2407.11075v2 Announce Type: replace-cross  Abstract: Through this comprehensive survey of Kolmogorov-Arnold Networks(KAN), we have gained a thorough understanding of its theoretical foundation, architectural design, application scenarios, and current research progress. KAN, with its unique architecture and flexible activation functions, excels in handling complex data patterns and nonlinear relationships, demonstrating wide-ranging application potential. While challenges remain, KAN is poised to pave the way for innovative solutions in various fields, potentially revolutionizing how we approach complex computational problems.",
+    "link": "https://arxiv.org/abs/2407.11075",
+    "context": "Title: A Comprehensive Survey on Kolmogorov Arnold Networks (KAN)\nAbstract: arXiv:2407.11075v2 Announce Type: replace-cross  Abstract: Through this comprehensive survey of Kolmogorov-Arnold Networks(KAN), we have gained a thorough understanding of its theoretical foundation, architectural design, application scenarios, and current research progress. KAN, with its unique architecture and flexible activation functions, excels in handling complex data patterns and nonlinear relationships, demonstrating wide-ranging application potential. While challenges remain, KAN is poised to pave the way for innovative solutions in various fields, potentially revolutionizing how we approach complex computational problems.",
+    "path": "papers/24/07/2407.11075.json",
+    "total_tokens": 288,
+    "tldr": "该文章对Kolmogorov-Arnold Networks（KAN）进行了全面调查，揭示了其在理论基础、架构设计、应用场景和研究进展方面的重要性，特别是其在处理复杂数据模式和非线性关系方面的灵活性和优越性。尽管存在挑战，KAN显示出在多个领域实现创新解决方案的潜力，可能彻底改变我们解决复杂计算问题的能力。"
+}

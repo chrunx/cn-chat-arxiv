@@ -1,0 +1,9 @@
+{
+    "title": "A ripple in time: a discontinuity in American history",
+    "abstract": "arXiv:2312.01185v5 Announce Type: replace-cross  Abstract: In this technical note we suggest a novel approach to discover temporal (related and unrelated to language dilation) and personality (authorship attribution) in historical datasets. We exemplify our approach on the State of the Union speeches given by the past 42 US presidents: this dataset is known for its relatively small amount of data, and high variability of the amount and style of texts. Nevertheless we manage to achieve about 95\\% accuracy on the authorship attribution task, and pin down the date of writing to a single presidential term.",
+    "link": "https://arxiv.org/abs/2312.01185",
+    "context": "Title: A ripple in time: a discontinuity in American history\nAbstract: arXiv:2312.01185v5 Announce Type: replace-cross  Abstract: In this technical note we suggest a novel approach to discover temporal (related and unrelated to language dilation) and personality (authorship attribution) in historical datasets. We exemplify our approach on the State of the Union speeches given by the past 42 US presidents: this dataset is known for its relatively small amount of data, and high variability of the amount and style of texts. Nevertheless we manage to achieve about 95\\% accuracy on the authorship attribution task, and pin down the date of writing to a single presidential term.",
+    "path": "papers/23/12/2312.01185.json",
+    "total_tokens": 277,
+    "tldr": "该文章提出了一个新的方法来识别历史数据集中与时间和个性相关的变化，并通过分析美国前42位总统的国情咨文演讲数据集进行了示范，该方法在作者鉴别任务中达到了95%的准确率，并能够精确到总统任期的日期。"
+}

@@ -1,0 +1,9 @@
+{
+    "title": "Robotic Arm Manipulation with Inverse Reinforcement Learning & TD-MPC",
+    "abstract": "arXiv:2407.12941v2 Announce Type: replace  Abstract: One unresolved issue is how to scale model-based inverse reinforcement learning (IRL) to actual robotic manipulation tasks with unpredictable dynamics. The ability to learn from both visual and proprioceptive examples, creating algorithms that scale to high-dimensional state-spaces, and mastering strong dynamics models are the main obstacles. In this work, we provide a gradient-based inverse reinforcement learning framework that learns cost functions purely from visual human demonstrations. The shown behavior and the trajectory is then optimized using TD visual model predictive control(MPC) and the learned cost functions. We test our system using fundamental object manipulation tasks on hardware.",
+    "link": "https://arxiv.org/abs/2407.12941",
+    "context": "Title: Robotic Arm Manipulation with Inverse Reinforcement Learning & TD-MPC\nAbstract: arXiv:2407.12941v2 Announce Type: replace  Abstract: One unresolved issue is how to scale model-based inverse reinforcement learning (IRL) to actual robotic manipulation tasks with unpredictable dynamics. The ability to learn from both visual and proprioceptive examples, creating algorithms that scale to high-dimensional state-spaces, and mastering strong dynamics models are the main obstacles. In this work, we provide a gradient-based inverse reinforcement learning framework that learns cost functions purely from visual human demonstrations. The shown behavior and the trajectory is then optimized using TD visual model predictive control(MPC) and the learned cost functions. We test our system using fundamental object manipulation tasks on hardware.",
+    "path": "papers/24/07/2407.12941.json",
+    "total_tokens": 292,
+    "tldr": "该文章创新性地提出了一种基于视觉和反向强化学习的机臂操纵方法，通过仅利用人类视觉演示来学习成本函数，并运用TD视觉模型预测控制(MPC)对该成本函数进行优化，成功在现实物理平台上实现了复杂物体的操作任务。"
+}

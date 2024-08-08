@@ -1,0 +1,9 @@
+{
+    "title": "Visualize and Paint GAN Activations",
+    "abstract": "arXiv:2405.15636v3 Announce Type: replace  Abstract: We investigate how generated structures of GANs correlate with their activations in hidden layers, with the purpose of better understanding the inner workings of those models and being able to paint structures with unconditionally trained GANs. This gives us more control over the generated images, allowing to generate them from a semantic segmentation map while not requiring such a segmentation in the training data. To this end we introduce the concept of tileable features, allowing us to identify activations that work well for painting.",
+    "link": "https://arxiv.org/abs/2405.15636",
+    "context": "Title: Visualize and Paint GAN Activations\nAbstract: arXiv:2405.15636v3 Announce Type: replace  Abstract: We investigate how generated structures of GANs correlate with their activations in hidden layers, with the purpose of better understanding the inner workings of those models and being able to paint structures with unconditionally trained GANs. This gives us more control over the generated images, allowing to generate them from a semantic segmentation map while not requiring such a segmentation in the training data. To this end we introduce the concept of tileable features, allowing us to identify activations that work well for painting.",
+    "path": "papers/24/05/2405.15636.json",
+    "total_tokens": 295,
+    "tldr": "该文章通过研究生成对抗网络（GANs）中的生成结构与其隐藏层激活之间的关联性，提出了一种新的方法来更好地理解和控制GANs的生成机制。研究人员通过引入可平铺特征的概念，能够在不需要训练数据中包含相关分割的情况下，基于语义分割图来生成图像。这种方法为GANs的实例化提供了一种新的途径，使得用户可以直接从语义分割图中获取逼真的图像，而不需要训练网络来识别这些分割图。"
+}
