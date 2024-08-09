@@ -1,0 +1,9 @@
+{
+    "title": "Arctic-TILT. Business Document Understanding at Sub-Billion Scale",
+    "abstract": "arXiv:2408.04632v1 Announce Type: cross  Abstract: The vast portion of workloads employing LLMs involves answering questions grounded on PDF or scan content. We introduce the Arctic-TILT achieving accuracy on par with models 1000$\\times$ its size on these use cases. It can be fine-tuned and deployed on a single 24GB GPU, lowering operational costs while processing Visually Rich Documents with up to 400k tokens. The model establishes state-of-the-art results on seven diverse Document Understanding benchmarks, as well as provides reliable confidence scores and quick inference, which are essential for processing files in large-scale or time-sensitive enterprise environments.",
+    "link": "https://arxiv.org/abs/2408.04632",
+    "context": "Title: Arctic-TILT. Business Document Understanding at Sub-Billion Scale\nAbstract: arXiv:2408.04632v1 Announce Type: cross  Abstract: The vast portion of workloads employing LLMs involves answering questions grounded on PDF or scan content. We introduce the Arctic-TILT achieving accuracy on par with models 1000$\\times$ its size on these use cases. It can be fine-tuned and deployed on a single 24GB GPU, lowering operational costs while processing Visually Rich Documents with up to 400k tokens. The model establishes state-of-the-art results on seven diverse Document Understanding benchmarks, as well as provides reliable confidence scores and quick inference, which are essential for processing files in large-scale or time-sensitive enterprise environments.",
+    "path": "papers/24/08/2408.04632.json",
+    "total_tokens": 358,
+    "tldr": "该文章介绍了一种名为Arctic-TILT的模型，它在处理基于PDF或扫描内容的问题时，其准确度与比自身大1000倍大小的模型相当。在单个24GB GPU上可以进行微调并部署，大大降低了运营成本，同时能够处理含有高达400k个词汇的视觉丰富文档。Arctic-TILT在七个不同的文档理解基准测试中取得了领先的结果，并且提供了可靠的置信分数和快速的推理速度，这些都是处理大规模或紧急企业环境中的文件所必需的。"
+}

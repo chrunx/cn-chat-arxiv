@@ -1,0 +1,9 @@
+{
+    "title": "A Survey of AI Reliance",
+    "abstract": "arXiv:2408.03948v1 Announce Type: cross  Abstract: Artificial intelligence (AI) systems have become an indispensable component of modern technology. However, research on human behavioral responses is lagging behind, i.e., the research into human reliance on AI advice (AI reliance). Current shortcomings in the literature include the unclear influences on AI reliance, lack of external validity, conflicting approaches to measuring reliance, and disregard for a change in reliance over time. Promising avenues for future research include reliance on generative AI output and reliance in multi-user situations. In conclusion, we present a morphological box that serves as a guide for research on AI reliance.",
+    "link": "https://arxiv.org/abs/2408.03948",
+    "context": "Title: A Survey of AI Reliance\nAbstract: arXiv:2408.03948v1 Announce Type: cross  Abstract: Artificial intelligence (AI) systems have become an indispensable component of modern technology. However, research on human behavioral responses is lagging behind, i.e., the research into human reliance on AI advice (AI reliance). Current shortcomings in the literature include the unclear influences on AI reliance, lack of external validity, conflicting approaches to measuring reliance, and disregard for a change in reliance over time. Promising avenues for future research include reliance on generative AI output and reliance in multi-user situations. In conclusion, we present a morphological box that serves as a guide for research on AI reliance.",
+    "path": "papers/24/08/2408.03948.json",
+    "total_tokens": 264,
+    "tldr": "该文章创新地探讨了人类对人工智能依赖性行为的研究进展，填补了现有文献中对AI依赖性影响因素、方法测量等研究不足的空白，为未来研究提供了测量AI依赖性的新方法。"
+}

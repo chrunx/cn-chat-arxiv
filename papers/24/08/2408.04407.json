@@ -1,0 +1,9 @@
+{
+    "title": "Clutter Classification Using Deep Learning in Multiple Stages",
+    "abstract": "arXiv:2408.04407v1 Announce Type: cross  Abstract: Path loss prediction for wireless communications is highly dependent on the local environment. Propagation models including clutter information have been shown to significantly increase model accuracy. This paper explores the application of deep learning to satellite imagery to identify environmental clutter types automatically. Recognizing these clutter types has numerous uses, but our main application is to use clutter information to enhance propagation prediction models. Knowing the type of obstruction (tree, building, and further classifications) can improve the prediction accuracy of key propagation metrics such as path loss.",
+    "link": "https://arxiv.org/abs/2408.04407",
+    "context": "Title: Clutter Classification Using Deep Learning in Multiple Stages\nAbstract: arXiv:2408.04407v1 Announce Type: cross  Abstract: Path loss prediction for wireless communications is highly dependent on the local environment. Propagation models including clutter information have been shown to significantly increase model accuracy. This paper explores the application of deep learning to satellite imagery to identify environmental clutter types automatically. Recognizing these clutter types has numerous uses, but our main application is to use clutter information to enhance propagation prediction models. Knowing the type of obstruction (tree, building, and further classifications) can improve the prediction accuracy of key propagation metrics such as path loss.",
+    "path": "papers/24/08/2408.04407.json",
+    "total_tokens": 239,
+    "tldr": "该文章提出了一种深度学习方法，用于自动识别卫星图像中的环境遮蔽类型，这一创新有助于提高无线通信传播模型中遮蔽信息的准确性。"
+}

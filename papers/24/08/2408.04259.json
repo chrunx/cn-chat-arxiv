@@ -1,0 +1,9 @@
+{
+    "title": "EfficientRAG: Efficient Retriever for Multi-Hop Question Answering",
+    "abstract": "arXiv:2408.04259v1 Announce Type: cross  Abstract: Retrieval-augmented generation (RAG) methods encounter difficulties when addressing complex questions like multi-hop queries. While iterative retrieval methods improve performance by gathering additional information, current approaches often rely on multiple calls of large language models (LLMs). In this paper, we introduce EfficientRAG, an efficient retriever for multi-hop question answering. EfficientRAG iteratively generates new queries without the need for LLM calls at each iteration and filters out irrelevant information. Experimental results demonstrate that EfficientRAG surpasses existing RAG methods on three open-domain multi-hop question-answering datasets.",
+    "link": "https://arxiv.org/abs/2408.04259",
+    "context": "Title: EfficientRAG: Efficient Retriever for Multi-Hop Question Answering\nAbstract: arXiv:2408.04259v1 Announce Type: cross  Abstract: Retrieval-augmented generation (RAG) methods encounter difficulties when addressing complex questions like multi-hop queries. While iterative retrieval methods improve performance by gathering additional information, current approaches often rely on multiple calls of large language models (LLMs). In this paper, we introduce EfficientRAG, an efficient retriever for multi-hop question answering. EfficientRAG iteratively generates new queries without the need for LLM calls at each iteration and filters out irrelevant information. Experimental results demonstrate that EfficientRAG surpasses existing RAG methods on three open-domain multi-hop question-answering datasets.",
+    "path": "papers/24/08/2408.04259.json",
+    "total_tokens": 294,
+    "tldr": "该文章提出了一种基于EfficientRAG的更高效的检索机制，能够在不调用大型语言模型的情况下，通过迭代生成新问题和筛选信息，解决了多跳问题回答中的信息整合难题，并且在多跳问答数据集上取得了显著的性能提升。"
+}
